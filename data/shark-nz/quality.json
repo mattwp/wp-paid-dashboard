@@ -1,0 +1,585 @@
+{
+  "lastUpdated": "2026-03-09T00:00:00.000Z",
+  "quality": [
+    {
+      "keyword": "shark vacuum australia",
+      "matchType": "BROAD",
+      "campaign": "shark_PF_GENERIC_GEN003_WARM_SEARCH_ALWAYSON_PURCHASE_NEWZEALAND_NZL",
+      "adGroup": "shark_PF_GENERIC_GEN003_WARM_SHOPPING_ALWAYSON_PURCHASE_NEW-ZELAND-SALEITEMS",
+      "qualityScore": 3,
+      "creativeQualityScore": "BELOW_AVERAGE",
+      "postClickQualityScore": "AVERAGE",
+      "searchPredictedCtr": "BELOW_AVERAGE"
+    },
+    {
+      "keyword": "shark wandvac power max",
+      "matchType": "EXACT",
+      "campaign": "shark_PF_CLEAN_CLN001_WARM_SEARCH_ALWAYSON_PURCHASE_NEWZEALAND_NZL",
+      "adGroup": "shark_PF_CLEAN_WV203_WARM_SEARCH_ALWAYSON_PURCHASE_NEWZEALAND_NZL_WEBPROFITS_KEYWORD",
+      "qualityScore": 5,
+      "creativeQualityScore": "BELOW_AVERAGE",
+      "postClickQualityScore": "AVERAGE",
+      "searchPredictedCtr": "AVERAGE"
+    },
+    {
+      "keyword": "shark wandvac power max",
+      "matchType": "PHRASE",
+      "campaign": "shark_PF_CLEAN_CLN001_WARM_SEARCH_ALWAYSON_PURCHASE_NEWZEALAND_NZL",
+      "adGroup": "shark_PF_CLEAN_WV203_WARM_SEARCH_ALWAYSON_PURCHASE_NEWZEALAND_NZL_WEBPROFITS_KEYWORD",
+      "qualityScore": 5,
+      "creativeQualityScore": "BELOW_AVERAGE",
+      "postClickQualityScore": "AVERAGE",
+      "searchPredictedCtr": "AVERAGE"
+    },
+    {
+      "keyword": "best shark hoover",
+      "matchType": "BROAD",
+      "campaign": "shark_PF_GENERIC_GEN003_WARM_SEARCH_ALWAYSON_PURCHASE_NEWZEALAND_NZL",
+      "adGroup": "shark_PF_GENERIC_GEN003_WARM_SHOPPING_ALWAYSON_PURCHASE_NEW-ZELAND-SALEITEMS",
+      "qualityScore": 5,
+      "creativeQualityScore": "BELOW_AVERAGE",
+      "postClickQualityScore": "AVERAGE",
+      "searchPredictedCtr": "AVERAGE"
+    },
+    {
+      "keyword": "best shark stick vacuum",
+      "matchType": "BROAD",
+      "campaign": "shark_PF_GENERIC_GEN003_WARM_SEARCH_ALWAYSON_PURCHASE_NEWZEALAND_NZL",
+      "adGroup": "shark_PF_GENERIC_GEN003_WARM_SHOPPING_ALWAYSON_PURCHASE_NEW-ZELAND-SALEITEMS",
+      "qualityScore": 5,
+      "creativeQualityScore": "BELOW_AVERAGE",
+      "postClickQualityScore": "ABOVE_AVERAGE",
+      "searchPredictedCtr": "BELOW_AVERAGE"
+    },
+    {
+      "keyword": "shark 2 in 1 vacuum and mop",
+      "matchType": "BROAD",
+      "campaign": "shark_PF_GENERIC_GEN003_WARM_SEARCH_ALWAYSON_PURCHASE_NEWZEALAND_NZL",
+      "adGroup": "shark_PF_GENERIC_GEN003_WARM_SHOPPING_ALWAYSON_PURCHASE_NEW-ZELAND-SALEITEMS",
+      "qualityScore": 5,
+      "creativeQualityScore": "BELOW_AVERAGE",
+      "postClickQualityScore": "ABOVE_AVERAGE",
+      "searchPredictedCtr": "BELOW_AVERAGE"
+    },
+    {
+      "keyword": "shark cordless vacuum with self cleaning brushroll",
+      "matchType": "EXACT",
+      "campaign": "shark_PF_CLEAN_CLN001_WARM_SEARCH_ALWAYSON_PURCHASE_NEWZEALAND_NZL",
+      "adGroup": "shark_PF_CLEAN_IW3611_WARM_SEARCH_ALWAYSON_PURCHASE_NEWZEALAND_NZL_WEBPROFITS_KEYWORD_CORDLESS",
+      "qualityScore": 6,
+      "creativeQualityScore": "AVERAGE",
+      "postClickQualityScore": "AVERAGE",
+      "searchPredictedCtr": "AVERAGE"
+    },
+    {
+      "keyword": "shark cordless vacuum with self cleaning brushroll",
+      "matchType": "PHRASE",
+      "campaign": "shark_PF_CLEAN_CLN001_WARM_SEARCH_ALWAYSON_PURCHASE_NEWZEALAND_NZL",
+      "adGroup": "shark_PF_CLEAN_IW3611_WARM_SEARCH_ALWAYSON_PURCHASE_NEWZEALAND_NZL_WEBPROFITS_KEYWORD_CORDLESS",
+      "qualityScore": 6,
+      "creativeQualityScore": "AVERAGE",
+      "postClickQualityScore": "AVERAGE",
+      "searchPredictedCtr": "AVERAGE"
+    },
+    {
+      "keyword": "shark nz801",
+      "matchType": "EXACT",
+      "campaign": "shark_PF_CLEAN_CLN001_WARM_SEARCH_ALWAYSON_PURCHASE_NEWZEALAND_NZL",
+      "adGroup": "shark_PF_CLEAN_NZ801_WARM_SEARCH_ALWAYSON_PURCHASE_NEWZEALAND_NZL_WEBPROFITS_KEYWORD",
+      "qualityScore": 6,
+      "creativeQualityScore": "AVERAGE",
+      "postClickQualityScore": "AVERAGE",
+      "searchPredictedCtr": "AVERAGE"
+    },
+    {
+      "keyword": "shark nz801",
+      "matchType": "PHRASE",
+      "campaign": "shark_PF_CLEAN_CLN001_WARM_SEARCH_ALWAYSON_PURCHASE_NEWZEALAND_NZL",
+      "adGroup": "shark_PF_CLEAN_NZ801_WARM_SEARCH_ALWAYSON_PURCHASE_NEWZEALAND_NZL_WEBPROFITS_KEYWORD",
+      "qualityScore": 6,
+      "creativeQualityScore": "AVERAGE",
+      "postClickQualityScore": "AVERAGE",
+      "searchPredictedCtr": "AVERAGE"
+    },
+    {
+      "keyword": "shark nz801 vacuum cleaner",
+      "matchType": "PHRASE",
+      "campaign": "shark_PF_CLEAN_CLN001_WARM_SEARCH_ALWAYSON_PURCHASE_NEWZEALAND_NZL",
+      "adGroup": "shark_PF_CLEAN_NZ801_WARM_SEARCH_ALWAYSON_PURCHASE_NEWZEALAND_NZL_WEBPROFITS_KEYWORD",
+      "qualityScore": 6,
+      "creativeQualityScore": "BELOW_AVERAGE",
+      "postClickQualityScore": "AVERAGE",
+      "searchPredictedCtr": "ABOVE_AVERAGE"
+    },
+    {
+      "keyword": "shark nz801 vacuum cleaner",
+      "matchType": "EXACT",
+      "campaign": "shark_PF_CLEAN_CLN001_WARM_SEARCH_ALWAYSON_PURCHASE_NEWZEALAND_NZL",
+      "adGroup": "shark_PF_CLEAN_NZ801_WARM_SEARCH_ALWAYSON_PURCHASE_NEWZEALAND_NZL_WEBPROFITS_KEYWORD",
+      "qualityScore": 6,
+      "creativeQualityScore": "BELOW_AVERAGE",
+      "postClickQualityScore": "AVERAGE",
+      "searchPredictedCtr": "ABOVE_AVERAGE"
+    },
+    {
+      "keyword": "shark nz801 corded upright vacuum with duoclean",
+      "matchType": "EXACT",
+      "campaign": "shark_PF_CLEAN_CLN001_WARM_SEARCH_ALWAYSON_PURCHASE_NEWZEALAND_NZL",
+      "adGroup": "shark_PF_CLEAN_NZ801_WARM_SEARCH_ALWAYSON_PURCHASE_NEWZEALAND_NZL_WEBPROFITS_KEYWORD",
+      "qualityScore": 6,
+      "creativeQualityScore": "BELOW_AVERAGE",
+      "postClickQualityScore": "AVERAGE",
+      "searchPredictedCtr": "ABOVE_AVERAGE"
+    },
+    {
+      "keyword": "shark nz801 corded upright vacuum with duoclean",
+      "matchType": "PHRASE",
+      "campaign": "shark_PF_CLEAN_CLN001_WARM_SEARCH_ALWAYSON_PURCHASE_NEWZEALAND_NZL",
+      "adGroup": "shark_PF_CLEAN_NZ801_WARM_SEARCH_ALWAYSON_PURCHASE_NEWZEALAND_NZL_WEBPROFITS_KEYWORD",
+      "qualityScore": 6,
+      "creativeQualityScore": "BELOW_AVERAGE",
+      "postClickQualityScore": "AVERAGE",
+      "searchPredictedCtr": "ABOVE_AVERAGE"
+    },
+    {
+      "keyword": "shark cordless vacuum reviews",
+      "matchType": "BROAD",
+      "campaign": "shark_PF_GENERIC_GEN003_WARM_SEARCH_ALWAYSON_PURCHASE_NEWZEALAND_NZL",
+      "adGroup": "shark_PF_GENERIC_GEN003_WARM_SHOPPING_ALWAYSON_PURCHASE_NEW-ZELAND-SALEITEMS",
+      "qualityScore": 6,
+      "creativeQualityScore": "BELOW_AVERAGE",
+      "postClickQualityScore": "ABOVE_AVERAGE",
+      "searchPredictedCtr": "AVERAGE"
+    },
+    {
+      "keyword": "shark vacuum near me",
+      "matchType": "BROAD",
+      "campaign": "shark_PF_GENERIC_GEN003_WARM_SEARCH_ALWAYSON_PURCHASE_NEWZEALAND_NZL",
+      "adGroup": "shark_PF_GENERIC_GEN003_WARM_SHOPPING_ALWAYSON_PURCHASE_NEW-ZELAND-SALEITEMS",
+      "qualityScore": 6,
+      "creativeQualityScore": "BELOW_AVERAGE",
+      "postClickQualityScore": "ABOVE_AVERAGE",
+      "searchPredictedCtr": "AVERAGE"
+    },
+    {
+      "keyword": "shark store near me",
+      "matchType": "BROAD",
+      "campaign": "shark_PF_GENERIC_GEN003_WARM_SEARCH_ALWAYSON_PURCHASE_NEWZEALAND_NZL",
+      "adGroup": "shark_PF_GENERIC_GEN003_WARM_SHOPPING_ALWAYSON_PURCHASE_NEW-ZELAND-SALEITEMS",
+      "qualityScore": 6,
+      "creativeQualityScore": "BELOW_AVERAGE",
+      "postClickQualityScore": "ABOVE_AVERAGE",
+      "searchPredictedCtr": "AVERAGE"
+    },
+    {
+      "keyword": "nz801",
+      "matchType": "EXACT",
+      "campaign": "shark_PF_CLEAN_CLN001_WARM_SEARCH_ALWAYSON_PURCHASE_NEWZEALAND_NZL",
+      "adGroup": "shark_PF_CLEAN_NZ801_WARM_SEARCH_ALWAYSON_PURCHASE_NEWZEALAND_NZL_WEBPROFITS_KEYWORD",
+      "qualityScore": 7,
+      "creativeQualityScore": "AVERAGE",
+      "postClickQualityScore": "ABOVE_AVERAGE",
+      "searchPredictedCtr": "AVERAGE"
+    },
+    {
+      "keyword": "nz801",
+      "matchType": "PHRASE",
+      "campaign": "shark_PF_CLEAN_CLN001_WARM_SEARCH_ALWAYSON_PURCHASE_NEWZEALAND_NZL",
+      "adGroup": "shark_PF_CLEAN_NZ801_WARM_SEARCH_ALWAYSON_PURCHASE_NEWZEALAND_NZL_WEBPROFITS_KEYWORD",
+      "qualityScore": 7,
+      "creativeQualityScore": "AVERAGE",
+      "postClickQualityScore": "ABOVE_AVERAGE",
+      "searchPredictedCtr": "AVERAGE"
+    },
+    {
+      "keyword": "sharp vacuum",
+      "matchType": "BROAD",
+      "campaign": "shark_PF_GENERIC_GEN003_WARM_SEARCH_ALWAYSON_PURCHASE_NEWZEALAND_NZL",
+      "adGroup": "shark_PF_GENERIC_GEN003_WARM_SHOPPING_ALWAYSON_PURCHASE_NEW-ZELAND-SALEITEMS",
+      "qualityScore": 7,
+      "creativeQualityScore": "AVERAGE",
+      "postClickQualityScore": "ABOVE_AVERAGE",
+      "searchPredictedCtr": "AVERAGE"
+    },
+    {
+      "keyword": "shark wet vac",
+      "matchType": "BROAD",
+      "campaign": "shark_PF_GENERIC_GEN003_WARM_SEARCH_ALWAYSON_PURCHASE_NEWZEALAND_NZL",
+      "adGroup": "shark_PF_GENERIC_GEN003_WARM_SHOPPING_ALWAYSON_PURCHASE_NEW-ZELAND-SALEITEMS",
+      "qualityScore": 7,
+      "creativeQualityScore": "AVERAGE",
+      "postClickQualityScore": "ABOVE_AVERAGE",
+      "searchPredictedCtr": "AVERAGE"
+    },
+    {
+      "keyword": "shark vacuum cleaners",
+      "matchType": "EXACT",
+      "campaign": "shark_PF_CLEAN_CLN001_WARM_SEARCH_ALWAYSON_PURCHASE_NEWZEALAND_NZL",
+      "adGroup": "shark_PF_CLEAN_IW3611_WARM_SEARCH_ALWAYSON_PURCHASE_NEWZEALAND_NZL_WEBPROFITS_KEYWORD",
+      "qualityScore": 8,
+      "creativeQualityScore": "BELOW_AVERAGE",
+      "postClickQualityScore": "ABOVE_AVERAGE",
+      "searchPredictedCtr": "ABOVE_AVERAGE"
+    },
+    {
+      "keyword": "shark vacuum cleaners",
+      "matchType": "PHRASE",
+      "campaign": "shark_PF_CLEAN_CLN001_WARM_SEARCH_ALWAYSON_PURCHASE_NEWZEALAND_NZL",
+      "adGroup": "shark_PF_CLEAN_IW3611_WARM_SEARCH_ALWAYSON_PURCHASE_NEWZEALAND_NZL_WEBPROFITS_KEYWORD",
+      "qualityScore": 8,
+      "creativeQualityScore": "BELOW_AVERAGE",
+      "postClickQualityScore": "ABOVE_AVERAGE",
+      "searchPredictedCtr": "ABOVE_AVERAGE"
+    },
+    {
+      "keyword": "shark cordless",
+      "matchType": "PHRASE",
+      "campaign": "shark_PF_CLEAN_CLN001_WARM_SEARCH_ALWAYSON_PURCHASE_NEWZEALAND_NZL",
+      "adGroup": "shark_PF_CLEAN_IW3611_WARM_SEARCH_ALWAYSON_PURCHASE_NEWZEALAND_NZL_WEBPROFITS_KEYWORD_CORDLESS",
+      "qualityScore": 8,
+      "creativeQualityScore": "ABOVE_AVERAGE",
+      "postClickQualityScore": "ABOVE_AVERAGE",
+      "searchPredictedCtr": "AVERAGE"
+    },
+    {
+      "keyword": "shark cordless vacuum",
+      "matchType": "EXACT",
+      "campaign": "shark_PF_CLEAN_CLN001_WARM_SEARCH_ALWAYSON_PURCHASE_NEWZEALAND_NZL",
+      "adGroup": "shark_PF_CLEAN_IW3611_WARM_SEARCH_ALWAYSON_PURCHASE_NEWZEALAND_NZL_WEBPROFITS_KEYWORD_CORDLESS",
+      "qualityScore": 8,
+      "creativeQualityScore": "ABOVE_AVERAGE",
+      "postClickQualityScore": "ABOVE_AVERAGE",
+      "searchPredictedCtr": "AVERAGE"
+    },
+    {
+      "keyword": "shark cordless vacuum",
+      "matchType": "PHRASE",
+      "campaign": "shark_PF_CLEAN_CLN001_WARM_SEARCH_ALWAYSON_PURCHASE_NEWZEALAND_NZL",
+      "adGroup": "shark_PF_CLEAN_IW3611_WARM_SEARCH_ALWAYSON_PURCHASE_NEWZEALAND_NZL_WEBPROFITS_KEYWORD_CORDLESS",
+      "qualityScore": 8,
+      "creativeQualityScore": "ABOVE_AVERAGE",
+      "postClickQualityScore": "ABOVE_AVERAGE",
+      "searchPredictedCtr": "AVERAGE"
+    },
+    {
+      "keyword": "shark cordless",
+      "matchType": "EXACT",
+      "campaign": "shark_PF_CLEAN_CLN001_WARM_SEARCH_ALWAYSON_PURCHASE_NEWZEALAND_NZL",
+      "adGroup": "shark_PF_CLEAN_IW3611_WARM_SEARCH_ALWAYSON_PURCHASE_NEWZEALAND_NZL_WEBPROFITS_KEYWORD_CORDLESS",
+      "qualityScore": 8,
+      "creativeQualityScore": "ABOVE_AVERAGE",
+      "postClickQualityScore": "ABOVE_AVERAGE",
+      "searchPredictedCtr": "AVERAGE"
+    },
+    {
+      "keyword": "cordless stick shark vacuum",
+      "matchType": "PHRASE",
+      "campaign": "shark_PF_CLEAN_CLN001_WARM_SEARCH_ALWAYSON_PURCHASE_NEWZEALAND_NZL",
+      "adGroup": "shark_PF_CLEAN_IW3611_WARM_SEARCH_ALWAYSON_PURCHASE_NEWZEALAND_NZL_WEBPROFITS_KEYWORD_CORDLESS",
+      "qualityScore": 8,
+      "creativeQualityScore": "BELOW_AVERAGE",
+      "postClickQualityScore": "ABOVE_AVERAGE",
+      "searchPredictedCtr": "ABOVE_AVERAGE"
+    },
+    {
+      "keyword": "cordless stick shark vacuum",
+      "matchType": "EXACT",
+      "campaign": "shark_PF_CLEAN_CLN001_WARM_SEARCH_ALWAYSON_PURCHASE_NEWZEALAND_NZL",
+      "adGroup": "shark_PF_CLEAN_IW3611_WARM_SEARCH_ALWAYSON_PURCHASE_NEWZEALAND_NZL_WEBPROFITS_KEYWORD_CORDLESS",
+      "qualityScore": 8,
+      "creativeQualityScore": "BELOW_AVERAGE",
+      "postClickQualityScore": "ABOVE_AVERAGE",
+      "searchPredictedCtr": "ABOVE_AVERAGE"
+    },
+    {
+      "keyword": "shark hand vacuum",
+      "matchType": "PHRASE",
+      "campaign": "shark_PF_CLEAN_CLN001_WARM_SEARCH_ALWAYSON_PURCHASE_NEWZEALAND_NZL",
+      "adGroup": "shark_PF_CLEAN_WV203_WARM_SEARCH_ALWAYSON_PURCHASE_NEWZEALAND_NZL_WEBPROFITS_KEYWORD",
+      "qualityScore": 8,
+      "creativeQualityScore": "ABOVE_AVERAGE",
+      "postClickQualityScore": "ABOVE_AVERAGE",
+      "searchPredictedCtr": "AVERAGE"
+    },
+    {
+      "keyword": "shark hand vacuum",
+      "matchType": "EXACT",
+      "campaign": "shark_PF_CLEAN_CLN001_WARM_SEARCH_ALWAYSON_PURCHASE_NEWZEALAND_NZL",
+      "adGroup": "shark_PF_CLEAN_WV203_WARM_SEARCH_ALWAYSON_PURCHASE_NEWZEALAND_NZL_WEBPROFITS_KEYWORD",
+      "qualityScore": 8,
+      "creativeQualityScore": "ABOVE_AVERAGE",
+      "postClickQualityScore": "ABOVE_AVERAGE",
+      "searchPredictedCtr": "AVERAGE"
+    },
+    {
+      "keyword": "shark handheld",
+      "matchType": "EXACT",
+      "campaign": "shark_PF_CLEAN_CLN001_WARM_SEARCH_ALWAYSON_PURCHASE_NEWZEALAND_NZL",
+      "adGroup": "shark_PF_CLEAN_WV203_WARM_SEARCH_ALWAYSON_PURCHASE_NEWZEALAND_NZL_WEBPROFITS_KEYWORD",
+      "qualityScore": 8,
+      "creativeQualityScore": "ABOVE_AVERAGE",
+      "postClickQualityScore": "ABOVE_AVERAGE",
+      "searchPredictedCtr": "AVERAGE"
+    },
+    {
+      "keyword": "shark handheld",
+      "matchType": "PHRASE",
+      "campaign": "shark_PF_CLEAN_CLN001_WARM_SEARCH_ALWAYSON_PURCHASE_NEWZEALAND_NZL",
+      "adGroup": "shark_PF_CLEAN_WV203_WARM_SEARCH_ALWAYSON_PURCHASE_NEWZEALAND_NZL_WEBPROFITS_KEYWORD",
+      "qualityScore": 8,
+      "creativeQualityScore": "ABOVE_AVERAGE",
+      "postClickQualityScore": "ABOVE_AVERAGE",
+      "searchPredictedCtr": "AVERAGE"
+    },
+    {
+      "keyword": "shark wandvac",
+      "matchType": "EXACT",
+      "campaign": "shark_PF_CLEAN_CLN001_WARM_SEARCH_ALWAYSON_PURCHASE_NEWZEALAND_NZL",
+      "adGroup": "shark_PF_CLEAN_WV203_WARM_SEARCH_ALWAYSON_PURCHASE_NEWZEALAND_NZL_WEBPROFITS_KEYWORD",
+      "qualityScore": 8,
+      "creativeQualityScore": "ABOVE_AVERAGE",
+      "postClickQualityScore": "AVERAGE",
+      "searchPredictedCtr": "ABOVE_AVERAGE"
+    },
+    {
+      "keyword": "shark wandvac",
+      "matchType": "PHRASE",
+      "campaign": "shark_PF_CLEAN_CLN001_WARM_SEARCH_ALWAYSON_PURCHASE_NEWZEALAND_NZL",
+      "adGroup": "shark_PF_CLEAN_WV203_WARM_SEARCH_ALWAYSON_PURCHASE_NEWZEALAND_NZL_WEBPROFITS_KEYWORD",
+      "qualityScore": 8,
+      "creativeQualityScore": "ABOVE_AVERAGE",
+      "postClickQualityScore": "AVERAGE",
+      "searchPredictedCtr": "ABOVE_AVERAGE"
+    },
+    {
+      "keyword": "shark ion cordfree handheld vacuum",
+      "matchType": "PHRASE",
+      "campaign": "shark_PF_CLEAN_CLN001_WARM_SEARCH_ALWAYSON_PURCHASE_NEWZEALAND_NZL",
+      "adGroup": "shark_PF_CLEAN_WV203_WARM_SEARCH_ALWAYSON_PURCHASE_NEWZEALAND_NZL_WEBPROFITS_KEYWORD",
+      "qualityScore": 8,
+      "creativeQualityScore": "BELOW_AVERAGE",
+      "postClickQualityScore": "ABOVE_AVERAGE",
+      "searchPredictedCtr": "ABOVE_AVERAGE"
+    },
+    {
+      "keyword": "shark ion cordfree handheld vacuum",
+      "matchType": "EXACT",
+      "campaign": "shark_PF_CLEAN_CLN001_WARM_SEARCH_ALWAYSON_PURCHASE_NEWZEALAND_NZL",
+      "adGroup": "shark_PF_CLEAN_WV203_WARM_SEARCH_ALWAYSON_PURCHASE_NEWZEALAND_NZL_WEBPROFITS_KEYWORD",
+      "qualityScore": 8,
+      "creativeQualityScore": "BELOW_AVERAGE",
+      "postClickQualityScore": "ABOVE_AVERAGE",
+      "searchPredictedCtr": "ABOVE_AVERAGE"
+    },
+    {
+      "keyword": "shark beauty",
+      "matchType": "EXACT",
+      "campaign": "shark_PF_GENERIC_GEN001_WARM_SEARCH_ALWAYSON_PURCHASE_NEWZEALAND_NZL",
+      "adGroup": "shark_PF_BEAUTY_BTY001_WARM_SEARCH_ALWAYSON_PURCHASE_NEWZEALAND_NZL_WEBPROFITS_KEYWORD",
+      "qualityScore": 8,
+      "creativeQualityScore": "ABOVE_AVERAGE",
+      "postClickQualityScore": "AVERAGE",
+      "searchPredictedCtr": "ABOVE_AVERAGE"
+    },
+    {
+      "keyword": "shark beauty",
+      "matchType": "PHRASE",
+      "campaign": "shark_PF_GENERIC_GEN001_WARM_SEARCH_ALWAYSON_PURCHASE_NEWZEALAND_NZL",
+      "adGroup": "shark_PF_BEAUTY_BTY001_WARM_SEARCH_ALWAYSON_PURCHASE_NEWZEALAND_NZL_WEBPROFITS_KEYWORD",
+      "qualityScore": 8,
+      "creativeQualityScore": "ABOVE_AVERAGE",
+      "postClickQualityScore": "AVERAGE",
+      "searchPredictedCtr": "ABOVE_AVERAGE"
+    },
+    {
+      "keyword": "shark vacuum models",
+      "matchType": "BROAD",
+      "campaign": "shark_PF_GENERIC_GEN003_WARM_SEARCH_ALWAYSON_PURCHASE_NEWZEALAND_NZL",
+      "adGroup": "shark_PF_GENERIC_GEN003_WARM_SHOPPING_ALWAYSON_PURCHASE_NEW-ZELAND-SALEITEMS",
+      "qualityScore": 8,
+      "creativeQualityScore": "BELOW_AVERAGE",
+      "postClickQualityScore": "ABOVE_AVERAGE",
+      "searchPredictedCtr": "ABOVE_AVERAGE"
+    },
+    {
+      "keyword": "compare shark vacuums",
+      "matchType": "BROAD",
+      "campaign": "shark_PF_GENERIC_GEN003_WARM_SEARCH_ALWAYSON_PURCHASE_NEWZEALAND_NZL",
+      "adGroup": "shark_PF_GENERIC_GEN003_WARM_SHOPPING_ALWAYSON_PURCHASE_NEW-ZELAND-SALEITEMS",
+      "qualityScore": 8,
+      "creativeQualityScore": "BELOW_AVERAGE",
+      "postClickQualityScore": "ABOVE_AVERAGE",
+      "searchPredictedCtr": "ABOVE_AVERAGE"
+    },
+    {
+      "keyword": "shark stick vacuum cleaner",
+      "matchType": "PHRASE",
+      "campaign": "shark_PF_CLEAN_CLN001_WARM_SEARCH_ALWAYSON_PURCHASE_NEWZEALAND_NZL",
+      "adGroup": "shark_PF_CLEAN_IW3611_WARM_SEARCH_ALWAYSON_PURCHASE_NEWZEALAND_NZL_WEBPROFITS_KEYWORD",
+      "qualityScore": 9,
+      "creativeQualityScore": "AVERAGE",
+      "postClickQualityScore": "ABOVE_AVERAGE",
+      "searchPredictedCtr": "ABOVE_AVERAGE"
+    },
+    {
+      "keyword": "shark stick vacuum cleaner",
+      "matchType": "EXACT",
+      "campaign": "shark_PF_CLEAN_CLN001_WARM_SEARCH_ALWAYSON_PURCHASE_NEWZEALAND_NZL",
+      "adGroup": "shark_PF_CLEAN_IW3611_WARM_SEARCH_ALWAYSON_PURCHASE_NEWZEALAND_NZL_WEBPROFITS_KEYWORD",
+      "qualityScore": 9,
+      "creativeQualityScore": "AVERAGE",
+      "postClickQualityScore": "ABOVE_AVERAGE",
+      "searchPredictedCtr": "ABOVE_AVERAGE"
+    },
+    {
+      "keyword": "shark cordless stick vacuum",
+      "matchType": "EXACT",
+      "campaign": "shark_PF_CLEAN_CLN001_WARM_SEARCH_ALWAYSON_PURCHASE_NEWZEALAND_NZL",
+      "adGroup": "shark_PF_CLEAN_IW3611_WARM_SEARCH_ALWAYSON_PURCHASE_NEWZEALAND_NZL_WEBPROFITS_KEYWORD_CORDLESS",
+      "qualityScore": 9,
+      "creativeQualityScore": "AVERAGE",
+      "postClickQualityScore": "ABOVE_AVERAGE",
+      "searchPredictedCtr": "ABOVE_AVERAGE"
+    },
+    {
+      "keyword": "shark cordless stick vacuum",
+      "matchType": "PHRASE",
+      "campaign": "shark_PF_CLEAN_CLN001_WARM_SEARCH_ALWAYSON_PURCHASE_NEWZEALAND_NZL",
+      "adGroup": "shark_PF_CLEAN_IW3611_WARM_SEARCH_ALWAYSON_PURCHASE_NEWZEALAND_NZL_WEBPROFITS_KEYWORD_CORDLESS",
+      "qualityScore": 9,
+      "creativeQualityScore": "AVERAGE",
+      "postClickQualityScore": "ABOVE_AVERAGE",
+      "searchPredictedCtr": "ABOVE_AVERAGE"
+    },
+    {
+      "keyword": "shark hand held vacuum cleaner",
+      "matchType": "EXACT",
+      "campaign": "shark_PF_CLEAN_CLN001_WARM_SEARCH_ALWAYSON_PURCHASE_NEWZEALAND_NZL",
+      "adGroup": "shark_PF_CLEAN_WV203_WARM_SEARCH_ALWAYSON_PURCHASE_NEWZEALAND_NZL_WEBPROFITS_KEYWORD",
+      "qualityScore": 9,
+      "creativeQualityScore": "AVERAGE",
+      "postClickQualityScore": "ABOVE_AVERAGE",
+      "searchPredictedCtr": "ABOVE_AVERAGE"
+    },
+    {
+      "keyword": "shark hand held vacuum cleaner",
+      "matchType": "PHRASE",
+      "campaign": "shark_PF_CLEAN_CLN001_WARM_SEARCH_ALWAYSON_PURCHASE_NEWZEALAND_NZL",
+      "adGroup": "shark_PF_CLEAN_WV203_WARM_SEARCH_ALWAYSON_PURCHASE_NEWZEALAND_NZL_WEBPROFITS_KEYWORD",
+      "qualityScore": 9,
+      "creativeQualityScore": "AVERAGE",
+      "postClickQualityScore": "ABOVE_AVERAGE",
+      "searchPredictedCtr": "ABOVE_AVERAGE"
+    },
+    {
+      "keyword": "shark vacuum and mop",
+      "matchType": "BROAD",
+      "campaign": "shark_PF_GENERIC_GEN003_WARM_SEARCH_ALWAYSON_PURCHASE_NEWZEALAND_NZL",
+      "adGroup": "shark_PF_GENERIC_GEN003_WARM_SHOPPING_ALWAYSON_PURCHASE_NEW-ZELAND-SALEITEMS",
+      "qualityScore": 9,
+      "creativeQualityScore": "AVERAGE",
+      "postClickQualityScore": "ABOVE_AVERAGE",
+      "searchPredictedCtr": "ABOVE_AVERAGE"
+    },
+    {
+      "keyword": "shark clean",
+      "matchType": "PHRASE",
+      "campaign": "shark_PF_GENERIC_GEN001_WARM_SEARCH_ALWAYSON_PURCHASE_NEWZEALAND_NZL",
+      "adGroup": "shark_PF_CLEAN_CLN001_WARM_SEARCH_ALWAYSON_PURCHASE_NEWZEALAND_NZL_WEBPROFITS_KEYWORD",
+      "qualityScore": 10,
+      "creativeQualityScore": "ABOVE_AVERAGE",
+      "postClickQualityScore": "ABOVE_AVERAGE",
+      "searchPredictedCtr": "ABOVE_AVERAGE"
+    },
+    {
+      "keyword": "shark clean",
+      "matchType": "EXACT",
+      "campaign": "shark_PF_GENERIC_GEN001_WARM_SEARCH_ALWAYSON_PURCHASE_NEWZEALAND_NZL",
+      "adGroup": "shark_PF_CLEAN_CLN001_WARM_SEARCH_ALWAYSON_PURCHASE_NEWZEALAND_NZL_WEBPROFITS_KEYWORD",
+      "qualityScore": 10,
+      "creativeQualityScore": "ABOVE_AVERAGE",
+      "postClickQualityScore": "ABOVE_AVERAGE",
+      "searchPredictedCtr": "ABOVE_AVERAGE"
+    },
+    {
+      "keyword": "shark clean new zealand",
+      "matchType": "PHRASE",
+      "campaign": "shark_PF_GENERIC_GEN001_WARM_SEARCH_ALWAYSON_PURCHASE_NEWZEALAND_NZL",
+      "adGroup": "shark_PF_CLEAN_CLN001_WARM_SEARCH_ALWAYSON_PURCHASE_NEWZEALAND_NZL_WEBPROFITS_KEYWORD",
+      "qualityScore": 10,
+      "creativeQualityScore": "ABOVE_AVERAGE",
+      "postClickQualityScore": "ABOVE_AVERAGE",
+      "searchPredictedCtr": "ABOVE_AVERAGE"
+    },
+    {
+      "keyword": "shark clean new zealand",
+      "matchType": "EXACT",
+      "campaign": "shark_PF_GENERIC_GEN001_WARM_SEARCH_ALWAYSON_PURCHASE_NEWZEALAND_NZL",
+      "adGroup": "shark_PF_CLEAN_CLN001_WARM_SEARCH_ALWAYSON_PURCHASE_NEWZEALAND_NZL_WEBPROFITS_KEYWORD",
+      "qualityScore": 10,
+      "creativeQualityScore": "ABOVE_AVERAGE",
+      "postClickQualityScore": "ABOVE_AVERAGE",
+      "searchPredictedCtr": "ABOVE_AVERAGE"
+    },
+    {
+      "keyword": "shark cordless vacuum cleaner",
+      "matchType": "EXACT",
+      "campaign": "shark_PF_CLEAN_CLN001_WARM_SEARCH_ALWAYSON_PURCHASE_NEWZEALAND_NZL",
+      "adGroup": "shark_PF_CLEAN_IW3611_WARM_SEARCH_ALWAYSON_PURCHASE_NEWZEALAND_NZL_WEBPROFITS_KEYWORD_CORDLESS",
+      "qualityScore": 10,
+      "creativeQualityScore": "ABOVE_AVERAGE",
+      "postClickQualityScore": "ABOVE_AVERAGE",
+      "searchPredictedCtr": "ABOVE_AVERAGE"
+    },
+    {
+      "keyword": "shark cordless vacuum cleaner",
+      "matchType": "PHRASE",
+      "campaign": "shark_PF_CLEAN_CLN001_WARM_SEARCH_ALWAYSON_PURCHASE_NEWZEALAND_NZL",
+      "adGroup": "shark_PF_CLEAN_IW3611_WARM_SEARCH_ALWAYSON_PURCHASE_NEWZEALAND_NZL_WEBPROFITS_KEYWORD_CORDLESS",
+      "qualityScore": 10,
+      "creativeQualityScore": "ABOVE_AVERAGE",
+      "postClickQualityScore": "ABOVE_AVERAGE",
+      "searchPredictedCtr": "ABOVE_AVERAGE"
+    },
+    {
+      "keyword": "shark handheld vacuum",
+      "matchType": "PHRASE",
+      "campaign": "shark_PF_CLEAN_CLN001_WARM_SEARCH_ALWAYSON_PURCHASE_NEWZEALAND_NZL",
+      "adGroup": "shark_PF_CLEAN_WV203_WARM_SEARCH_ALWAYSON_PURCHASE_NEWZEALAND_NZL_WEBPROFITS_KEYWORD",
+      "qualityScore": 10,
+      "creativeQualityScore": "ABOVE_AVERAGE",
+      "postClickQualityScore": "ABOVE_AVERAGE",
+      "searchPredictedCtr": "ABOVE_AVERAGE"
+    },
+    {
+      "keyword": "shark handheld vacuum",
+      "matchType": "EXACT",
+      "campaign": "shark_PF_CLEAN_CLN001_WARM_SEARCH_ALWAYSON_PURCHASE_NEWZEALAND_NZL",
+      "adGroup": "shark_PF_CLEAN_WV203_WARM_SEARCH_ALWAYSON_PURCHASE_NEWZEALAND_NZL_WEBPROFITS_KEYWORD",
+      "qualityScore": 10,
+      "creativeQualityScore": "ABOVE_AVERAGE",
+      "postClickQualityScore": "ABOVE_AVERAGE",
+      "searchPredictedCtr": "ABOVE_AVERAGE"
+    },
+    {
+      "keyword": "shark beauty new zealand",
+      "matchType": "PHRASE",
+      "campaign": "shark_PF_GENERIC_GEN001_WARM_SEARCH_ALWAYSON_PURCHASE_NEWZEALAND_NZL",
+      "adGroup": "shark_PF_BEAUTY_BTY001_WARM_SEARCH_ALWAYSON_PURCHASE_NEWZEALAND_NZL_WEBPROFITS_KEYWORD",
+      "qualityScore": 10,
+      "creativeQualityScore": "ABOVE_AVERAGE",
+      "postClickQualityScore": "ABOVE_AVERAGE",
+      "searchPredictedCtr": "ABOVE_AVERAGE"
+    },
+    {
+      "keyword": "shark beauty new zealand",
+      "matchType": "EXACT",
+      "campaign": "shark_PF_GENERIC_GEN001_WARM_SEARCH_ALWAYSON_PURCHASE_NEWZEALAND_NZL",
+      "adGroup": "shark_PF_BEAUTY_BTY001_WARM_SEARCH_ALWAYSON_PURCHASE_NEWZEALAND_NZL_WEBPROFITS_KEYWORD",
+      "qualityScore": 10,
+      "creativeQualityScore": "ABOVE_AVERAGE",
+      "postClickQualityScore": "ABOVE_AVERAGE",
+      "searchPredictedCtr": "ABOVE_AVERAGE"
+    }
+  ]
+}

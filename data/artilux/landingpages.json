@@ -1,0 +1,65 @@
+[
+  {
+    "url": "https://artilux.com.au/get-a-free-quote/",
+    "clicks": 1595,
+    "impressions": 25025,
+    "costMicros": 6228479409,
+    "conversions": 96.840456,
+    "ctr": 0.06373626373626373,
+    "averageCpc": 3905002.764263323
+  },
+  {
+    "url": "https://artilux.com.au/products/retractable-fly-screens/",
+    "clicks": 150,
+    "impressions": 7770,
+    "costMicros": 382582657,
+    "conversions": 6.833333,
+    "ctr": 0.019305019305019305,
+    "averageCpc": 2550551.046666667
+  },
+  {
+    "url": "https://artilux.com.au/screens/french-doors/",
+    "clicks": 63,
+    "impressions": 6598,
+    "costMicros": 170558267,
+    "conversions": 0.833333,
+    "ctr": 0.009548347984237648,
+    "averageCpc": 2707274.0793650793
+  },
+  {
+    "url": "https://artilux.com.au/screens/bifold-doors/",
+    "clicks": 37,
+    "impressions": 3699,
+    "costMicros": 79013478,
+    "conversions": 1.0,
+    "ctr": 0.010002703433360368,
+    "averageCpc": 2135499.4054054054
+  },
+  {
+    "url": "https://artilux.com.au/screens/stacker-sliding-doors/",
+    "clicks": 22,
+    "impressions": 4524,
+    "costMicros": 55789210,
+    "conversions": 1.0,
+    "ctr": 0.004862953138815208,
+    "averageCpc": 2535873.1818181816
+  },
+  {
+    "url": "https://artilux.com.au/why-choose-us/",
+    "clicks": 2,
+    "impressions": 3324,
+    "costMicros": 6279042,
+    "conversions": 0.0,
+    "ctr": 0.0006016847172081829,
+    "averageCpc": 3139521.0
+  },
+  {
+    "url": "https://artilux.com.au/request-quote/",
+    "clicks": 0,
+    "impressions": 2625,
+    "costMicros": 0,
+    "conversions": 0.0,
+    "ctr": 0.0,
+    "averageCpc": null
+  }
+]

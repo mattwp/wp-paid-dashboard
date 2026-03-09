@@ -1,0 +1,45 @@
+{
+  "clientId": "satellite-office",
+  "clientName": "Satellite Office",
+  "current7d": {
+    "clicks": 104,
+    "impressions": 2312,
+    "costMicros": 4609931809,
+    "conversions": 0,
+    "ctr": 0.04498269896193772,
+    "averageCpc": 44326267
+  },
+  "prev7d": {
+    "clicks": 162,
+    "impressions": 3448,
+    "costMicros": 7854222325,
+    "conversions": 3,
+    "ctr": 0.04698375870069606,
+    "averageCpc": 48482854
+  },
+  "current30d": {
+    "clicks": 606,
+    "impressions": 14398,
+    "costMicros": 24937300748,
+    "conversions": 4,
+    "ctr": 0.042089179052646204,
+    "averageCpc": 41150661
+  },
+  "prev30d": {
+    "clicks": 593,
+    "impressions": 16194,
+    "costMicros": 18283504581,
+    "conversions": 2,
+    "ctr": 0.03661850067926393,
+    "averageCpc": 30832217
+  },
+  "yoy30d": {
+    "clicks": 746,
+    "impressions": 7216,
+    "costMicros": 5609066372,
+    "conversions": 5,
+    "ctr": 0.10338137472283813,
+    "averageCpc": 7518856
+  },
+  "lastUpdated": "2026-03-09T00:00:00.000Z"
+}

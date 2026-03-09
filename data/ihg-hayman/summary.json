@@ -1,0 +1,45 @@
+{
+  "clientId": "ihg-hayman",
+  "clientName": "IHG Hayman Island",
+  "current7d": {
+    "clicks": 647,
+    "impressions": 2290,
+    "costMicros": 714239526,
+    "conversions": 180.34341,
+    "ctr": 0.28253275109170306,
+    "averageCpc": 1103925.0788253478
+  },
+  "prev7d": {
+    "clicks": 573,
+    "impressions": 2135,
+    "costMicros": 667505025,
+    "conversions": 181.799972,
+    "ctr": 0.268384074941452,
+    "averageCpc": 1164930.2356020943
+  },
+  "current30d": {
+    "clicks": 2804,
+    "impressions": 10254,
+    "costMicros": 3084735881,
+    "conversions": 1098.719645,
+    "ctr": 0.2734542617515116,
+    "averageCpc": 1100119.7863766048
+  },
+  "prev30d": {
+    "clicks": 3397,
+    "impressions": 12755,
+    "costMicros": 3218297829,
+    "conversions": 1804.935773,
+    "ctr": 0.26632693061544493,
+    "averageCpc": 947394.120989108
+  },
+  "yoy30d": {
+    "clicks": 3690,
+    "impressions": 15876,
+    "costMicros": 4204689257,
+    "conversions": 1904.338274,
+    "ctr": 0.23242630385487528,
+    "averageCpc": 1139482.1834688347
+  },
+  "lastUpdated": "2026-03-09T00:00:00.000Z"
+}

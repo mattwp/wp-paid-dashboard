@@ -1,0 +1,50 @@
+{
+  "clientId": "ninja-nz",
+  "clientName": "Ninja NZ",
+  "current7d": {
+    "clicks": 2678,
+    "impressions": 116362,
+    "costMicros": 1696054719,
+    "conversions": 54.76988,
+    "conversionValue": 7413.813211893,
+    "ctr": 0.023014386139805092,
+    "averageCpc": 633328.8719193428
+  },
+  "prev7d": {
+    "clicks": 2802,
+    "impressions": 102628,
+    "costMicros": 1092116711,
+    "conversions": 69.087386,
+    "conversionValue": 9371.48022563,
+    "ctr": 0.027302490548388354,
+    "averageCpc": 389763.2801570307
+  },
+  "current30d": {
+    "clicks": 22639,
+    "impressions": 1153542,
+    "costMicros": 17014558770,
+    "conversions": 320.836713,
+    "conversionValue": 49872.373054143,
+    "ctr": 0.01962563998536681,
+    "averageCpc": 751559.6435354919
+  },
+  "prev30d": {
+    "clicks": 31933,
+    "impressions": 1590678,
+    "costMicros": 20489801432,
+    "conversions": 293.23584,
+    "conversionValue": 48329.365478374,
+    "ctr": 0.020075087478421152,
+    "averageCpc": 641649.748911784
+  },
+  "yoy30d": {
+    "clicks": 19589,
+    "impressions": 760041,
+    "costMicros": 13382173602,
+    "conversions": 314.124926,
+    "conversionValue": 81538.509926503,
+    "ctr": 0.02577360958158836,
+    "averageCpc": 683147.3583133391
+  },
+  "lastUpdated": "2026-03-09T00:00:00.000Z"
+}

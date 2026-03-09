@@ -1,0 +1,10 @@
+{
+  "clientId": "ata-scientific",
+  "clientName": "ATA Scientific",
+  "current7d": { "clicks": 90, "impressions": 791, "costMicros": 291415550, "conversions": 2, "ctr": 0.11378002528445007, "averageCpc": 3237950.5555555555 },
+  "prev7d": { "clicks": 98, "impressions": 1174, "costMicros": 420889593, "conversions": 3, "ctr": 0.08347529812606473, "averageCpc": 4294791.765306123 },
+  "current30d": { "clicks": 357, "impressions": 3834, "costMicros": 1388182585, "conversions": 8, "ctr": 0.09311424100156494, "averageCpc": 3888466.62464986 },
+  "prev30d": { "clicks": 340, "impressions": 3928, "costMicros": 1410354766, "conversions": 5, "ctr": 0.08655804480651731, "averageCpc": 4148102.2529411763 },
+  "yoy30d": { "clicks": 336, "impressions": 3928, "costMicros": 1810682510, "conversions": 6, "ctr": 0.0855397148676171, "averageCpc": 5388936.041666667 },
+  "lastUpdated": "2026-03-09T00:00:00.000Z"
+}

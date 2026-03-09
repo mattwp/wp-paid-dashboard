@@ -1,0 +1,50 @@
+{
+  "clientId": "lifecykel-au",
+  "clientName": "Lifecykel AU",
+  "current7d": {
+    "clicks": 3600,
+    "impressions": 170474,
+    "costMicros": 8791622464,
+    "conversions": 199.337189,
+    "conversionValue": 20351.483634444,
+    "ctr": 0.021118,
+    "averageCpc": 2442117.35
+  },
+  "prev7d": {
+    "clicks": 5800,
+    "impressions": 245140,
+    "costMicros": 10161173233,
+    "conversions": 238.009114,
+    "conversionValue": 24313.909138336,
+    "ctr": 0.02366,
+    "averageCpc": 1751926.42
+  },
+  "current30d": {
+    "clicks": 56842,
+    "impressions": 1512931,
+    "costMicros": 41838388360,
+    "conversions": 1318.224826,
+    "conversionValue": 101980.486321083,
+    "ctr": 0.037571,
+    "averageCpc": 736047.08
+  },
+  "prev30d": {
+    "clicks": 16396,
+    "impressions": 890263,
+    "costMicros": 36506177353,
+    "conversions": 3559.571041,
+    "conversionValue": 109340.360766769,
+    "ctr": 0.018417,
+    "averageCpc": 2226529.48
+  },
+  "yoy30d": {
+    "clicks": 26093,
+    "impressions": 1537554,
+    "costMicros": 61118242853,
+    "conversions": 2394.110222,
+    "conversionValue": 176382.022964049,
+    "ctr": 0.01697,
+    "averageCpc": 2342323.34
+  },
+  "lastUpdated": "2026-03-09T00:00:00.000Z"
+}

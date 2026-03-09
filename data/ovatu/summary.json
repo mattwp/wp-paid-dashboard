@@ -1,0 +1,50 @@
+{
+  "clientId": "ovatu",
+  "clientName": "Ovatu",
+  "current7d": {
+    "clicks": 770,
+    "impressions": 2425,
+    "costMicros": 440438639,
+    "conversions": 87,
+    "conversionValue": 86,
+    "ctr": 0.31752577319587627,
+    "averageCpc": 571998.23
+  },
+  "prev7d": {
+    "clicks": 692,
+    "impressions": 2236,
+    "costMicros": 448089451,
+    "conversions": 88,
+    "conversionValue": 88,
+    "ctr": 0.3094812164579606,
+    "averageCpc": 647528.11
+  },
+  "current30d": {
+    "clicks": 3078,
+    "impressions": 9877,
+    "costMicros": 1847806742,
+    "conversions": 391.166667,
+    "conversionValue": 367.166667,
+    "ctr": 0.31163308696972764,
+    "averageCpc": 600327.08
+  },
+  "prev30d": {
+    "clicks": 3367,
+    "impressions": 10976,
+    "costMicros": 1803696184,
+    "conversions": 486.166667,
+    "conversionValue": 476.166667,
+    "ctr": 0.3067602040816326,
+    "averageCpc": 535698.30
+  },
+  "yoy30d": {
+    "clicks": 341,
+    "impressions": 6884,
+    "costMicros": 637608541,
+    "conversions": 0,
+    "conversionValue": 0,
+    "ctr": 0.049535153980244044,
+    "averageCpc": 1869232.08
+  },
+  "lastUpdated": "2026-03-09T00:00:00.000Z"
+}

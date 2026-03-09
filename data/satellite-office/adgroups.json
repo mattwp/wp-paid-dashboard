@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Nonbrand AU | Outsourcing",
+    "campaign": "AU | Search | Nonbrand | Offshoring | Outsourcing - Max Clicks. | $115",
+    "status": "ENABLED",
+    "clicks": 367,
+    "impressions": 9652,
+    "costMicros": 18894972050,
+    "conversions": 2.0,
+    "ctr": 0.03802320762536262,
+    "averageCpc": 51484936,
+    "searchImpressionShare": 0.47751733245295475,
+    "searchTopImpressionShare": 0.3732770559915584,
+    "searchAbsoluteTopImpressionShare": 0.27626459143968873
+  },
+  {
+    "name": "Nonbrand US | Outsourcing",
+    "campaign": "US | NY & Chicago | Search | Nonbrand | Offshoring | Outsourcing - Max Clicks | $80",
+    "status": "ENABLED",
+    "clicks": 123,
+    "impressions": 3398,
+    "costMicros": 3230333573,
+    "conversions": 0.0,
+    "ctr": 0.036197763390229544,
+    "averageCpc": 26262875,
+    "searchImpressionShare": 0.14887226900653672,
+    "searchTopImpressionShare": 0.11397557666214382,
+    "searchAbsoluteTopImpressionShare": 0.0999
+  },
+  {
+    "name": "Nonbrand AU | Offshoring",
+    "campaign": "AU | Search | Nonbrand | Offshoring | Outsourcing - Max Clicks. | $115",
+    "status": "ENABLED",
+    "clicks": 39,
+    "impressions": 938,
+    "costMicros": 2029661408,
+    "conversions": 0.0,
+    "ctr": 0.04157782515991471,
+    "averageCpc": 52042600,
+    "searchImpressionShare": 0.4599083619702176,
+    "searchTopImpressionShare": 0.3538812785388128,
+    "searchAbsoluteTopImpressionShare": 0.22773972602739725
+  },
+  {
+    "name": "AU | Brand",
+    "campaign": "AU | Search | Brand | tIS",
+    "status": "ENABLED",
+    "clicks": 75,
+    "impressions": 331,
+    "costMicros": 734223717,
+    "conversions": 2.0,
+    "ctr": 0.22658610271903323,
+    "averageCpc": 9789649,
+    "searchImpressionShare": 0.9119170984455959,
+    "searchTopImpressionShare": 0.8860103626943006,
+    "searchAbsoluteTopImpressionShare": 0.7823834196891192
+  },
+  {
+    "name": "Nonbrand US | Offshoring",
+    "campaign": "US | NY & Chicago | Search | Nonbrand | Offshoring | Outsourcing - Max Clicks | $80",
+    "status": "ENABLED",
+    "clicks": 2,
+    "impressions": 79,
+    "costMicros": 48110000,
+    "conversions": 0.0,
+    "ctr": 0.02531645569620253,
+    "averageCpc": 24055000,
+    "searchImpressionShare": 0.10260115606936417,
+    "searchTopImpressionShare": 0.0999,
+    "searchAbsoluteTopImpressionShare": 0.0999
+  }
+]

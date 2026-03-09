@@ -1,0 +1,45 @@
+{
+  "clientId": "ihg-sanctuary-cove",
+  "clientName": "IHG Sanctuary Cove",
+  "current7d": {
+    "clicks": 394,
+    "impressions": 2760,
+    "costMicros": 835085216,
+    "conversions": 152.782611,
+    "ctr": 0.1427536231884058,
+    "averageCpc": 2119505.624365482
+  },
+  "prev7d": {
+    "clicks": 215,
+    "impressions": 1005,
+    "costMicros": 291081862,
+    "conversions": 90.997996,
+    "ctr": 0.21393034825870647,
+    "averageCpc": 1353869.1255813953
+  },
+  "current30d": {
+    "clicks": 1702,
+    "impressions": 12166,
+    "costMicros": 3196539004,
+    "conversions": 685.24585,
+    "ctr": 0.13989807660693737,
+    "averageCpc": 1878107.5229142185
+  },
+  "prev30d": {
+    "clicks": 1574,
+    "impressions": 9213,
+    "costMicros": 1872457328,
+    "conversions": 463.233242,
+    "ctr": 0.17084554433952023,
+    "averageCpc": 1189617.1080050827
+  },
+  "yoy30d": {
+    "clicks": 2783,
+    "impressions": 17080,
+    "costMicros": 3596030745,
+    "conversions": 996.13552,
+    "ctr": 0.1629391100702576,
+    "averageCpc": 1292141.8415379087
+  },
+  "lastUpdated": "2026-03-09T00:00:00.000Z"
+}

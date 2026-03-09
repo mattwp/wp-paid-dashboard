@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Brand | Generic",
+    "campaign": "WP | AUS | Search | Brand",
+    "status": "ENABLED",
+    "clicks": 3143,
+    "impressions": 9258,
+    "costMicros": 3187082544,
+    "conversions": 359.775034,
+    "ctr": 0.3394901706632102,
+    "averageCpc": 1013999,
+    "searchImpressionShare": 0.9741622930964877,
+    "searchTopImpressionShare": 0.9551786795881284,
+    "searchAbsoluteTopImpressionShare": 0.9505350292751867
+  },
+  {
+    "name": "Brand | Carla Oates",
+    "campaign": "WP | AUS | Search | Brand",
+    "status": "ENABLED",
+    "clicks": 414,
+    "impressions": 1424,
+    "costMicros": 567740079,
+    "conversions": 34.615523,
+    "ctr": 0.2907303370786517,
+    "averageCpc": 1371352,
+    "searchImpressionShare": 0.9171668667466987,
+    "searchTopImpressionShare": 0.8528347406513872,
+    "searchAbsoluteTopImpressionShare": 0.8262967430639324
+  },
+  {
+    "name": "Top Performers",
+    "campaign": "WP | AUS | Shopping | Branded",
+    "status": "ENABLED",
+    "clicks": 51,
+    "impressions": 4451,
+    "costMicros": 172080000,
+    "conversions": 4.0,
+    "ctr": 0.011458099303527296,
+    "averageCpc": 3374117,
+    "searchImpressionShare": 0.2502739425816349,
+    "searchTopImpressionShare": null,
+    "searchAbsoluteTopImpressionShare": 0.0999
+  },
+  {
+    "name": "Glow",
+    "campaign": "WP | AUS | Shopping | Branded",
+    "status": "ENABLED",
+    "clicks": 31,
+    "impressions": 5850,
+    "costMicros": 133670000,
+    "conversions": 1.0,
+    "ctr": 0.0052991452991453,
+    "averageCpc": 4312580,
+    "searchImpressionShare": 0.15176908752327747,
+    "searchTopImpressionShare": null,
+    "searchAbsoluteTopImpressionShare": 0.0999
+  },
+  {
+    "name": "Plumpers",
+    "campaign": "WP | AUS | Shopping | Branded",
+    "status": "ENABLED",
+    "clicks": 8,
+    "impressions": 2021,
+    "costMicros": 17130000,
+    "conversions": 0.0,
+    "ctr": 0.0039584364176150424,
+    "averageCpc": 2141250,
+    "searchImpressionShare": 0.10520722635494155,
+    "searchTopImpressionShare": null,
+    "searchAbsoluteTopImpressionShare": 0.0999
+  }
+]

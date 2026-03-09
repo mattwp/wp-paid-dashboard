@@ -1,0 +1,185 @@
+{
+  "lastUpdated": "2026-03-09T00:00:00.000Z",
+  "quality": [
+    {
+      "keyword": "ninja luxe",
+      "matchType": "PHRASE",
+      "campaign": "ninja_PF_GENERIC_GEN001_WARM_SEARCH_ALWAYSON_PURCHASE_NEWZEALAND_NZL",
+      "adGroup": "ninja_PF_GENERIC_GEN001_WARM_SEARCH_ALWAYSON_PURCHASE_NEWZEALAND_NZL_WEBPROFITS_KEYWORD",
+      "qualityScore": 5,
+      "creativeQualityScore": "BELOW_AVERAGE",
+      "postClickQualityScore": "ABOVE_AVERAGE",
+      "searchPredictedCtr": "BELOW_AVERAGE"
+    },
+    {
+      "keyword": "ninja crispi",
+      "matchType": "PHRASE",
+      "campaign": "ninja_PF_GENERIC_GEN001_WARM_SEARCH_ALWAYSON_PURCHASE_NEWZEALAND_NZL",
+      "adGroup": "ninja_PF_GENERIC_GEN001_WARM_SEARCH_ALWAYSON_PURCHASE_NEWZEALAND_NZL_WEBPROFITS_KEYWORD",
+      "qualityScore": 6,
+      "creativeQualityScore": "BELOW_AVERAGE",
+      "postClickQualityScore": "ABOVE_AVERAGE",
+      "searchPredictedCtr": "AVERAGE"
+    },
+    {
+      "keyword": "ninja appliances",
+      "matchType": "EXACT",
+      "campaign": "ninja_PF_GENERIC_GEN001_WARM_SEARCH_ALWAYSON_PURCHASE_NEWZEALAND_NZL",
+      "adGroup": "ninja_PF_GENERIC_GEN001_WARM_SEARCH_ALWAYSON_PURCHASE_NEWZEALAND_NZL_WEBPROFITS_KEYWORD",
+      "qualityScore": 9,
+      "creativeQualityScore": "AVERAGE",
+      "postClickQualityScore": "ABOVE_AVERAGE",
+      "searchPredictedCtr": "ABOVE_AVERAGE"
+    },
+    {
+      "keyword": "ninja appliances",
+      "matchType": "PHRASE",
+      "campaign": "ninja_PF_GENERIC_GEN001_WARM_SEARCH_ALWAYSON_PURCHASE_NEWZEALAND_NZL",
+      "adGroup": "ninja_PF_GENERIC_GEN001_WARM_SEARCH_ALWAYSON_PURCHASE_NEWZEALAND_NZL_WEBPROFITS_KEYWORD",
+      "qualityScore": 9,
+      "creativeQualityScore": "AVERAGE",
+      "postClickQualityScore": "ABOVE_AVERAGE",
+      "searchPredictedCtr": "ABOVE_AVERAGE"
+    },
+    {
+      "keyword": "ninja kitchen appliances",
+      "matchType": "PHRASE",
+      "campaign": "ninja_PF_GENERIC_GEN001_WARM_SEARCH_ALWAYSON_PURCHASE_NEWZEALAND_NZL",
+      "adGroup": "ninja_PF_GENERIC_GEN001_WARM_SEARCH_ALWAYSON_PURCHASE_NEWZEALAND_NZL_WEBPROFITS_KEYWORD",
+      "qualityScore": 10,
+      "creativeQualityScore": "ABOVE_AVERAGE",
+      "postClickQualityScore": "ABOVE_AVERAGE",
+      "searchPredictedCtr": "ABOVE_AVERAGE"
+    },
+    {
+      "keyword": "ninja kitchen",
+      "matchType": "PHRASE",
+      "campaign": "ninja_PF_GENERIC_GEN001_WARM_SEARCH_ALWAYSON_PURCHASE_NEWZEALAND_NZL",
+      "adGroup": "ninja_PF_GENERIC_GEN001_WARM_SEARCH_ALWAYSON_PURCHASE_NEWZEALAND_NZL_WEBPROFITS_KEYWORD",
+      "qualityScore": 10,
+      "creativeQualityScore": "ABOVE_AVERAGE",
+      "postClickQualityScore": "ABOVE_AVERAGE",
+      "searchPredictedCtr": "ABOVE_AVERAGE"
+    },
+    {
+      "keyword": "ninja nz",
+      "matchType": "PHRASE",
+      "campaign": "ninja_PF_GENERIC_GEN001_WARM_SEARCH_ALWAYSON_PURCHASE_NEWZEALAND_NZL",
+      "adGroup": "ninja_PF_GENERIC_GEN001_WARM_SEARCH_ALWAYSON_PURCHASE_NEWZEALAND_NZL_WEBPROFITS_KEYWORD",
+      "qualityScore": 10,
+      "creativeQualityScore": "ABOVE_AVERAGE",
+      "postClickQualityScore": "ABOVE_AVERAGE",
+      "searchPredictedCtr": "ABOVE_AVERAGE"
+    },
+    {
+      "keyword": "ninja kitchen appliances",
+      "matchType": "EXACT",
+      "campaign": "ninja_PF_GENERIC_GEN001_WARM_SEARCH_ALWAYSON_PURCHASE_NEWZEALAND_NZL",
+      "adGroup": "ninja_PF_GENERIC_GEN001_WARM_SEARCH_ALWAYSON_PURCHASE_NEWZEALAND_NZL_WEBPROFITS_KEYWORD",
+      "qualityScore": 10,
+      "creativeQualityScore": "ABOVE_AVERAGE",
+      "postClickQualityScore": "ABOVE_AVERAGE",
+      "searchPredictedCtr": "ABOVE_AVERAGE"
+    },
+    {
+      "keyword": "ninja kitchen",
+      "matchType": "EXACT",
+      "campaign": "ninja_PF_GENERIC_GEN001_WARM_SEARCH_ALWAYSON_PURCHASE_NEWZEALAND_NZL",
+      "adGroup": "ninja_PF_GENERIC_GEN001_WARM_SEARCH_ALWAYSON_PURCHASE_NEWZEALAND_NZL_WEBPROFITS_KEYWORD",
+      "qualityScore": 10,
+      "creativeQualityScore": "ABOVE_AVERAGE",
+      "postClickQualityScore": "ABOVE_AVERAGE",
+      "searchPredictedCtr": "ABOVE_AVERAGE"
+    },
+    {
+      "keyword": "ninja black friday deals",
+      "matchType": "EXACT",
+      "campaign": "ninja_PF_GENERIC_GEN001_WARM_SEARCH_ALWAYSON_PURCHASE_NEWZEALAND_NZL",
+      "adGroup": "ninja_PF_GENERIC_GEN001_WARM_SEARCH_ALWAYSON_PURCHASE_NEWZEALAND_NZL_WEBPROFITS_KEYWORD",
+      "qualityScore": 10,
+      "creativeQualityScore": "ABOVE_AVERAGE",
+      "postClickQualityScore": "ABOVE_AVERAGE",
+      "searchPredictedCtr": "ABOVE_AVERAGE"
+    },
+    {
+      "keyword": "ninja kitchen nz",
+      "matchType": "EXACT",
+      "campaign": "ninja_PF_GENERIC_GEN001_WARM_SEARCH_ALWAYSON_PURCHASE_NEWZEALAND_NZL",
+      "adGroup": "ninja_PF_GENERIC_GEN001_WARM_SEARCH_ALWAYSON_PURCHASE_NEWZEALAND_NZL_WEBPROFITS_KEYWORD",
+      "qualityScore": 10,
+      "creativeQualityScore": "ABOVE_AVERAGE",
+      "postClickQualityScore": "ABOVE_AVERAGE",
+      "searchPredictedCtr": "ABOVE_AVERAGE"
+    },
+    {
+      "keyword": "ninja home appliances",
+      "matchType": "EXACT",
+      "campaign": "ninja_PF_GENERIC_GEN001_WARM_SEARCH_ALWAYSON_PURCHASE_NEWZEALAND_NZL",
+      "adGroup": "ninja_PF_GENERIC_GEN001_WARM_SEARCH_ALWAYSON_PURCHASE_NEWZEALAND_NZL_WEBPROFITS_KEYWORD",
+      "qualityScore": 10,
+      "creativeQualityScore": "ABOVE_AVERAGE",
+      "postClickQualityScore": "ABOVE_AVERAGE",
+      "searchPredictedCtr": "ABOVE_AVERAGE"
+    },
+    {
+      "keyword": "ninja home appliances",
+      "matchType": "PHRASE",
+      "campaign": "ninja_PF_GENERIC_GEN001_WARM_SEARCH_ALWAYSON_PURCHASE_NEWZEALAND_NZL",
+      "adGroup": "ninja_PF_GENERIC_GEN001_WARM_SEARCH_ALWAYSON_PURCHASE_NEWZEALAND_NZL_WEBPROFITS_KEYWORD",
+      "qualityScore": 10,
+      "creativeQualityScore": "ABOVE_AVERAGE",
+      "postClickQualityScore": "ABOVE_AVERAGE",
+      "searchPredictedCtr": "ABOVE_AVERAGE"
+    },
+    {
+      "keyword": "ninja nz",
+      "matchType": "EXACT",
+      "campaign": "ninja_PF_GENERIC_GEN001_WARM_SEARCH_ALWAYSON_PURCHASE_NEWZEALAND_NZL",
+      "adGroup": "ninja_PF_GENERIC_GEN001_WARM_SEARCH_ALWAYSON_PURCHASE_NEWZEALAND_NZL_WEBPROFITS_KEYWORD",
+      "qualityScore": 10,
+      "creativeQualityScore": "ABOVE_AVERAGE",
+      "postClickQualityScore": "ABOVE_AVERAGE",
+      "searchPredictedCtr": "ABOVE_AVERAGE"
+    },
+    {
+      "keyword": "ninja kitchen new zealand",
+      "matchType": "EXACT",
+      "campaign": "ninja_PF_GENERIC_GEN001_WARM_SEARCH_ALWAYSON_PURCHASE_NEWZEALAND_NZL",
+      "adGroup": "ninja_PF_GENERIC_GEN001_WARM_SEARCH_ALWAYSON_PURCHASE_NEWZEALAND_NZL_WEBPROFITS_KEYWORD",
+      "qualityScore": 10,
+      "creativeQualityScore": "ABOVE_AVERAGE",
+      "postClickQualityScore": "ABOVE_AVERAGE",
+      "searchPredictedCtr": "ABOVE_AVERAGE"
+    },
+    {
+      "keyword": "ninja kitchen new zealand",
+      "matchType": "PHRASE",
+      "campaign": "ninja_PF_GENERIC_GEN001_WARM_SEARCH_ALWAYSON_PURCHASE_NEWZEALAND_NZL",
+      "adGroup": "ninja_PF_GENERIC_GEN001_WARM_SEARCH_ALWAYSON_PURCHASE_NEWZEALAND_NZL_WEBPROFITS_KEYWORD",
+      "qualityScore": 10,
+      "creativeQualityScore": "ABOVE_AVERAGE",
+      "postClickQualityScore": "ABOVE_AVERAGE",
+      "searchPredictedCtr": "ABOVE_AVERAGE"
+    },
+    {
+      "keyword": "ninja new zealand",
+      "matchType": "EXACT",
+      "campaign": "ninja_PF_GENERIC_GEN001_WARM_SEARCH_ALWAYSON_PURCHASE_NEWZEALAND_NZL",
+      "adGroup": "ninja_PF_GENERIC_GEN001_WARM_SEARCH_ALWAYSON_PURCHASE_NEWZEALAND_NZL_WEBPROFITS_KEYWORD",
+      "qualityScore": 10,
+      "creativeQualityScore": "ABOVE_AVERAGE",
+      "postClickQualityScore": "ABOVE_AVERAGE",
+      "searchPredictedCtr": "ABOVE_AVERAGE"
+    },
+    {
+      "keyword": "ninja new zealand",
+      "matchType": "PHRASE",
+      "campaign": "ninja_PF_GENERIC_GEN001_WARM_SEARCH_ALWAYSON_PURCHASE_NEWZEALAND_NZL",
+      "adGroup": "ninja_PF_GENERIC_GEN001_WARM_SEARCH_ALWAYSON_PURCHASE_NEWZEALAND_NZL_WEBPROFITS_KEYWORD",
+      "qualityScore": 10,
+      "creativeQualityScore": "ABOVE_AVERAGE",
+      "postClickQualityScore": "ABOVE_AVERAGE",
+      "searchPredictedCtr": "ABOVE_AVERAGE"
+    }
+  ]
+}

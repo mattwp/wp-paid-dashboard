@@ -1,0 +1,45 @@
+{
+  "clientId": "ihg-sydney",
+  "clientName": "IHG — Sydney",
+  "current7d": {
+    "clicks": 625,
+    "impressions": 5084,
+    "costMicros": 1330854059,
+    "conversions": 261.912609,
+    "ctr": 0.12293469708890638,
+    "averageCpc": 2129366.4944
+  },
+  "prev7d": {
+    "clicks": 562,
+    "impressions": 5012,
+    "costMicros": 1303961359,
+    "conversions": 229.673105,
+    "ctr": 0.11213088587390263,
+    "averageCpc": 2320215.941281139
+  },
+  "current30d": {
+    "clicks": 2682,
+    "impressions": 23329,
+    "costMicros": 5893988837,
+    "conversions": 1081.428816,
+    "ctr": 0.11496420763856145,
+    "averageCpc": 2197609.55891126
+  },
+  "prev30d": {
+    "clicks": 2135,
+    "impressions": 18404,
+    "costMicros": 3614796756,
+    "conversions": 886.600763,
+    "ctr": 0.11600738969789176,
+    "averageCpc": 1693113.2346604215
+  },
+  "yoy30d": {
+    "clicks": 5404,
+    "impressions": 30112,
+    "costMicros": 7088917198,
+    "conversions": 821.721236,
+    "ctr": 0.17946333687566418,
+    "averageCpc": 1311790.7472242783
+  },
+  "lastUpdated": "2026-03-09T00:00:00.000Z"
+}

@@ -1,0 +1,45 @@
+{
+  "clientId": "vinta",
+  "clientName": "Vinta Investment Group",
+  "current7d": {
+    "clicks": 163,
+    "impressions": 5141,
+    "costMicros": 111351714,
+    "conversions": 2,
+    "ctr": 0.031705893794981524,
+    "averageCpc": 682833
+  },
+  "prev7d": {
+    "clicks": 198,
+    "impressions": 7105,
+    "costMicros": 143101948,
+    "conversions": 10,
+    "ctr": 0.027867698803659396,
+    "averageCpc": 722737
+  },
+  "current30d": {
+    "clicks": 635,
+    "impressions": 22149,
+    "costMicros": 522343718,
+    "conversions": 32,
+    "ctr": 0.028669465890107906,
+    "averageCpc": 822589
+  },
+  "prev30d": {
+    "clicks": 552,
+    "impressions": 11411,
+    "costMicros": 639782123,
+    "conversions": 18,
+    "ctr": 0.04837437560248883,
+    "averageCpc": 1159026
+  },
+  "yoy30d": {
+    "clicks": 6032,
+    "impressions": 671885,
+    "costMicros": 1863085644,
+    "conversions": 10,
+    "ctr": 0.008977072660440893,
+    "averageCpc": 308883
+  },
+  "lastUpdated": "2026-03-09T00:00:00.000Z"
+}

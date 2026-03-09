@@ -1,0 +1,19 @@
+[
+  {"url": "https://www.investmentmarkets.com.au/investments/property-funds?partnersOnly=true", "clicks": 1264, "impressions": 20150, "costMicros": 2901944144, "conversions": 502.330078, "ctr": 0.06272952853598016, "averageCpc": 2296632.2341772152},
+  {"url": "https://www.investmentmarkets.com.au/investments/fixed-income?partnersOnly=true", "clicks": 1002, "impressions": 17087, "costMicros": 1491851420, "conversions": 281.987879, "ctr": 0.05864107216012173, "averageCpc": 1489871.677644711},
+  {"url": "https://www.investmentmarkets.com.au/investments/managed-funds?partnersOnly=true", "clicks": 775, "impressions": 21979, "costMicros": 716829465, "conversions": 135.994623, "ctr": 0.03526093088857546, "averageCpc": 924941.2451612903},
+  {"url": "https://www.investmentmarkets.com.au/investments/bonds?partnersOnly=true", "clicks": 344, "impressions": 4836, "costMicros": 581835352, "conversions": 143.833334, "ctr": 0.07113316790736146, "averageCpc": 1691382.4186046512},
+  {"url": "https://www.investmentmarkets.com.au/investments/fixed-interest?partnersOnly=true", "clicks": 705, "impressions": 7730, "costMicros": 572004493, "conversions": 151, "ctr": 0.09120310478654592, "averageCpc": 811353.8907801419},
+  {"url": "https://www.investmentmarkets.com.au/investments/mortgage-funds?partnersOnly=true", "clicks": 96, "impressions": 1008, "costMicros": 233756997, "conversions": 46.166666, "ctr": 0.09523809523809523, "averageCpc": 2435989.552083333},
+  {"url": "https://www.investmentmarkets.com.au/", "clicks": 113, "impressions": 478, "costMicros": 84133052, "conversions": 44.666667, "ctr": 0.23640167364016737, "averageCpc": 744540.2831858407},
+  {"url": "https://www.investmentmarkets.com.au/investments/income", "clicks": 86, "impressions": 11452, "costMicros": 61190000, "conversions": 12.5, "ctr": 0.0075096053091163115, "averageCpc": 711511.627906977},
+  {"url": "https://www.investmentmarkets.com.au/investments/managed-funds/", "clicks": 39, "impressions": 13954, "costMicros": 38778031, "conversions": 6.5, "ctr": 0.002794897520424251, "averageCpc": 994308.4871794872},
+  {"url": "https://www.investmentmarkets.com.au/investments/growth", "clicks": 16, "impressions": 13937, "costMicros": 19947008, "conversions": 3, "ctr": 0.0011480232474707613, "averageCpc": 1246688},
+  {"url": "https://www.investmentmarkets.com.au/investments/wholesale", "clicks": 8, "impressions": 10241, "costMicros": 13623877, "conversions": 2.333333, "ctr": 0.0007811737135045405, "averageCpc": 1702984.625},
+  {"url": "https://www.investmentmarkets.com.au/investments/retail", "clicks": 7, "impressions": 10502, "costMicros": 10779986, "conversions": 2, "ctr": 0.0006665397067225291, "averageCpc": 1539998},
+  {"url": "https://www.investmentmarkets.com.au/investments/fixed-income", "clicks": 0, "impressions": 0, "costMicros": 0, "conversions": 2.333334, "ctr": 0, "averageCpc": 0},
+  {"url": "https://www.investmentmarkets.com.au/investments/mixed-assets", "clicks": 0, "impressions": 0, "costMicros": 0, "conversions": 2, "ctr": 0, "averageCpc": 0},
+  {"url": "https://www.investmentmarkets.com.au/investments/term-deposit", "clicks": 0, "impressions": 0, "costMicros": 0, "conversions": 2.333333, "ctr": 0, "averageCpc": 0},
+  {"url": "https://www.investmentmarkets.com.au/investments/equity-shares", "clicks": 0, "impressions": 0, "costMicros": 0, "conversions": 0.5, "ctr": 0, "averageCpc": 0},
+  {"url": "https://www.investmentmarkets.com.au/investments/fixed-interest", "clicks": 0, "impressions": 0, "costMicros": 0, "conversions": 0.5, "ctr": 0, "averageCpc": 0}
+]

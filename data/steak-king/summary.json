@@ -1,0 +1,50 @@
+{
+  "clientId": "steak-king",
+  "clientName": "Steak King",
+  "current7d": {
+    "clicks": 4525,
+    "impressions": 459479,
+    "costMicros": 34340540273,
+    "conversions": 127.465434,
+    "conversionValue": 204487.373078622,
+    "ctr": 0.009848110577414854,
+    "averageCpc": 7589069.67
+  },
+  "prev7d": {
+    "clicks": 5464,
+    "impressions": 490790,
+    "costMicros": 36335141091,
+    "conversions": 244.656281,
+    "conversionValue": 350621.910769031,
+    "ctr": 0.011133071170969254,
+    "averageCpc": 6649916.01
+  },
+  "current30d": {
+    "clicks": 20700,
+    "impressions": 1919112,
+    "costMicros": 139741460341,
+    "conversions": 829.545333,
+    "conversionValue": 1172163.103319774,
+    "ctr": 0.010786238635368858,
+    "averageCpc": 6750795.19
+  },
+  "prev30d": {
+    "clicks": 20560,
+    "impressions": 2427417,
+    "costMicros": 174793124471,
+    "conversions": 1220.055467,
+    "conversionValue": 1726060.833595412,
+    "ctr": 0.008469908548881383,
+    "averageCpc": 8501611.11
+  },
+  "yoy30d": {
+    "clicks": 1674,
+    "impressions": 32696,
+    "costMicros": 15204675952,
+    "conversions": 1696.137397,
+    "conversionValue": 1335487.132175971,
+    "ctr": 0.05119892341570834,
+    "averageCpc": 9082841.07
+  },
+  "lastUpdated": "2026-03-09T00:00:00.000Z"
+}

@@ -1,0 +1,74 @@
+[
+  {
+    "url": "https://mobilelocksmithinbrisbane.com.au/",
+    "clicks": 838,
+    "impressions": 45865,
+    "costMicros": 7856411009,
+    "conversions": 59.833333,
+    "ctr": 0.01827101275482394,
+    "averageCpc": 9375192.13484487
+  },
+  {
+    "url": "https://mobilelocksmithinbrisbane.com.au/emergency-service/",
+    "clicks": 56,
+    "impressions": 9998,
+    "costMicros": 509060374,
+    "conversions": 3.0,
+    "ctr": 0.005601120224044809,
+    "averageCpc": 9090363.82142857
+  },
+  {
+    "url": "https://mobilelocksmithinbrisbane.com.au/about/",
+    "clicks": 7,
+    "impressions": 8567,
+    "costMicros": 84970000,
+    "conversions": 1.0,
+    "ctr": 0.0008170888292284347,
+    "averageCpc": 12138571.42857143
+  },
+  {
+    "url": "https://mobilelocksmithinbrisbane.com.au/residential-service/",
+    "clicks": 10,
+    "impressions": 1726,
+    "costMicros": 36838081,
+    "conversions": 4.0,
+    "ctr": 0.005793742757821553,
+    "averageCpc": 3683808.1
+  },
+  {
+    "url": "https://mobilelocksmithinbrisbane.com.au/commercial-service/",
+    "clicks": 3,
+    "impressions": 7780,
+    "costMicros": 28785000,
+    "conversions": 1.0,
+    "ctr": 0.00038560411311053987,
+    "averageCpc": 9595000.0
+  },
+  {
+    "url": "https://mobilelocksmithinbrisbane.com.au/service/",
+    "clicks": 0,
+    "impressions": 0,
+    "costMicros": 0,
+    "conversions": 1.0,
+    "ctr": null,
+    "averageCpc": null
+  },
+  {
+    "url": "https://www.geelong-locksmith.au/residential/",
+    "clicks": 0,
+    "impressions": 432,
+    "costMicros": 0,
+    "conversions": 0.0,
+    "ctr": 0.0,
+    "averageCpc": null
+  },
+  {
+    "url": "https://mobilelocksmithinbrisbane.com.au/automotive-services/",
+    "clicks": 0,
+    "impressions": 0,
+    "costMicros": 0,
+    "conversions": 4.0,
+    "ctr": null,
+    "averageCpc": null
+  }
+]

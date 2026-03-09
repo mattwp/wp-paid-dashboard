@@ -1,0 +1,50 @@
+{
+  "clientId": "ublockout",
+  "clientName": "UBlockout",
+  "current7d": {
+    "clicks": 5948,
+    "impressions": 300160,
+    "costMicros": 9728263819,
+    "conversions": 19.505733,
+    "conversionValue": 32079.69220651,
+    "ctr": 0.019816098081023453,
+    "averageCpc": 1635552.09
+  },
+  "prev7d": {
+    "clicks": 5625,
+    "impressions": 269134,
+    "costMicros": 12918713943,
+    "conversions": 23,
+    "conversionValue": 28292.72,
+    "ctr": 0.020900369332748744,
+    "averageCpc": 2296660.26
+  },
+  "current30d": {
+    "clicks": 21248,
+    "impressions": 955429,
+    "costMicros": 46472032113,
+    "conversions": 135.941778,
+    "conversionValue": 179802.57547967,
+    "ctr": 0.022239224474032083,
+    "averageCpc": 2187125.01
+  },
+  "prev30d": {
+    "clicks": 25026,
+    "impressions": 739182,
+    "costMicros": 47407751877,
+    "conversions": 155.509756,
+    "conversionValue": 184627.97156309,
+    "ctr": 0.03385634390447819,
+    "averageCpc": 1894339.96
+  },
+  "yoy30d": {
+    "clicks": 32090,
+    "impressions": 608426,
+    "costMicros": 57734524907,
+    "conversions": 309.70562,
+    "conversionValue": 338518.78564415,
+    "ctr": 0.0527426507085496,
+    "averageCpc": 1799143.81
+  },
+  "lastUpdated": "2026-03-09T00:00:00.000Z"
+}

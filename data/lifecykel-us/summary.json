@@ -1,0 +1,50 @@
+{
+  "clientId": "lifecykel-us",
+  "clientName": "Lifecykel US",
+  "current7d": {
+    "clicks": 4048,
+    "impressions": 344674,
+    "costMicros": 15920109576,
+    "conversions": 137.963313,
+    "conversionValue": 21796.559762978,
+    "ctr": 0.01174443096955384,
+    "averageCpc": 3932833.3932806323
+  },
+  "prev7d": {
+    "clicks": 4036,
+    "impressions": 290820,
+    "costMicros": 10972231392,
+    "conversions": 259.240662,
+    "conversionValue": 30474.679147609,
+    "ctr": 0.013878000137542122,
+    "averageCpc": 2718590.5332011892
+  },
+  "current30d": {
+    "clicks": 15900,
+    "impressions": 1217195,
+    "costMicros": 47586816236,
+    "conversions": 1449.366923,
+    "conversionValue": 107027.912233685,
+    "ctr": 0.013062820665546605,
+    "averageCpc": 2992881.5242767297
+  },
+  "prev30d": {
+    "clicks": 10204,
+    "impressions": 1455439,
+    "costMicros": 29710518031,
+    "conversions": 1396.371684,
+    "conversionValue": 95389.212908847,
+    "ctr": 0.00701094309002301,
+    "averageCpc": 2911654.060270482
+  },
+  "yoy30d": {
+    "clicks": 25947,
+    "impressions": 4199614,
+    "costMicros": 63285841512,
+    "conversions": 2515.686078,
+    "conversionValue": 218051.982067952,
+    "ctr": 0.006178424969532914,
+    "averageCpc": 2439042.722164412
+  },
+  "lastUpdated": "2026-03-09T00:00:00.000Z"
+}

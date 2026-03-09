@@ -1,0 +1,5002 @@
+[
+  {
+    "keyword": "best sleep aids",
+    "matchType": "PHRASE",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Information Intent - Themes - MOFU",
+    "adGroup": "Sleep & Relaxation"
+  },
+  {
+    "keyword": "natural sleep aids for adults",
+    "matchType": "PHRASE",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Information Intent - Themes - MOFU",
+    "adGroup": "Sleep & Relaxation"
+  },
+  {
+    "keyword": "best sleep supplement",
+    "matchType": "PHRASE",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Information Intent - Themes - MOFU",
+    "adGroup": "Sleep & Relaxation"
+  },
+  {
+    "keyword": "herbal melatonin",
+    "matchType": "PHRASE",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Information Intent - Themes - MOFU",
+    "adGroup": "Sleep & Relaxation"
+  },
+  {
+    "keyword": "cold plunge benefits",
+    "matchType": "PHRASE",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Information Intent - Themes - MOFU",
+    "adGroup": "Ice Baths"
+  },
+  {
+    "keyword": "supplements to lower cortisol",
+    "matchType": "PHRASE",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Information Intent - Themes - MOFU",
+    "adGroup": "Stress"
+  },
+  {
+    "keyword": "supplements to reduce cortisol",
+    "matchType": "PHRASE",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Information Intent - Themes - MOFU",
+    "adGroup": "Stress"
+  },
+  {
+    "keyword": "best cortisol supplement",
+    "matchType": "PHRASE",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Information Intent - Themes - MOFU",
+    "adGroup": "Stress"
+  },
+  {
+    "keyword": "wanderlust",
+    "matchType": "PHRASE",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Competitors",
+    "adGroup": "Wanderlust"
+  },
+  {
+    "keyword": "alpha brain",
+    "matchType": "BROAD",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Competitors",
+    "adGroup": "Alpha Brain"
+  },
+  {
+    "keyword": "magic mind",
+    "matchType": "PHRASE",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Competitors",
+    "adGroup": "Magic Mind"
+  },
+  {
+    "keyword": "magicmind",
+    "matchType": "PHRASE",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Competitors",
+    "adGroup": "Magic Mind"
+  },
+  {
+    "keyword": "mane focus",
+    "matchType": "BROAD",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "best lion's mane supplement",
+    "matchType": "BROAD",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "oriveda lion's mane",
+    "matchType": "EXACT",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "oriveda lion's mane",
+    "matchType": "BROAD",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "om lion's mane",
+    "matchType": "EXACT",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "om lion's mane",
+    "matchType": "BROAD",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lion's mane health benefits",
+    "matchType": "BROAD",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "best lion's mane supplement",
+    "matchType": "EXACT",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lion's mane extract powder",
+    "matchType": "EXACT",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lion's mane extract powder",
+    "matchType": "BROAD",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "oriveda lion's mane",
+    "matchType": "PHRASE",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lion's mane extract powder",
+    "matchType": "PHRASE",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "best lion's mane supplement",
+    "matchType": "PHRASE",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lions mane supplement amazon",
+    "matchType": "BROAD",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lions mane amazon",
+    "matchType": "BROAD",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lion's mane walgreens",
+    "matchType": "EXACT",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "gnc lion's mane",
+    "matchType": "BROAD",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lions mane amazon",
+    "matchType": "EXACT",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "gnc lion's mane",
+    "matchType": "EXACT",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "nootropics depot lions mane",
+    "matchType": "BROAD",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "nootropics depot lions mane",
+    "matchType": "EXACT",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "host defense mushrooms lion's mane",
+    "matchType": "EXACT",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lion's mane mushroom swanson",
+    "matchType": "EXACT",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lion's mane health benefits",
+    "matchType": "PHRASE",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "four sigmatic focus",
+    "matchType": "BROAD",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "om lion's mane powder",
+    "matchType": "EXACT",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lion's mane mushroom swanson",
+    "matchType": "BROAD",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lion's mane walmart",
+    "matchType": "PHRASE",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "four sigmatic focus",
+    "matchType": "EXACT",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "nootropics depot lions mane",
+    "matchType": "PHRASE",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "om lion's mane",
+    "matchType": "PHRASE",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "om lion's mane powder",
+    "matchType": "PHRASE",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "host defense mushrooms lion's mane",
+    "matchType": "PHRASE",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "sprouts lions mane",
+    "matchType": "BROAD",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lion's mane om",
+    "matchType": "BROAD",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lion's mane om",
+    "matchType": "EXACT",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lion's mane health benefits",
+    "matchType": "EXACT",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lion's mane mushroom near me",
+    "matchType": "EXACT",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lion's mane near me",
+    "matchType": "EXACT",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "host defense mushrooms lion's mane",
+    "matchType": "BROAD",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lion's mane near me",
+    "matchType": "PHRASE",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lion's mane walmart",
+    "matchType": "EXACT",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "thorne lions mane",
+    "matchType": "BROAD",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "thorne lions mane",
+    "matchType": "EXACT",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lion's mane mushroom near me",
+    "matchType": "BROAD",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lion's mane near me",
+    "matchType": "BROAD",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lion's mane walgreens",
+    "matchType": "BROAD",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lion's mane walmart",
+    "matchType": "BROAD",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "om lion's mane powder",
+    "matchType": "BROAD",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "mane focus",
+    "matchType": "EXACT",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lions mane amazon",
+    "matchType": "PHRASE",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lion's mane mushroom near me",
+    "matchType": "PHRASE",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lion's tail mushroom",
+    "matchType": "EXACT",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "sprouts lions mane",
+    "matchType": "EXACT",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lion's tail mushroom",
+    "matchType": "BROAD",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lion's mane om",
+    "matchType": "PHRASE",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lion's tail mushroom",
+    "matchType": "PHRASE",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "four sigmatic focus",
+    "matchType": "PHRASE",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lion's mane mushroom swanson",
+    "matchType": "PHRASE",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lions mane supplement amazon",
+    "matchType": "EXACT",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "nature's truth lion's mane",
+    "matchType": "EXACT",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "gnc lion's mane",
+    "matchType": "PHRASE",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "mane focus",
+    "matchType": "PHRASE",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "roar lions mane",
+    "matchType": "EXACT",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "mary ruth lion's mane",
+    "matchType": "EXACT",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "cvs lions mane",
+    "matchType": "BROAD",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "nature's truth lion's mane",
+    "matchType": "BROAD",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "cvs lions mane",
+    "matchType": "EXACT",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "mary ruth lion's mane",
+    "matchType": "BROAD",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "roar lions mane",
+    "matchType": "BROAD",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lions mane supplement amazon",
+    "matchType": "PHRASE",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "nature's truth lion's mane",
+    "matchType": "PHRASE",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "sprouts lions mane",
+    "matchType": "PHRASE",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "roar lions mane",
+    "matchType": "PHRASE",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "thorne lions mane",
+    "matchType": "PHRASE",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "cvs lions mane",
+    "matchType": "PHRASE",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "dr loves lions mane",
+    "matchType": "BROAD",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lion's mane walgreens",
+    "matchType": "PHRASE",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "mary ruth lion's mane",
+    "matchType": "PHRASE",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "dr loves lions mane",
+    "matchType": "EXACT",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "dr loves lions mane",
+    "matchType": "PHRASE",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "everyday dose",
+    "matchType": "BROAD",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Competitors",
+    "adGroup": "Everyday Dose"
+  },
+  {
+    "keyword": "everydaydose",
+    "matchType": "BROAD",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Competitors",
+    "adGroup": "Everyday Dose"
+  },
+  {
+    "keyword": "oriveda lion's mane",
+    "matchType": "EXACT",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded CA",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "om lion's mane",
+    "matchType": "EXACT",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded CA",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "oriveda lion's mane",
+    "matchType": "PHRASE",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded CA",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lions mane amazon",
+    "matchType": "EXACT",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded CA",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lion's mane nootropic",
+    "matchType": "EXACT",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded CA",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "om lion's mane",
+    "matchType": "PHRASE",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded CA",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lion's mane mushroom near me",
+    "matchType": "EXACT",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded CA",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lions mane amazon",
+    "matchType": "PHRASE",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded CA",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lion's mane mushroom near me",
+    "matchType": "PHRASE",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded CA",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lion's mane nootropic",
+    "matchType": "PHRASE",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded CA",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lions mane supplement amazon",
+    "matchType": "EXACT",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded CA",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lions mane supplement amazon",
+    "matchType": "PHRASE",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded CA",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "best lions mane",
+    "matchType": "EXACT",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane V2"
+  },
+  {
+    "keyword": "four sigmatic lion's mane",
+    "matchType": "EXACT",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane V2"
+  },
+  {
+    "keyword": "oriveda lion's mane",
+    "matchType": "EXACT",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane V2"
+  },
+  {
+    "keyword": "four sigmatic lion's mane",
+    "matchType": "PHRASE",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane V2"
+  },
+  {
+    "keyword": "oriveda lion's mane",
+    "matchType": "PHRASE",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane V2"
+  },
+  {
+    "keyword": "lion's mane mushroom amazon",
+    "matchType": "EXACT",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane V2"
+  },
+  {
+    "keyword": "gnc lion's mane",
+    "matchType": "EXACT",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane V2"
+  },
+  {
+    "keyword": "nootropics depot lions mane",
+    "matchType": "EXACT",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane V2"
+  },
+  {
+    "keyword": "host defense mushrooms lion's mane",
+    "matchType": "EXACT",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane V2"
+  },
+  {
+    "keyword": "best lion's mane mushroom",
+    "matchType": "EXACT",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane V2"
+  },
+  {
+    "keyword": "lion's mane walmart",
+    "matchType": "PHRASE",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane V2"
+  },
+  {
+    "keyword": "four sigmatic focus",
+    "matchType": "EXACT",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane V2"
+  },
+  {
+    "keyword": "nootropics depot lions mane",
+    "matchType": "PHRASE",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane V2"
+  },
+  {
+    "keyword": "best lions mane",
+    "matchType": "PHRASE",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane V2"
+  },
+  {
+    "keyword": "host defense mushrooms lion's mane",
+    "matchType": "PHRASE",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane V2"
+  },
+  {
+    "keyword": "paul stamets lion's mane",
+    "matchType": "EXACT",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane V2"
+  },
+  {
+    "keyword": "paul stamets lion's mane",
+    "matchType": "PHRASE",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane V2"
+  },
+  {
+    "keyword": "lion's mane liquid culture",
+    "matchType": "EXACT",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane V2"
+  },
+  {
+    "keyword": "mushrooms for memory",
+    "matchType": "EXACT",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane V2"
+  },
+  {
+    "keyword": "lion's mane walmart",
+    "matchType": "EXACT",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane V2"
+  },
+  {
+    "keyword": "lion's mane brain fog",
+    "matchType": "PHRASE",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane V2"
+  },
+  {
+    "keyword": "best lion's mane mushroom",
+    "matchType": "PHRASE",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane V2"
+  },
+  {
+    "keyword": "genius lion's mane",
+    "matchType": "EXACT",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane V2"
+  },
+  {
+    "keyword": "lions mane sprouts",
+    "matchType": "EXACT",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane V2"
+  },
+  {
+    "keyword": "sprouts lions mane",
+    "matchType": "EXACT",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane V2"
+  },
+  {
+    "keyword": "lion's mane om",
+    "matchType": "PHRASE",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane V2"
+  },
+  {
+    "keyword": "nootropics lion's mane",
+    "matchType": "PHRASE",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane V2"
+  },
+  {
+    "keyword": "lion's mane brain fog",
+    "matchType": "EXACT",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane V2"
+  },
+  {
+    "keyword": "lion's mane mushroom amazon",
+    "matchType": "PHRASE",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane V2"
+  },
+  {
+    "keyword": "mushroom for brain",
+    "matchType": "EXACT",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane V2"
+  },
+  {
+    "keyword": "lion's mane costco",
+    "matchType": "EXACT",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane V2"
+  },
+  {
+    "keyword": "lions mane powder amazon",
+    "matchType": "EXACT",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane V2"
+  },
+  {
+    "keyword": "lion's mane liquid culture",
+    "matchType": "PHRASE",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane V2"
+  },
+  {
+    "keyword": "mushroom good for brain",
+    "matchType": "EXACT",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane V2"
+  },
+  {
+    "keyword": "amazon lions mane",
+    "matchType": "PHRASE",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane V2"
+  },
+  {
+    "keyword": "lions mane supplement amazon",
+    "matchType": "EXACT",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane V2"
+  },
+  {
+    "keyword": "best lions mane supplement amazon",
+    "matchType": "EXACT",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane V2"
+  },
+  {
+    "keyword": "mushroom for brain",
+    "matchType": "PHRASE",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane V2"
+  },
+  {
+    "keyword": "gnc lion's mane",
+    "matchType": "PHRASE",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane V2"
+  },
+  {
+    "keyword": "lions mane supplement reddit",
+    "matchType": "EXACT",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane V2"
+  },
+  {
+    "keyword": "lions mane powder amazon",
+    "matchType": "PHRASE",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane V2"
+  },
+  {
+    "keyword": "mushrooms for memory",
+    "matchType": "PHRASE",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane V2"
+  },
+  {
+    "keyword": "mary ruth lion's mane",
+    "matchType": "EXACT",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane V2"
+  },
+  {
+    "keyword": "cvs lions mane",
+    "matchType": "EXACT",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane V2"
+  },
+  {
+    "keyword": "lions mane supplement amazon",
+    "matchType": "PHRASE",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane V2"
+  },
+  {
+    "keyword": "sprouts lions mane",
+    "matchType": "PHRASE",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane V2"
+  },
+  {
+    "keyword": "mushroom good for brain",
+    "matchType": "PHRASE",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane V2"
+  },
+  {
+    "keyword": "lions mane sprouts",
+    "matchType": "PHRASE",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane V2"
+  },
+  {
+    "keyword": "cvs lions mane",
+    "matchType": "PHRASE",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane V2"
+  },
+  {
+    "keyword": "dr loves lions mane",
+    "matchType": "EXACT",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane V2"
+  },
+  {
+    "keyword": "genius lion's mane",
+    "matchType": "PHRASE",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane V2"
+  },
+  {
+    "keyword": "lions mane supplement reddit",
+    "matchType": "PHRASE",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane V2"
+  },
+  {
+    "keyword": "lion's mane costco",
+    "matchType": "PHRASE",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane V2"
+  },
+  {
+    "keyword": "nad",
+    "matchType": "BROAD",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Liposomal"
+  },
+  {
+    "keyword": "nad supplement",
+    "matchType": "PHRASE",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Liposomal"
+  },
+  {
+    "keyword": "nmn",
+    "matchType": "BROAD",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Liposomal"
+  },
+  {
+    "keyword": "nad supplement",
+    "matchType": "BROAD",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Liposomal"
+  },
+  {
+    "keyword": "nmn supplement",
+    "matchType": "BROAD",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Liposomal"
+  },
+  {
+    "keyword": "NAD supplement",
+    "matchType": "EXACT",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Liposomal"
+  },
+  {
+    "keyword": "nad plus",
+    "matchType": "BROAD",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Liposomal"
+  },
+  {
+    "keyword": "nad plus supplement",
+    "matchType": "BROAD",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Liposomal"
+  },
+  {
+    "keyword": "nad therapy",
+    "matchType": "BROAD",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Liposomal"
+  },
+  {
+    "keyword": "nmn vitamin",
+    "matchType": "BROAD",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Liposomal"
+  },
+  {
+    "keyword": "nad plus supplement",
+    "matchType": "PHRASE",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Liposomal"
+  },
+  {
+    "keyword": "best nad supplement",
+    "matchType": "BROAD",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Liposomal"
+  },
+  {
+    "keyword": "nmn supplement",
+    "matchType": "PHRASE",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Liposomal"
+  },
+  {
+    "keyword": "best nad supplement",
+    "matchType": "PHRASE",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Liposomal"
+  },
+  {
+    "keyword": "best nmn supplement",
+    "matchType": "BROAD",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Liposomal"
+  },
+  {
+    "keyword": "nmn benefits",
+    "matchType": "BROAD",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Liposomal"
+  },
+  {
+    "keyword": "best nmn supplement",
+    "matchType": "PHRASE",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Liposomal"
+  },
+  {
+    "keyword": "nmn vs nad",
+    "matchType": "BROAD",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Liposomal"
+  },
+  {
+    "keyword": "nmn capsules",
+    "matchType": "PHRASE",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Liposomal"
+  },
+  {
+    "keyword": "what is nmn supplement",
+    "matchType": "PHRASE",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Liposomal"
+  },
+  {
+    "keyword": "what is nmn supplement",
+    "matchType": "BROAD",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Liposomal"
+  },
+  {
+    "keyword": "benefits of nmn",
+    "matchType": "BROAD",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Liposomal"
+  },
+  {
+    "keyword": "nmn capsules",
+    "matchType": "BROAD",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Liposomal"
+  },
+  {
+    "keyword": "best NAD supplement",
+    "matchType": "EXACT",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Liposomal"
+  },
+  {
+    "keyword": "fulvic acid shilajit",
+    "matchType": "PHRASE",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Shilajit"
+  },
+  {
+    "keyword": "pure himalayan shilajit",
+    "matchType": "EXACT",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Shilajit"
+  },
+  {
+    "keyword": "advantages of shilajit",
+    "matchType": "EXACT",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Shilajit"
+  },
+  {
+    "keyword": "best shilajit resin",
+    "matchType": "EXACT",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Shilajit"
+  },
+  {
+    "keyword": "advantages of shilajit",
+    "matchType": "PHRASE",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Shilajit"
+  },
+  {
+    "keyword": "shilajit australia",
+    "matchType": "EXACT",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Shilajit"
+  },
+  {
+    "keyword": "top rated shilajit",
+    "matchType": "PHRASE",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Shilajit"
+  },
+  {
+    "keyword": "top rated shilajit",
+    "matchType": "EXACT",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Shilajit"
+  },
+  {
+    "keyword": "shilajit resin near me",
+    "matchType": "EXACT",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Shilajit"
+  },
+  {
+    "keyword": "shilagite",
+    "matchType": "EXACT",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Shilajit"
+  },
+  {
+    "keyword": "cordyceps near me",
+    "matchType": "EXACT",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Cordyceps"
+  },
+  {
+    "keyword": "reishi powder",
+    "matchType": "EXACT",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Reishi"
+  },
+  {
+    "keyword": "reishi amazon",
+    "matchType": "EXACT",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Reishi"
+  },
+  {
+    "keyword": "reishi amazon",
+    "matchType": "PHRASE",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Reishi"
+  },
+  {
+    "keyword": "reishi mushroom near me",
+    "matchType": "EXACT",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Reishi"
+  },
+  {
+    "keyword": "reishi mushroom near me",
+    "matchType": "PHRASE",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Reishi"
+  },
+  {
+    "keyword": "shiitake powder",
+    "matchType": "PHRASE",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Shiitake"
+  },
+  {
+    "keyword": "shiitake powder",
+    "matchType": "EXACT",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Shiitake"
+  },
+  {
+    "keyword": "best mushroom supplements",
+    "matchType": "EXACT",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Mushroom Supplements"
+  },
+  {
+    "keyword": "best mushroom supplements brands",
+    "matchType": "PHRASE",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Mushroom Supplements"
+  },
+  {
+    "keyword": "best mushroom supplements brands",
+    "matchType": "EXACT",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Mushroom Supplements"
+  },
+  {
+    "keyword": "natural sleep support",
+    "matchType": "PHRASE",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Information Intent - Themes - MOFU",
+    "adGroup": "Sleep & Relaxation"
+  },
+  {
+    "keyword": "natural sleep aid for adults",
+    "matchType": "PHRASE",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Information Intent - Themes - MOFU",
+    "adGroup": "Sleep & Relaxation"
+  },
+  {
+    "keyword": "lion's mane powder",
+    "matchType": "BROAD",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lion's mane tea",
+    "matchType": "PHRASE",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lion's mane powder",
+    "matchType": "PHRASE",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lion's mane tea",
+    "matchType": "EXACT",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lion's mane mushroom powder",
+    "matchType": "BROAD",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lion's mane tea",
+    "matchType": "BROAD",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lion's mane vitamin",
+    "matchType": "BROAD",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lion's mane powder",
+    "matchType": "EXACT",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lion's mane coffee",
+    "matchType": "EXACT",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lion's mane mushroom powder",
+    "matchType": "EXACT",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lion's mane for sale",
+    "matchType": "BROAD",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lion's mane mushroom powder",
+    "matchType": "PHRASE",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lion's mane coffee",
+    "matchType": "PHRASE",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lion's mane vitamin",
+    "matchType": "EXACT",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "organic lion's mane mushroom",
+    "matchType": "BROAD",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "organic lion's mane mushroom",
+    "matchType": "EXACT",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lion's mane adaptogen",
+    "matchType": "EXACT",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lion's mane for sale",
+    "matchType": "PHRASE",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lion supplements",
+    "matchType": "BROAD",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lion's mane for sale",
+    "matchType": "EXACT",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lion's mane coffee",
+    "matchType": "BROAD",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lion's mane for memory",
+    "matchType": "BROAD",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "organic lion's mane mushroom",
+    "matchType": "PHRASE",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lion supplements",
+    "matchType": "EXACT",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lion's mane for memory",
+    "matchType": "EXACT",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lion supplements",
+    "matchType": "PHRASE",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lion's mane vitamin",
+    "matchType": "PHRASE",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lion's mane where to buy",
+    "matchType": "PHRASE",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lion's mane adaptogen",
+    "matchType": "BROAD",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lion's mane focus",
+    "matchType": "BROAD",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lion's mane focus",
+    "matchType": "EXACT",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lion's mane nutrition",
+    "matchType": "EXACT",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lion's mane nutrition",
+    "matchType": "BROAD",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lion's mane food",
+    "matchType": "BROAD",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lions mane price",
+    "matchType": "EXACT",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lion's mane drink",
+    "matchType": "BROAD",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lion's mane where to buy",
+    "matchType": "EXACT",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lion's mane nutrition",
+    "matchType": "PHRASE",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lion's mane where to buy",
+    "matchType": "BROAD",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lion's mane food",
+    "matchType": "PHRASE",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lion's mane food",
+    "matchType": "EXACT",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lion's mane drink",
+    "matchType": "EXACT",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lions mane price",
+    "matchType": "BROAD",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lions mane price",
+    "matchType": "PHRASE",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lion's mane supplement near me",
+    "matchType": "EXACT",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lion's mane for memory",
+    "matchType": "PHRASE",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lion's mane supplement near me",
+    "matchType": "BROAD",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "gaia lion's mane",
+    "matchType": "BROAD",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lion's mane gummies",
+    "matchType": "BROAD",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lion's mane drink",
+    "matchType": "PHRASE",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lion's mane focus",
+    "matchType": "PHRASE",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lion's mane gummies",
+    "matchType": "EXACT",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "gaia lion's mane",
+    "matchType": "EXACT",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lion's mane supplement near me",
+    "matchType": "PHRASE",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lions mane beneficios",
+    "matchType": "EXACT",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lions mane beneficios",
+    "matchType": "BROAD",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lion's mane mushroom gummies",
+    "matchType": "EXACT",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lion's mane mushroom gummies",
+    "matchType": "BROAD",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lion's mane mushroom gummies",
+    "matchType": "PHRASE",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lion's mane gummies",
+    "matchType": "PHRASE",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lion's mane adaptogen",
+    "matchType": "PHRASE",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "gaia lion's mane",
+    "matchType": "PHRASE",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lions mane beneficios",
+    "matchType": "PHRASE",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lion's mane powder",
+    "matchType": "PHRASE",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded CA",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lion's mane powder",
+    "matchType": "EXACT",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded CA",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lion's mane mushroom powder",
+    "matchType": "EXACT",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded CA",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lion's mane mushroom benefits",
+    "matchType": "EXACT",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded CA",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lion's mane mushroom powder",
+    "matchType": "PHRASE",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded CA",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lion's mane mushroom benefits",
+    "matchType": "PHRASE",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded CA",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lion supplements",
+    "matchType": "EXACT",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded CA",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lion supplements",
+    "matchType": "PHRASE",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded CA",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lion's mane near me",
+    "matchType": "EXACT",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded CA",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lion's mane near me",
+    "matchType": "PHRASE",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded CA",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lions mane adhd",
+    "matchType": "EXACT",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded CA",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lion's mane mushroom gummies",
+    "matchType": "EXACT",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded CA",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lion's mane mushroom gummies",
+    "matchType": "PHRASE",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded CA",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lions mane adhd",
+    "matchType": "PHRASE",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded CA",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lion's mane powder",
+    "matchType": "PHRASE",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane V2"
+  },
+  {
+    "keyword": "buy lions mane",
+    "matchType": "EXACT",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane V2"
+  },
+  {
+    "keyword": "lion's mane powder",
+    "matchType": "EXACT",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane V2"
+  },
+  {
+    "keyword": "lion's mane coffee",
+    "matchType": "EXACT",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane V2"
+  },
+  {
+    "keyword": "om lion's mane",
+    "matchType": "EXACT",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane V2"
+  },
+  {
+    "keyword": "hericium erinaceus supplement",
+    "matchType": "EXACT",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane V2"
+  },
+  {
+    "keyword": "lion's mane coffee",
+    "matchType": "PHRASE",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane V2"
+  },
+  {
+    "keyword": "lion's mane vitamin",
+    "matchType": "EXACT",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane V2"
+  },
+  {
+    "keyword": "lion's mane adaptogen",
+    "matchType": "EXACT",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane V2"
+  },
+  {
+    "keyword": "lions mane for sale",
+    "matchType": "EXACT",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane V2"
+  },
+  {
+    "keyword": "lion's mane mushroom for sale",
+    "matchType": "PHRASE",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane V2"
+  },
+  {
+    "keyword": "buy lions mane",
+    "matchType": "PHRASE",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane V2"
+  },
+  {
+    "keyword": "lion supplements",
+    "matchType": "EXACT",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane V2"
+  },
+  {
+    "keyword": "lion's mane for memory",
+    "matchType": "EXACT",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane V2"
+  },
+  {
+    "keyword": "lion's mane mushroom for sale",
+    "matchType": "EXACT",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane V2"
+  },
+  {
+    "keyword": "om lion's mane",
+    "matchType": "PHRASE",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane V2"
+  },
+  {
+    "keyword": "lion's mane vitamin",
+    "matchType": "PHRASE",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane V2"
+  },
+  {
+    "keyword": "mushroom focus",
+    "matchType": "EXACT",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane V2"
+  },
+  {
+    "keyword": "lions mane price",
+    "matchType": "EXACT",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane V2"
+  },
+  {
+    "keyword": "lion's mane drink",
+    "matchType": "EXACT",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane V2"
+  },
+  {
+    "keyword": "lion's mane mushrooms near me",
+    "matchType": "EXACT",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane V2"
+  },
+  {
+    "keyword": "lion's tail mushroom",
+    "matchType": "EXACT",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane V2"
+  },
+  {
+    "keyword": "lion's mane mushrooms near me",
+    "matchType": "PHRASE",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane V2"
+  },
+  {
+    "keyword": "lions mane price",
+    "matchType": "PHRASE",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane V2"
+  },
+  {
+    "keyword": "lion's mane for memory",
+    "matchType": "PHRASE",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane V2"
+  },
+  {
+    "keyword": "lion's tail mushroom",
+    "matchType": "PHRASE",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane V2"
+  },
+  {
+    "keyword": "lions mane adhd",
+    "matchType": "EXACT",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane V2"
+  },
+  {
+    "keyword": "lions mane and adhd",
+    "matchType": "EXACT",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane V2"
+  },
+  {
+    "keyword": "lions mane for adhd",
+    "matchType": "EXACT",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane V2"
+  },
+  {
+    "keyword": "lions mane mushroom where to buy",
+    "matchType": "EXACT",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane V2"
+  },
+  {
+    "keyword": "lion's mane drink",
+    "matchType": "PHRASE",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane V2"
+  },
+  {
+    "keyword": "lion's mane gummies",
+    "matchType": "EXACT",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane V2"
+  },
+  {
+    "keyword": "lions mane for sale",
+    "matchType": "PHRASE",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane V2"
+  },
+  {
+    "keyword": "lions mane mushroom where to buy",
+    "matchType": "PHRASE",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane V2"
+  },
+  {
+    "keyword": "lion's mane mushroom gummies",
+    "matchType": "EXACT",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane V2"
+  },
+  {
+    "keyword": "lion's mane mushroom gummies",
+    "matchType": "PHRASE",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane V2"
+  },
+  {
+    "keyword": "lion's mane gummies",
+    "matchType": "PHRASE",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane V2"
+  },
+  {
+    "keyword": "lions mane for adhd",
+    "matchType": "PHRASE",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane V2"
+  },
+  {
+    "keyword": "lion's mane adaptogen",
+    "matchType": "PHRASE",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane V2"
+  },
+  {
+    "keyword": "lions mane adhd",
+    "matchType": "PHRASE",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane V2"
+  },
+  {
+    "keyword": "lions mane and adhd",
+    "matchType": "PHRASE",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane V2"
+  },
+  {
+    "keyword": "liposomal liquid",
+    "matchType": "BROAD",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Liposomal"
+  },
+  {
+    "keyword": "NAD+ supplement",
+    "matchType": "EXACT",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Liposomal"
+  },
+  {
+    "keyword": "liposomal liquid",
+    "matchType": "PHRASE",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Liposomal"
+  },
+  {
+    "keyword": "shilajit liquid",
+    "matchType": "EXACT",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Shilajit"
+  },
+  {
+    "keyword": "himalayan shilajit",
+    "matchType": "EXACT",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Shilajit"
+  },
+  {
+    "keyword": "shilajit extract",
+    "matchType": "EXACT",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Shilajit"
+  },
+  {
+    "keyword": "shilajit supplement",
+    "matchType": "EXACT",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Shilajit"
+  },
+  {
+    "keyword": "where to buy shilajit",
+    "matchType": "EXACT",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Shilajit"
+  },
+  {
+    "keyword": "natural shilajit resin",
+    "matchType": "EXACT",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Shilajit"
+  },
+  {
+    "keyword": "buy shilajit",
+    "matchType": "EXACT",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Shilajit"
+  },
+  {
+    "keyword": "buy shilajit",
+    "matchType": "PHRASE",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Shilajit"
+  },
+  {
+    "keyword": "shilajit natural",
+    "matchType": "EXACT",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Shilajit"
+  },
+  {
+    "keyword": "shilajit supplement",
+    "matchType": "PHRASE",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Shilajit"
+  },
+  {
+    "keyword": "shilajit price",
+    "matchType": "EXACT",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Shilajit"
+  },
+  {
+    "keyword": "pure shilajit resin",
+    "matchType": "EXACT",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Shilajit"
+  },
+  {
+    "keyword": "shilajit natural",
+    "matchType": "PHRASE",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Shilajit"
+  },
+  {
+    "keyword": "shilajit resin supplement",
+    "matchType": "EXACT",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Shilajit"
+  },
+  {
+    "keyword": "shilajit near me",
+    "matchType": "EXACT",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Shilajit"
+  },
+  {
+    "keyword": "raw shilajit resin",
+    "matchType": "EXACT",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Shilajit"
+  },
+  {
+    "keyword": "cordyceps mushroom powder",
+    "matchType": "EXACT",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Cordyceps"
+  },
+  {
+    "keyword": "cordyceps sinensis supplement",
+    "matchType": "EXACT",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Cordyceps"
+  },
+  {
+    "keyword": "cordyceps for sale",
+    "matchType": "EXACT",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Cordyceps"
+  },
+  {
+    "keyword": "reishi mushroom powder",
+    "matchType": "EXACT",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Reishi"
+  },
+  {
+    "keyword": "organic reishi extract",
+    "matchType": "PHRASE",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Reishi"
+  },
+  {
+    "keyword": "reishi tablets",
+    "matchType": "EXACT",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Reishi"
+  },
+  {
+    "keyword": "reishi mushroom price",
+    "matchType": "PHRASE",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Reishi"
+  },
+  {
+    "keyword": "reishi tablets",
+    "matchType": "PHRASE",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Reishi"
+  },
+  {
+    "keyword": "chaga mushroom for sale",
+    "matchType": "EXACT",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Chaga"
+  },
+  {
+    "keyword": "chaga mushroom for sale",
+    "matchType": "PHRASE",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Chaga"
+  },
+  {
+    "keyword": "shiitake capsules",
+    "matchType": "PHRASE",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Shiitake"
+  },
+  {
+    "keyword": "mushroom extract powder",
+    "matchType": "EXACT",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Mushroom Supplements"
+  },
+  {
+    "keyword": "lion's mane supplement",
+    "matchType": "BROAD",
+    "qualityScore": 3,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - High Intent - Product Range - BOFU",
+    "adGroup": "Lion's Mane | Product Range"
+  },
+  {
+    "keyword": "cordyceps supplements",
+    "matchType": "BROAD",
+    "qualityScore": 3,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - High Intent - Product Range - BOFU",
+    "adGroup": "Cordyceps | Product Range"
+  },
+  {
+    "keyword": "Liposomal Glutathione",
+    "matchType": "PHRASE",
+    "qualityScore": 3,
+    "creativeQualityScore": "ABOVE_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - High Intent - Product Range - BOFU",
+    "adGroup": "Liposomal Supplements"
+  },
+  {
+    "keyword": "Liposomal Supplements",
+    "matchType": "PHRASE",
+    "qualityScore": 3,
+    "creativeQualityScore": "ABOVE_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - High Intent - Product Range - BOFU",
+    "adGroup": "Liposomal Supplements"
+  },
+  {
+    "keyword": "host defense",
+    "matchType": "EXACT",
+    "qualityScore": 3,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Competitors",
+    "adGroup": "Hostdefense"
+  },
+  {
+    "keyword": "host defense",
+    "matchType": "PHRASE",
+    "qualityScore": 3,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Competitors",
+    "adGroup": "Hostdefense"
+  },
+  {
+    "keyword": "host defense mushrooms",
+    "matchType": "EXACT",
+    "qualityScore": 3,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Competitors",
+    "adGroup": "Hostdefense"
+  },
+  {
+    "keyword": "host defense mushrooms",
+    "matchType": "PHRASE",
+    "qualityScore": 3,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Competitors",
+    "adGroup": "Hostdefense"
+  },
+  {
+    "keyword": "lion's mane capsules",
+    "matchType": "BROAD",
+    "qualityScore": 3,
+    "creativeQualityScore": "ABOVE_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "organic lion's mane",
+    "matchType": "BROAD",
+    "qualityScore": 3,
+    "creativeQualityScore": "ABOVE_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lion's mane mushroom for sale",
+    "matchType": "BROAD",
+    "qualityScore": 3,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lion's mane mushroom amazon",
+    "matchType": "BROAD",
+    "qualityScore": 3,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lion's mane elixir",
+    "matchType": "BROAD",
+    "qualityScore": 3,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lion's mane nootropic",
+    "matchType": "BROAD",
+    "qualityScore": 3,
+    "creativeQualityScore": "ABOVE_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lion's mane mushroom amazon",
+    "matchType": "EXACT",
+    "qualityScore": 3,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lion's mane elixir",
+    "matchType": "EXACT",
+    "qualityScore": 3,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lions mane reviews",
+    "matchType": "BROAD",
+    "qualityScore": 3,
+    "creativeQualityScore": "ABOVE_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lion's mane organic",
+    "matchType": "EXACT",
+    "qualityScore": 3,
+    "creativeQualityScore": "ABOVE_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lion's mane organic",
+    "matchType": "BROAD",
+    "qualityScore": 3,
+    "creativeQualityScore": "ABOVE_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "mushrooms for memory",
+    "matchType": "BROAD",
+    "qualityScore": 3,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "organic lion's mane",
+    "matchType": "EXACT",
+    "qualityScore": 3,
+    "creativeQualityScore": "ABOVE_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lion's mane capsules",
+    "matchType": "PHRASE",
+    "qualityScore": 3,
+    "creativeQualityScore": "ABOVE_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "organic lion's mane",
+    "matchType": "PHRASE",
+    "qualityScore": 3,
+    "creativeQualityScore": "ABOVE_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lion's mane mushroom for sale",
+    "matchType": "PHRASE",
+    "qualityScore": 3,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lion's mane capsules",
+    "matchType": "EXACT",
+    "qualityScore": 3,
+    "creativeQualityScore": "ABOVE_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "mushroom for brain health",
+    "matchType": "EXACT",
+    "qualityScore": 3,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lion's mane whole foods",
+    "matchType": "BROAD",
+    "qualityScore": 3,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lions mane reviews",
+    "matchType": "PHRASE",
+    "qualityScore": 3,
+    "creativeQualityScore": "ABOVE_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lions mane reviews",
+    "matchType": "EXACT",
+    "qualityScore": 3,
+    "creativeQualityScore": "ABOVE_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "best lion's mane extract",
+    "matchType": "EXACT",
+    "qualityScore": 3,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "best lions mane brand",
+    "matchType": "EXACT",
+    "qualityScore": 3,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "mushroom for brain health",
+    "matchType": "BROAD",
+    "qualityScore": 3,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "best lion's mane extract",
+    "matchType": "BROAD",
+    "qualityScore": 3,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "best lions mane brand",
+    "matchType": "BROAD",
+    "qualityScore": 3,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lion's mane nootropic",
+    "matchType": "EXACT",
+    "qualityScore": 3,
+    "creativeQualityScore": "ABOVE_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lion's mane mushroom for sale",
+    "matchType": "EXACT",
+    "qualityScore": 3,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lion's mane elixir",
+    "matchType": "PHRASE",
+    "qualityScore": 3,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lion's mane liquid culture",
+    "matchType": "EXACT",
+    "qualityScore": 3,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "mushrooms for memory",
+    "matchType": "EXACT",
+    "qualityScore": 3,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "best lion's mane extract",
+    "matchType": "PHRASE",
+    "qualityScore": 3,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lion's mane whole foods",
+    "matchType": "PHRASE",
+    "qualityScore": 3,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lion's mane tincture benefits",
+    "matchType": "PHRASE",
+    "qualityScore": 3,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "joe rogan lion's mane",
+    "matchType": "EXACT",
+    "qualityScore": 3,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lion's mane tincture benefits",
+    "matchType": "EXACT",
+    "qualityScore": 3,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lion's mane for anxiety",
+    "matchType": "BROAD",
+    "qualityScore": 3,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lion's mane tincture benefits",
+    "matchType": "BROAD",
+    "qualityScore": 3,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lion's mane for anxiety",
+    "matchType": "EXACT",
+    "qualityScore": 3,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lion's mane whole foods",
+    "matchType": "EXACT",
+    "qualityScore": 3,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "mushroom for focus",
+    "matchType": "EXACT",
+    "qualityScore": 3,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "mushroom supplements for brain",
+    "matchType": "EXACT",
+    "qualityScore": 3,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lion's mane for brain",
+    "matchType": "BROAD",
+    "qualityScore": 3,
+    "creativeQualityScore": "ABOVE_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lion's mane for brain",
+    "matchType": "EXACT",
+    "qualityScore": 3,
+    "creativeQualityScore": "ABOVE_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "organic lion's mane mushroom extract",
+    "matchType": "EXACT",
+    "qualityScore": 3,
+    "creativeQualityScore": "ABOVE_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lion's mane for focus",
+    "matchType": "BROAD",
+    "qualityScore": 3,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "joe rogan lion's mane",
+    "matchType": "BROAD",
+    "qualityScore": 3,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lion's mane for focus",
+    "matchType": "EXACT",
+    "qualityScore": 3,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lion's mane liquid culture",
+    "matchType": "BROAD",
+    "qualityScore": 3,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "mushroom for focus",
+    "matchType": "BROAD",
+    "qualityScore": 3,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lion's mane for anxiety",
+    "matchType": "PHRASE",
+    "qualityScore": 3,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lion's mane for brain",
+    "matchType": "PHRASE",
+    "qualityScore": 3,
+    "creativeQualityScore": "ABOVE_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "mushroom supplements for brain health",
+    "matchType": "EXACT",
+    "qualityScore": 3,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "mushroom supplements for brain health",
+    "matchType": "BROAD",
+    "qualityScore": 3,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "mushroom supplements for brain",
+    "matchType": "PHRASE",
+    "qualityScore": 3,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lion's mane nootropic",
+    "matchType": "PHRASE",
+    "qualityScore": 3,
+    "creativeQualityScore": "ABOVE_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lion's mane mushroom amazon",
+    "matchType": "PHRASE",
+    "qualityScore": 3,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "mushroom supplements for brain",
+    "matchType": "BROAD",
+    "qualityScore": 3,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lion's mane for focus",
+    "matchType": "PHRASE",
+    "qualityScore": 3,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "organic lion's mane mushroom extract",
+    "matchType": "BROAD",
+    "qualityScore": 3,
+    "creativeQualityScore": "ABOVE_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "organic lion's mane mushroom extract",
+    "matchType": "PHRASE",
+    "qualityScore": 3,
+    "creativeQualityScore": "ABOVE_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "mushroom supplements for brain health",
+    "matchType": "PHRASE",
+    "qualityScore": 3,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lion's mane organic",
+    "matchType": "PHRASE",
+    "qualityScore": 3,
+    "creativeQualityScore": "ABOVE_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lion's mane benefits for men",
+    "matchType": "EXACT",
+    "qualityScore": 3,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lion's mane benefits for men",
+    "matchType": "BROAD",
+    "qualityScore": 3,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "mushroom for brain health",
+    "matchType": "PHRASE",
+    "qualityScore": 3,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lion's mane liquid culture",
+    "matchType": "PHRASE",
+    "qualityScore": 3,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "joe rogan lion's mane",
+    "matchType": "PHRASE",
+    "qualityScore": 3,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lions mane supplement reddit",
+    "matchType": "EXACT",
+    "qualityScore": 3,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "mushroom that helps with memory",
+    "matchType": "BROAD",
+    "qualityScore": 3,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "mushroom that helps with memory",
+    "matchType": "EXACT",
+    "qualityScore": 3,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "mushroom for focus",
+    "matchType": "PHRASE",
+    "qualityScore": 3,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "best lions mane brand",
+    "matchType": "PHRASE",
+    "qualityScore": 3,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "mushrooms for memory",
+    "matchType": "PHRASE",
+    "qualityScore": 3,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lions mane supplement reddit",
+    "matchType": "BROAD",
+    "qualityScore": 3,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "mushroom that helps with memory",
+    "matchType": "PHRASE",
+    "qualityScore": 3,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lions mane supplement reddit",
+    "matchType": "PHRASE",
+    "qualityScore": 3,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lion's mane benefits for men",
+    "matchType": "PHRASE",
+    "qualityScore": 3,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lion's mane extract",
+    "matchType": "EXACT",
+    "qualityScore": 3,
+    "creativeQualityScore": "ABOVE_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded CA",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lion's mane extract",
+    "matchType": "PHRASE",
+    "qualityScore": 3,
+    "creativeQualityScore": "ABOVE_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded CA",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lion's mane supplement",
+    "matchType": "EXACT",
+    "qualityScore": 3,
+    "creativeQualityScore": "ABOVE_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded CA",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "best lion's mane supplement",
+    "matchType": "EXACT",
+    "qualityScore": 3,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "AVERAGE",
+    "campaign": "WP - Non-Branded CA",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "best lion's mane supplement",
+    "matchType": "PHRASE",
+    "qualityScore": 3,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "AVERAGE",
+    "campaign": "WP - Non-Branded CA",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lion's mane supplement",
+    "matchType": "PHRASE",
+    "qualityScore": 3,
+    "creativeQualityScore": "ABOVE_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded CA",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "paul stamets lion's mane",
+    "matchType": "EXACT",
+    "qualityScore": 3,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "AVERAGE",
+    "campaign": "WP - Non-Branded CA",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "paul stamets lion's mane",
+    "matchType": "PHRASE",
+    "qualityScore": 3,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "AVERAGE",
+    "campaign": "WP - Non-Branded CA",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lion's mane tincture benefits",
+    "matchType": "PHRASE",
+    "qualityScore": 3,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded CA",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "lion's mane tincture benefits",
+    "matchType": "EXACT",
+    "qualityScore": 3,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded CA",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "mushroom supplements for brain health",
+    "matchType": "EXACT",
+    "qualityScore": 3,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "AVERAGE",
+    "campaign": "WP - Non-Branded CA",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "mushroom supplements for brain health",
+    "matchType": "PHRASE",
+    "qualityScore": 3,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "AVERAGE",
+    "campaign": "WP - Non-Branded CA",
+    "adGroup": "Lion's Mane"
+  },
+  {
+    "keyword": "iherb lions mane",
+    "matchType": "EXACT",
+    "qualityScore": 3,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Competitors",
+    "adGroup": "iHerb"
+  },
+  {
+    "keyword": "iherb lions mane",
+    "matchType": "PHRASE",
+    "qualityScore": 3,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Competitors",
+    "adGroup": "iHerb"
+  },
+  {
+    "keyword": "lions mane",
+    "matchType": "PHRASE",
+    "qualityScore": 3,
+    "creativeQualityScore": "ABOVE_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane V2"
+  },
+  {
+    "keyword": "lions mane mushroom",
+    "matchType": "PHRASE",
+    "qualityScore": 3,
+    "creativeQualityScore": "ABOVE_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane V2"
+  },
+  {
+    "keyword": "lions mane mushroom",
+    "matchType": "EXACT",
+    "qualityScore": 3,
+    "creativeQualityScore": "ABOVE_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane V2"
+  },
+  {
+    "keyword": "lions mane",
+    "matchType": "EXACT",
+    "qualityScore": 3,
+    "creativeQualityScore": "ABOVE_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane V2"
+  },
+  {
+    "keyword": "lions mane supplement",
+    "matchType": "EXACT",
+    "qualityScore": 3,
+    "creativeQualityScore": "ABOVE_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane V2"
+  },
+  {
+    "keyword": "lion's mane mushroom coffee",
+    "matchType": "PHRASE",
+    "qualityScore": 3,
+    "creativeQualityScore": "ABOVE_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane V2"
+  },
+  {
+    "keyword": "best lion's mane supplement",
+    "matchType": "EXACT",
+    "qualityScore": 3,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane V2"
+  },
+  {
+    "keyword": "best lion's mane supplement",
+    "matchType": "PHRASE",
+    "qualityScore": 3,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane V2"
+  },
+  {
+    "keyword": "lion's mane elixir",
+    "matchType": "EXACT",
+    "qualityScore": 3,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane V2"
+  },
+  {
+    "keyword": "organic lion's mane powder",
+    "matchType": "EXACT",
+    "qualityScore": 3,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane V2"
+  },
+  {
+    "keyword": "organic lion's mane",
+    "matchType": "EXACT",
+    "qualityScore": 3,
+    "creativeQualityScore": "ABOVE_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane V2"
+  },
+  {
+    "keyword": "lion's mane capsules",
+    "matchType": "PHRASE",
+    "qualityScore": 3,
+    "creativeQualityScore": "ABOVE_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane V2"
+  },
+  {
+    "keyword": "organic lion's mane",
+    "matchType": "PHRASE",
+    "qualityScore": 3,
+    "creativeQualityScore": "ABOVE_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane V2"
+  },
+  {
+    "keyword": "lion's mane reviews",
+    "matchType": "EXACT",
+    "qualityScore": 3,
+    "creativeQualityScore": "ABOVE_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane V2"
+  },
+  {
+    "keyword": "lion's mane capsules",
+    "matchType": "EXACT",
+    "qualityScore": 3,
+    "creativeQualityScore": "ABOVE_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane V2"
+  },
+  {
+    "keyword": "lion's mane brain",
+    "matchType": "EXACT",
+    "qualityScore": 3,
+    "creativeQualityScore": "ABOVE_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane V2"
+  },
+  {
+    "keyword": "lion's mane brain",
+    "matchType": "PHRASE",
+    "qualityScore": 3,
+    "creativeQualityScore": "ABOVE_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane V2"
+  },
+  {
+    "keyword": "organic lion's mane powder",
+    "matchType": "PHRASE",
+    "qualityScore": 3,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane V2"
+  },
+  {
+    "keyword": "lion's mane elixir",
+    "matchType": "PHRASE",
+    "qualityScore": 3,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane V2"
+  },
+  {
+    "keyword": "lions mane dual extract",
+    "matchType": "PHRASE",
+    "qualityScore": 3,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane V2"
+  },
+  {
+    "keyword": "lions mane nootropics",
+    "matchType": "EXACT",
+    "qualityScore": 3,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane V2"
+  },
+  {
+    "keyword": "lion's mane where to buy",
+    "matchType": "PHRASE",
+    "qualityScore": 3,
+    "creativeQualityScore": "ABOVE_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane V2"
+  },
+  {
+    "keyword": "mushroom nootropics",
+    "matchType": "EXACT",
+    "qualityScore": 3,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane V2"
+  },
+  {
+    "keyword": "mushroom for focus",
+    "matchType": "EXACT",
+    "qualityScore": 3,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane V2"
+  },
+  {
+    "keyword": "mushroom nootropics",
+    "matchType": "PHRASE",
+    "qualityScore": 3,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane V2"
+  },
+  {
+    "keyword": "lion's mane for brain",
+    "matchType": "EXACT",
+    "qualityScore": 3,
+    "creativeQualityScore": "ABOVE_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane V2"
+  },
+  {
+    "keyword": "organic lion's mane mushroom extract",
+    "matchType": "EXACT",
+    "qualityScore": 3,
+    "creativeQualityScore": "ABOVE_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane V2"
+  },
+  {
+    "keyword": "lion's mane where to buy",
+    "matchType": "EXACT",
+    "qualityScore": 3,
+    "creativeQualityScore": "ABOVE_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane V2"
+  },
+  {
+    "keyword": "lion's mane for brain",
+    "matchType": "PHRASE",
+    "qualityScore": 3,
+    "creativeQualityScore": "ABOVE_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane V2"
+  },
+  {
+    "keyword": "mushroom supplements for brain health",
+    "matchType": "EXACT",
+    "qualityScore": 3,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane V2"
+  },
+  {
+    "keyword": "mushroom for brain fog",
+    "matchType": "EXACT",
+    "qualityScore": 3,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane V2"
+  },
+  {
+    "keyword": "best lions mane tincture",
+    "matchType": "EXACT",
+    "qualityScore": 3,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane V2"
+  },
+  {
+    "keyword": "best lions mane tincture",
+    "matchType": "PHRASE",
+    "qualityScore": 3,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane V2"
+  },
+  {
+    "keyword": "organic lion's mane mushroom extract",
+    "matchType": "PHRASE",
+    "qualityScore": 3,
+    "creativeQualityScore": "ABOVE_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane V2"
+  },
+  {
+    "keyword": "mushroom for brain health",
+    "matchType": "PHRASE",
+    "qualityScore": 3,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane V2"
+  },
+  {
+    "keyword": "mushroom for focus",
+    "matchType": "PHRASE",
+    "qualityScore": 3,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane V2"
+  },
+  {
+    "keyword": "mushroom for brain fog",
+    "matchType": "PHRASE",
+    "qualityScore": 3,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Lion's Mane V2"
+  },
+  {
+    "keyword": "liposomal nmn",
+    "matchType": "BROAD",
+    "qualityScore": 3,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Liposomal"
+  },
+  {
+    "keyword": "liposomal nmn",
+    "matchType": "PHRASE",
+    "qualityScore": 3,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Liposomal"
+  },
+  {
+    "keyword": "liposomal drops",
+    "matchType": "BROAD",
+    "qualityScore": 3,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Liposomal"
+  },
+  {
+    "keyword": "pure shilajit",
+    "matchType": "EXACT",
+    "qualityScore": 3,
+    "creativeQualityScore": "ABOVE_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Shilajit"
+  },
+  {
+    "keyword": "shilajit drops",
+    "matchType": "EXACT",
+    "qualityScore": 3,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Shilajit"
+  },
+  {
+    "keyword": "shilajit drops",
+    "matchType": "PHRASE",
+    "qualityScore": 3,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Shilajit"
+  },
+  {
+    "keyword": "third party tested shilajit",
+    "matchType": "EXACT",
+    "qualityScore": 3,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "AVERAGE",
+    "campaign": "WP - Non-Branded",
+    "adGroup": "Shilajit"
+  }
+]

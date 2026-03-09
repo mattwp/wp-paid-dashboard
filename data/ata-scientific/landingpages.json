@@ -1,0 +1,902 @@
+[
+  {
+    "url": "https://www.atascientific.com.au/products/luna-fx7-automated-cell-counter/",
+    "clicks": 57,
+    "impressions": 992,
+    "costMicros": 366954194,
+    "conversions": 2.0,
+    "ctr": 0.057459677419354836,
+    "averageCpc": 6437792.8771929825
+  },
+  {
+    "url": "https://www.atascientific.com.au/product-series/phenom-desktop-sem/",
+    "clicks": 23,
+    "impressions": 164,
+    "costMicros": 136140713,
+    "conversions": 0.0,
+    "ctr": 0.1402439024390244,
+    "averageCpc": 5919161.434782608
+  },
+  {
+    "url": "https://www.atascientific.com.au/products/zetasizer-ultra/",
+    "clicks": 19,
+    "impressions": 205,
+    "costMicros": 111835313,
+    "conversions": 1.0,
+    "ctr": 0.09268292682926829,
+    "averageCpc": 5886069.105263158
+  },
+  {
+    "url": "https://www.atascientific.com.au/products/malvern-mastersizer-3000/",
+    "clicks": 27,
+    "impressions": 947,
+    "costMicros": 78507265,
+    "conversions": 1.0,
+    "ctr": 0.028511087645195353,
+    "averageCpc": 2907676.4814814813
+  },
+  {
+    "url": "https://www.atascientific.com.au/sample-testing-instrument-hire/",
+    "clicks": 21,
+    "impressions": 112,
+    "costMicros": 68353616,
+    "conversions": 1.0,
+    "ctr": 0.1875,
+    "averageCpc": 3254934.095238095
+  },
+  {
+    "url": "https://www.atascientific.com.au/",
+    "clicks": 14,
+    "impressions": 179,
+    "costMicros": 43759718,
+    "conversions": 0.0,
+    "ctr": 0.0782122905027933,
+    "averageCpc": 3125694.1428571427
+  },
+  {
+    "url": "https://www.atascientific.com.au/products/malvern-nanosight-pro/",
+    "clicks": 9,
+    "impressions": 51,
+    "costMicros": 42480071,
+    "conversions": 0.0,
+    "ctr": 0.17647058823529413,
+    "averageCpc": 4720007.888888889
+  },
+  {
+    "url": "https://www.atascientific.com.au/products/malvern-zetasizer-lab/",
+    "clicks": 6,
+    "impressions": 41,
+    "costMicros": 36690000,
+    "conversions": 0.0,
+    "ctr": 0.14634146341463414,
+    "averageCpc": 6115000.0
+  },
+  {
+    "url": "https://www.atascientific.com.au/products/malvern-microcal-peaq-itc/",
+    "clicks": 5,
+    "impressions": 25,
+    "costMicros": 32490000,
+    "conversions": 1.0,
+    "ctr": 0.2,
+    "averageCpc": 6498000.0
+  },
+  {
+    "url": "https://www.atascientific.com.au/measurement-principle/high-pressure-homogenisation/",
+    "clicks": 6,
+    "impressions": 101,
+    "costMicros": 30854061,
+    "conversions": 0.0,
+    "ctr": 0.0594059405940594,
+    "averageCpc": 5142343.5
+  },
+  {
+    "url": "https://www.atascientific.com.au/category/new-products/",
+    "clicks": 9,
+    "impressions": 1951,
+    "costMicros": 28550000,
+    "conversions": 0.0,
+    "ctr": 0.0046130189646335215,
+    "averageCpc": 3172222.222222222
+  },
+  {
+    "url": "https://www.atascientific.com.au/application/zeta-potential/",
+    "clicks": 4,
+    "impressions": 33,
+    "costMicros": 26373805,
+    "conversions": 0.0,
+    "ctr": 0.12121212121212122,
+    "averageCpc": 6593451.25
+  },
+  {
+    "url": "https://www.atascientific.com.au",
+    "clicks": 44,
+    "impressions": 85,
+    "costMicros": 25096956,
+    "conversions": 0.0,
+    "ctr": 0.5176470588235295,
+    "averageCpc": 570385.3636363636
+  },
+  {
+    "url": "https://www.atascientific.com.au/products/phenom-pure-desktop-scanning-electron-microscope/",
+    "clicks": 2,
+    "impressions": 9,
+    "costMicros": 18722573,
+    "conversions": 0.0,
+    "ctr": 0.2222222222222222,
+    "averageCpc": 9361286.5
+  },
+  {
+    "url": "https://www.atascientific.com.au/syringe-pump/",
+    "clicks": 7,
+    "impressions": 57,
+    "costMicros": 16599969,
+    "conversions": 0.0,
+    "ctr": 0.12280701754385964,
+    "averageCpc": 2371424.1428571427
+  },
+  {
+    "url": "https://www.atascientific.com.au/products/luxor-pt-coater/",
+    "clicks": 3,
+    "impressions": 8,
+    "costMicros": 16340000,
+    "conversions": 0.0,
+    "ctr": 0.375,
+    "averageCpc": 5446666.666666667
+  },
+  {
+    "url": "https://www.atascientific.com.au/products/phenom-xl-desktop-scanning-electron-microscope/",
+    "clicks": 4,
+    "impressions": 22,
+    "costMicros": 15880000,
+    "conversions": 0.0,
+    "ctr": 0.18181818181818182,
+    "averageCpc": 3970000.0
+  },
+  {
+    "url": "https://www.atascientific.com.au/product-series/hauschild-speedmixer/",
+    "clicks": 3,
+    "impressions": 21,
+    "costMicros": 14790000,
+    "conversions": 0.0,
+    "ctr": 0.14285714285714285,
+    "averageCpc": 4930000.0
+  },
+  {
+    "url": "https://www.atascientific.com.au/application/particle-shape-count-chemical-id/",
+    "clicks": 3,
+    "impressions": 21,
+    "costMicros": 13880000,
+    "conversions": 0.0,
+    "ctr": 0.14285714285714285,
+    "averageCpc": 4626666.666666667
+  },
+  {
+    "url": "https://www.atascientific.com.au/were-hiring/",
+    "clicks": 8,
+    "impressions": 45,
+    "costMicros": 13180000,
+    "conversions": 0.0,
+    "ctr": 0.17777777777777778,
+    "averageCpc": 1647500.0
+  },
+  {
+    "url": "https://www.atascientific.com.au/measurement-principle/electron-microscopy-sem-elemental-mapping/",
+    "clicks": 4,
+    "impressions": 76,
+    "costMicros": 12720000,
+    "conversions": 0.0,
+    "ctr": 0.05263157894736842,
+    "averageCpc": 3180000.0
+  },
+  {
+    "url": "https://www.atascientific.com.au/products/micromeritics-tristar-ii-surface-area-porosity-analyser/",
+    "clicks": 2,
+    "impressions": 13,
+    "costMicros": 12600000,
+    "conversions": 0.0,
+    "ctr": 0.15384615384615385,
+    "averageCpc": 6300000.0
+  },
+  {
+    "url": "https://www.atascientific.com.au/products/phenom-pro-desktop-scanning-electron-microscope/",
+    "clicks": 4,
+    "impressions": 41,
+    "costMicros": 12429321,
+    "conversions": 0.0,
+    "ctr": 0.0975609756097561,
+    "averageCpc": 3107330.25
+  },
+  {
+    "url": "https://www.atascientific.com.au/products/quantom-tx-microbial-cell-counter/",
+    "clicks": 2,
+    "impressions": 15,
+    "costMicros": 9850000,
+    "conversions": 1.0,
+    "ctr": 0.13333333333333333,
+    "averageCpc": 4925000.0
+  },
+  {
+    "url": "https://www.atascientific.com.au/products/malvern-mastersizer-3000-lab/",
+    "clicks": 2,
+    "impressions": 30,
+    "costMicros": 9550000,
+    "conversions": 0.0,
+    "ctr": 0.06666666666666667,
+    "averageCpc": 4775000.0
+  },
+  {
+    "url": "https://www.atascientific.com.au/category/newsletters/",
+    "clicks": 1,
+    "impressions": 7,
+    "costMicros": 9170000,
+    "conversions": 0.0,
+    "ctr": 0.14285714285714285,
+    "averageCpc": 9170000.0
+  },
+  {
+    "url": "https://www.atascientific.com.au/application/nano-particle-size/",
+    "clicks": 1,
+    "impressions": 1,
+    "costMicros": 9140000,
+    "conversions": 0.0,
+    "ctr": 1.0,
+    "averageCpc": 9140000.0
+  },
+  {
+    "url": "https://www.atascientific.com.au/products/hauschild-speedmixer-dac-series/",
+    "clicks": 3,
+    "impressions": 14,
+    "costMicros": 9100000,
+    "conversions": 0.0,
+    "ctr": 0.21428571428571427,
+    "averageCpc": 3033333.3333333335
+  },
+  {
+    "url": "https://www.atascientific.com.au/measurement-principle/nano-particle-tracking/nanoparticle-tracking-analysis-nta/",
+    "clicks": 2,
+    "impressions": 5,
+    "costMicros": 8940000,
+    "conversions": 0.0,
+    "ctr": 0.4,
+    "averageCpc": 4470000.0
+  },
+  {
+    "url": "https://www.atascientific.com.au/products/tensiio-force-tensiometer/",
+    "clicks": 3,
+    "impressions": 20,
+    "costMicros": 8790000,
+    "conversions": 0.0,
+    "ctr": 0.15,
+    "averageCpc": 2930000.0
+  },
+  {
+    "url": "https://www.atascientific.com.au/products/dfa100-dynamic-foam-analyser/",
+    "clicks": 3,
+    "impressions": 13,
+    "costMicros": 8140000,
+    "conversions": 0.0,
+    "ctr": 0.23076923076923078,
+    "averageCpc": 2713333.3333333335
+  },
+  {
+    "url": "https://www.atascientific.com.au/exosome-isolation-purification-characterisation-tools/",
+    "clicks": 2,
+    "impressions": 34,
+    "costMicros": 6840000,
+    "conversions": 0.0,
+    "ctr": 0.058823529411764705,
+    "averageCpc": 3420000.0
+  },
+  {
+    "url": "https://www.atascientific.com.au/field/sem-imaging/",
+    "clicks": 2,
+    "impressions": 71,
+    "costMicros": 6620000,
+    "conversions": 0.0,
+    "ctr": 0.028169014084507043,
+    "averageCpc": 3310000.0
+  },
+  {
+    "url": "https://www.atascientific.com.au/products/luna-fl-dual-fluorescence-cell-counter/",
+    "clicks": 1,
+    "impressions": 4,
+    "costMicros": 6500000,
+    "conversions": 0.0,
+    "ctr": 0.25,
+    "averageCpc": 6500000.0
+  },
+  {
+    "url": "https://www.atascientific.com.au/a-hydrogen-future-could-be-the-answer-to-clean-energy/",
+    "clicks": 4,
+    "impressions": 107,
+    "costMicros": 6480000,
+    "conversions": 0.0,
+    "ctr": 0.037383177570093455,
+    "averageCpc": 1620000.0
+  },
+  {
+    "url": "https://www.atascientific.com.au/products/bpt-mobile-bubble-pressure-tensiometer/",
+    "clicks": 1,
+    "impressions": 10,
+    "costMicros": 6210000,
+    "conversions": 1.0,
+    "ctr": 0.1,
+    "averageCpc": 6210000.0
+  },
+  {
+    "url": "https://www.atascientific.com.au/products/malvern-mastersizer-3000-ultra/",
+    "clicks": 2,
+    "impressions": 22,
+    "costMicros": 5920000,
+    "conversions": 0.0,
+    "ctr": 0.09090909090909091,
+    "averageCpc": 2960000.0
+  },
+  {
+    "url": "https://www.atascientific.com.au/products/zetasizer-pro/",
+    "clicks": 1,
+    "impressions": 18,
+    "costMicros": 5550000,
+    "conversions": 0.0,
+    "ctr": 0.05555555555555555,
+    "averageCpc": 5550000.0
+  },
+  {
+    "url": "https://www.atascientific.com.au/products/micromeritics-autopore-mercury-intrusion-porosimetry/",
+    "clicks": 1,
+    "impressions": 12,
+    "costMicros": 5400000,
+    "conversions": 0.0,
+    "ctr": 0.08333333333333333,
+    "averageCpc": 5400000.0
+  },
+  {
+    "url": "https://www.atascientific.com.au/products/zetasizer-ultra/636216769021739961iq/",
+    "clicks": 2,
+    "impressions": 45,
+    "costMicros": 4703936,
+    "conversions": 0.0,
+    "ctr": 0.044444444444444446,
+    "averageCpc": 2351968.0
+  },
+  {
+    "url": "https://www.atascientific.com.au/what-we-do/",
+    "clicks": 3,
+    "impressions": 2733,
+    "costMicros": 4690000,
+    "conversions": 0.0,
+    "ctr": 0.0010976948408342481,
+    "averageCpc": 1563333.3333333333
+  },
+  {
+    "url": "https://www.atascientific.com.au/disposable-folded-capillary-cell/",
+    "clicks": 1,
+    "impressions": 6,
+    "costMicros": 4690000,
+    "conversions": 0.0,
+    "ctr": 0.16666666666666666,
+    "averageCpc": 4690000.0
+  },
+  {
+    "url": "https://www.atascientific.com.au/manufacturer/thermo-scientific/",
+    "clicks": 1,
+    "impressions": 13,
+    "costMicros": 4600000,
+    "conversions": 0.0,
+    "ctr": 0.07692307692307693,
+    "averageCpc": 4600000.0
+  },
+  {
+    "url": "https://www.atascientific.com.au/2018-03-29_121508/",
+    "clicks": 1,
+    "impressions": 6,
+    "costMicros": 4370000,
+    "conversions": 0.0,
+    "ctr": 0.16666666666666666,
+    "averageCpc": 4370000.0
+  },
+  {
+    "url": "https://www.atascientific.com.au/products/avestin-emulsiflex-c3/",
+    "clicks": 1,
+    "impressions": 8,
+    "costMicros": 4270000,
+    "conversions": 0.0,
+    "ctr": 0.125,
+    "averageCpc": 4270000.0
+  },
+  {
+    "url": "https://www.atascientific.com.au/sample-testing-instrument-hire/cas-27/",
+    "clicks": 2,
+    "impressions": 12,
+    "costMicros": 4130000,
+    "conversions": 0.0,
+    "ctr": 0.16666666666666666,
+    "averageCpc": 2065000.0
+  },
+  {
+    "url": "https://www.atascientific.com.au/products/micromeritics-accupyc-advanced-gas-pycnometer/",
+    "clicks": 1,
+    "impressions": 37,
+    "costMicros": 4120000,
+    "conversions": 0.0,
+    "ctr": 0.02702702702702703,
+    "averageCpc": 4120000.0
+  },
+  {
+    "url": "https://www.atascientific.com.au/product-series/malvern-mastersizer/",
+    "clicks": 1,
+    "impressions": 23,
+    "costMicros": 3990000,
+    "conversions": 0.0,
+    "ctr": 0.043478260869565216,
+    "averageCpc": 3990000.0
+  },
+  {
+    "url": "https://www.atascientific.com.au/product-series/kruss-foam-analyser/",
+    "clicks": 1,
+    "impressions": 2,
+    "costMicros": 3790000,
+    "conversions": 0.0,
+    "ctr": 0.5,
+    "averageCpc": 3790000.0
+  },
+  {
+    "url": "https://www.atascientific.com.au/application/surface-tension-contact-angle/",
+    "clicks": 1,
+    "impressions": 37,
+    "costMicros": 3670000,
+    "conversions": 0.0,
+    "ctr": 0.02702702702702703,
+    "averageCpc": 3670000.0
+  },
+  {
+    "url": "https://www.atascientific.com.au/products/malvern-microcal-peaq-itc-automated/",
+    "clicks": 1,
+    "impressions": 8,
+    "costMicros": 3450000,
+    "conversions": 0.0,
+    "ctr": 0.125,
+    "averageCpc": 3450000.0
+  },
+  {
+    "url": "https://www.atascientific.com.au/products/malvern-spraytec/",
+    "clicks": 1,
+    "impressions": 5,
+    "costMicros": 3360000,
+    "conversions": 0.0,
+    "ctr": 0.2,
+    "averageCpc": 3360000.0
+  },
+  {
+    "url": "https://www.atascientific.com.au/products/malvern-mastersizer-3000-pro/",
+    "clicks": 1,
+    "impressions": 18,
+    "costMicros": 3100000,
+    "conversions": 0.0,
+    "ctr": 0.05555555555555555,
+    "averageCpc": 3100000.0
+  },
+  {
+    "url": "https://www.atascientific.com.au/products/micromeritics-flow-reactor/",
+    "clicks": 1,
+    "impressions": 8,
+    "costMicros": 3010000,
+    "conversions": 0.0,
+    "ctr": 0.125,
+    "averageCpc": 3010000.0
+  },
+  {
+    "url": "https://www.atascientific.com.au/contact-us/",
+    "clicks": 1,
+    "impressions": 1163,
+    "costMicros": 2980000,
+    "conversions": 0.0,
+    "ctr": 0.0008598452278589854,
+    "averageCpc": 2980000.0
+  },
+  {
+    "url": "https://www.atascientific.com.au/measurement-principle/calorimetry-isothermal-differential-scanning/",
+    "clicks": 1,
+    "impressions": 25,
+    "costMicros": 2742336,
+    "conversions": 0.0,
+    "ctr": 0.04,
+    "averageCpc": 2742336.0
+  },
+  {
+    "url": "https://www.atascientific.com.au/products/micropore-axfseries/",
+    "clicks": 1,
+    "impressions": 1107,
+    "costMicros": 2640000,
+    "conversions": 0.0,
+    "ctr": 0.0009033423667570009,
+    "averageCpc": 2640000.0
+  },
+  {
+    "url": "https://www.atascientific.com.au/product-series/micromeritics-rheometer/",
+    "clicks": 1,
+    "impressions": 14,
+    "costMicros": 2540000,
+    "conversions": 0.0,
+    "ctr": 0.07142857142857142,
+    "averageCpc": 2540000.0
+  },
+  {
+    "url": "https://www.atascientific.com.au/field-of-interest/scanning-electron-microscope-sem/",
+    "clicks": 2,
+    "impressions": 52,
+    "costMicros": 2480000,
+    "conversions": 0.0,
+    "ctr": 0.038461538461538464,
+    "averageCpc": 1240000.0
+  },
+  {
+    "url": "https://www.atascientific.com.au/products/k6-force-tensiometer/",
+    "clicks": 1,
+    "impressions": 7,
+    "costMicros": 2320000,
+    "conversions": 0.0,
+    "ctr": 0.14285714285714285,
+    "averageCpc": 2320000.0
+  },
+  {
+    "url": "https://www.atascientific.com.au/products/avestin-emulsiflex-c5/",
+    "clicks": 2,
+    "impressions": 13,
+    "costMicros": 2180000,
+    "conversions": 0.0,
+    "ctr": 0.15384615384615385,
+    "averageCpc": 1090000.0
+  },
+  {
+    "url": "https://www.atascientific.com.au/products/asap-2020-plus-surface-area-and-porosimetry-system/",
+    "clicks": 1,
+    "impressions": 3,
+    "costMicros": 2010000,
+    "conversions": 0.0,
+    "ctr": 0.3333333333333333,
+    "averageCpc": 2010000.0
+  },
+  {
+    "url": "https://www.atascientific.com.au/application/live-cell-image-analysis/",
+    "clicks": 2,
+    "impressions": 18,
+    "costMicros": 1898991,
+    "conversions": 0.0,
+    "ctr": 0.1111111111111111,
+    "averageCpc": 949495.5
+  },
+  {
+    "url": "https://www.atascientific.com.au/a-simple-guide-for-preparing-samples-for-sem-imaging/",
+    "clicks": 1,
+    "impressions": 5,
+    "costMicros": 1400000,
+    "conversions": 0.0,
+    "ctr": 0.2,
+    "averageCpc": 1400000.0
+  },
+  {
+    "url": "https://www.atascientific.com.au/products/micromeritics-breakthrough-analyser-bta/",
+    "clicks": 1,
+    "impressions": 4,
+    "costMicros": 1390000,
+    "conversions": 0.0,
+    "ctr": 0.25,
+    "averageCpc": 1390000.0
+  },
+  {
+    "url": "https://www.atascientific.com.au/do-you-use-jar-testing-for-your-water-treatment-process-theres-a-more-reliable-and-faster-analysis-available/",
+    "clicks": 1,
+    "impressions": 12,
+    "costMicros": 1300000,
+    "conversions": 0.0,
+    "ctr": 0.08333333333333333,
+    "averageCpc": 1300000.0
+  },
+  {
+    "url": "https://www.atascientific.com.au/tag/particle-size-measurement-2/",
+    "clicks": 1,
+    "impressions": 5,
+    "costMicros": 1280000,
+    "conversions": 0.0,
+    "ctr": 0.2,
+    "averageCpc": 1280000.0
+  },
+  {
+    "url": "https://www.atascientific.com.au/nanoassemblr-benchtop-image3/",
+    "clicks": 1,
+    "impressions": 5,
+    "costMicros": 1050000,
+    "conversions": 0.0,
+    "ctr": 0.2,
+    "averageCpc": 1050000.0
+  },
+  {
+    "url": "https://www.atascientific.com.au/manufacturer/kruss/",
+    "clicks": 1,
+    "impressions": 10,
+    "costMicros": 1030000,
+    "conversions": 0.0,
+    "ctr": 0.1,
+    "averageCpc": 1030000.0
+  },
+  {
+    "url": "https://www.atascientific.com.au/product-series/malvern-omnisec/",
+    "clicks": 1,
+    "impressions": 1,
+    "costMicros": 860000,
+    "conversions": 0.0,
+    "ctr": 1.0,
+    "averageCpc": 860000.0
+  },
+  {
+    "url": "https://www.atascientific.com.au/products/micromeritics-3flex-surface-area-analyser/",
+    "clicks": 1,
+    "impressions": 12,
+    "costMicros": 399747,
+    "conversions": 0.0,
+    "ctr": 0.08333333333333333,
+    "averageCpc": 399747.0
+  },
+  {
+    "url": "https://www.atascientific.com.au/fundamentals-liquid-chromatography/",
+    "clicks": 1,
+    "impressions": 10,
+    "costMicros": 190000,
+    "conversions": 0.0,
+    "ctr": 0.1,
+    "averageCpc": 190000.0
+  },
+  {
+    "url": "https://www.atascientific.com.au/measurement-principle/microfluidic-modulation-spectroscopy-mms/",
+    "clicks": 1,
+    "impressions": 21,
+    "costMicros": 100000,
+    "conversions": 0.0,
+    "ctr": 0.047619047619047616,
+    "averageCpc": 100000.0
+  },
+  {
+    "url": "https://www.atascientific.com.au/products/malvern-morphologi-4/",
+    "clicks": 1,
+    "impressions": 3,
+    "costMicros": 20000,
+    "conversions": 0.0,
+    "ctr": 0.3333333333333333,
+    "averageCpc": 20000.0
+  },
+  {
+    "url": "https://www.atascientific.com.au/product-factsheets/",
+    "clicks": 0,
+    "impressions": 25,
+    "costMicros": 0,
+    "conversions": 0.0,
+    "ctr": 0.0,
+    "averageCpc": null
+  },
+  {
+    "url": "https://www.atascientific.com.au/measurement-principle/tensiometry-force-optical/",
+    "clicks": 0,
+    "impressions": 10,
+    "costMicros": 0,
+    "conversions": 0.0,
+    "ctr": 0.0,
+    "averageCpc": null
+  },
+  {
+    "url": "https://www.atascientific.com.au/products/micromeritics-flow-reactor/fr100/",
+    "clicks": 0,
+    "impressions": 3,
+    "costMicros": 0,
+    "conversions": 0.0,
+    "ctr": 0.0,
+    "averageCpc": null
+  },
+  {
+    "url": "https://www.atascientific.com.au/measurement-principle/dynamic-light-scattering/",
+    "clicks": 0,
+    "impressions": 1,
+    "costMicros": 0,
+    "conversions": 0.0,
+    "ctr": 0.0,
+    "averageCpc": null
+  },
+  {
+    "url": "https://www.atascientific.com.au/product-series/phasefocus-livecyte/",
+    "clicks": 0,
+    "impressions": 1,
+    "costMicros": 0,
+    "conversions": 0.0,
+    "ctr": 0.0,
+    "averageCpc": null
+  },
+  {
+    "url": "https://www.atascientific.com.au/product-series/malvern-zetasizer/",
+    "clicks": 0,
+    "impressions": 1,
+    "costMicros": 0,
+    "conversions": 0.0,
+    "ctr": 0.0,
+    "averageCpc": null
+  },
+  {
+    "url": "https://www.atascientific.com.au/product-series/micromeritics-asap/",
+    "clicks": 0,
+    "impressions": 5,
+    "costMicros": 0,
+    "conversions": 0.0,
+    "ctr": 0.0,
+    "averageCpc": null
+  },
+  {
+    "url": "https://www.atascientific.com.au/analyzer6/",
+    "clicks": 0,
+    "impressions": 1,
+    "costMicros": 0,
+    "conversions": 0.0,
+    "ctr": 0.0,
+    "averageCpc": null
+  },
+  {
+    "url": "https://www.atascientific.com.au/capture-2-2/",
+    "clicks": 0,
+    "impressions": 3,
+    "costMicros": 0,
+    "conversions": 0.0,
+    "ctr": 0.0,
+    "averageCpc": null
+  },
+  {
+    "url": "https://www.atascientific.com.au/product-series/kruss-tensiometer/",
+    "clicks": 0,
+    "impressions": 11,
+    "costMicros": 0,
+    "conversions": 0.0,
+    "ctr": 0.0,
+    "averageCpc": null
+  },
+  {
+    "url": "https://www.atascientific.com.au/measurement-principle/mercury-intrusion-porosimetry/",
+    "clicks": 0,
+    "impressions": 16,
+    "costMicros": 0,
+    "conversions": 0.0,
+    "ctr": 0.0,
+    "averageCpc": null
+  },
+  {
+    "url": "https://www.atascientific.com.au/products/axf-pathfinder/",
+    "clicks": 0,
+    "impressions": 562,
+    "costMicros": 0,
+    "conversions": 0.0,
+    "ctr": 0.0,
+    "averageCpc": null
+  },
+  {
+    "url": "https://www.atascientific.com.au/differential-scanning-calorimetry-dsc-works-measure-biomolecular-stability/ata-scientific-differential-scanning-calorimetry/",
+    "clicks": 0,
+    "impressions": 1,
+    "costMicros": 0,
+    "conversions": 0.0,
+    "ctr": 0.0,
+    "averageCpc": null
+  },
+  {
+    "url": "https://www.atascientific.com.au/products/logos-biosystems-x-clarity/x-clarity-system/",
+    "clicks": 0,
+    "impressions": 2,
+    "costMicros": 0,
+    "conversions": 0.0,
+    "ctr": 0.0,
+    "averageCpc": null
+  },
+  {
+    "url": "https://www.atascientific.com.au/field-of-interest/sem-elemental-analysis/",
+    "clicks": 0,
+    "impressions": 1,
+    "costMicros": 0,
+    "conversions": 0.0,
+    "ctr": 0.0,
+    "averageCpc": null
+  },
+  {
+    "url": "https://www.atascientific.com.au/phasefocus-livecyte-is-helping-researchers-de-risk-cell-transplantation-therapy-increasing-the-likelihood-of-success/",
+    "clicks": 0,
+    "impressions": 1,
+    "costMicros": 0,
+    "conversions": 0.0,
+    "ctr": 0.0,
+    "averageCpc": null
+  },
+  {
+    "url": "https://www.atascientific.com.au/application/nanoparticle-formulation/",
+    "clicks": 0,
+    "impressions": 4,
+    "costMicros": 0,
+    "conversions": 0.0,
+    "ctr": 0.0,
+    "averageCpc": null
+  },
+  {
+    "url": "https://www.atascientific.com.au/products/msa-mobile-surface-analyser/",
+    "clicks": 0,
+    "impressions": 7,
+    "costMicros": 0,
+    "conversions": 0.0,
+    "ctr": 0.0,
+    "averageCpc": null
+  },
+  {
+    "url": "https://www.atascientific.com.au/tag/particle-size-analysis/",
+    "clicks": 0,
+    "impressions": 32,
+    "costMicros": 0,
+    "conversions": 0.0,
+    "ctr": 0.0,
+    "averageCpc": null
+  },
+  {
+    "url": "https://www.atascientific.com.au/product-series/luxor/",
+    "clicks": 0,
+    "impressions": 1,
+    "costMicros": 0,
+    "conversions": 0.0,
+    "ctr": 0.0,
+    "averageCpc": null
+  },
+  {
+    "url": "https://www.atascientific.com.au/product-series/malvern-kinexus-rotational-rheometer/",
+    "clicks": 0,
+    "impressions": 7,
+    "costMicros": 0,
+    "conversions": 0.0,
+    "ctr": 0.0,
+    "averageCpc": null
+  },
+  {
+    "url": "https://www.atascientific.com.au/products/micromeritics-geopyc-envelope-density-analyser/",
+    "clicks": 0,
+    "impressions": 1,
+    "costMicros": 0,
+    "conversions": 0.0,
+    "ctr": 0.0,
+    "averageCpc": null
+  },
+  {
+    "url": "https://www.atascientific.com.au/how-to-make-cryo-em-more-available-to-researchers/preparingcryo-electronmicroscopygridsampleinliquidnitrogenwithprotective/",
+    "clicks": 0,
+    "impressions": 2,
+    "costMicros": 0,
+    "conversions": 0.0,
+    "ctr": 0.0,
+    "averageCpc": null
+  },
+  {
+    "url": "https://www.atascientific.com.au/field-of-interest/online-particle-size-distribution/",
+    "clicks": 0,
+    "impressions": 6,
+    "costMicros": 0,
+    "conversions": 0.0,
+    "ctr": 0.0,
+    "averageCpc": null
+  },
+  {
+    "url": "https://www.atascientific.com.au/manufacturer/redshiftbio/",
+    "clicks": 0,
+    "impressions": 1,
+    "costMicros": 0,
+    "conversions": 0.0,
+    "ctr": 0.0,
+    "averageCpc": null
+  },
+  {
+    "url": "https://www.atascientific.com.au/field/particle-science/",
+    "clicks": 0,
+    "impressions": 18,
+    "costMicros": 0,
+    "conversions": 0.0,
+    "ctr": 0.0,
+    "averageCpc": null
+  }
+]

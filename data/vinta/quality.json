@@ -1,0 +1,382 @@
+[
+  {
+    "keyword": "mall",
+    "matchType": "BROAD",
+    "campaign": "WP - Branded Search",
+    "adGroup": "WP - Branded Keywords",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE"
+  },
+  {
+    "keyword": "mall",
+    "matchType": "EXACT",
+    "campaign": "WP - Branded Search",
+    "adGroup": "WP - Branded Keywords",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE"
+  },
+  {
+    "keyword": "Casey Market Town",
+    "matchType": "BROAD",
+    "campaign": "WP - Branded Search",
+    "adGroup": "WP - Branded Keywords",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE"
+  },
+  {
+    "keyword": "Gungahlin Village",
+    "matchType": "BROAD",
+    "campaign": "WP - Branded Search",
+    "adGroup": "WP - Branded Keywords",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE"
+  },
+  {
+    "keyword": "Casey Market Town",
+    "matchType": "EXACT",
+    "campaign": "WP - Branded Search",
+    "adGroup": "WP - Branded Keywords",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE"
+  },
+  {
+    "keyword": "Gungahlin Village",
+    "matchType": "EXACT",
+    "campaign": "WP - Branded Search",
+    "adGroup": "WP - Branded Keywords",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE"
+  },
+  {
+    "keyword": "shopping mall near me",
+    "matchType": "BROAD",
+    "campaign": "WP - Generic Search",
+    "adGroup": "WP - Shopping Centre Generic Keywords",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE"
+  },
+  {
+    "keyword": "shopping mall near me",
+    "matchType": "EXACT",
+    "campaign": "WP - Generic Search",
+    "adGroup": "WP - Shopping Centre Generic Keywords",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE"
+  },
+  {
+    "keyword": "shopping centre near me",
+    "matchType": "BROAD",
+    "campaign": "WP - Generic Search",
+    "adGroup": "WP - Shopping Centre Generic Keywords",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE"
+  },
+  {
+    "keyword": "shopping centre near me",
+    "matchType": "EXACT",
+    "campaign": "WP - Generic Search",
+    "adGroup": "WP - Shopping Centre Generic Keywords",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE"
+  },
+  {
+    "keyword": "nearest shopping centre",
+    "matchType": "BROAD",
+    "campaign": "WP - Generic Search",
+    "adGroup": "WP - Shopping Centre Generic Keywords",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE"
+  },
+  {
+    "keyword": "nearest shopping centre",
+    "matchType": "EXACT",
+    "campaign": "WP - Generic Search",
+    "adGroup": "WP - Shopping Centre Generic Keywords",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE"
+  },
+  {
+    "keyword": "Shopping near me",
+    "matchType": "BROAD",
+    "campaign": "WP - Generic Search",
+    "adGroup": "WP - Shopping Centre Generic Keywords",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE"
+  },
+  {
+    "keyword": "Shopping near me",
+    "matchType": "EXACT",
+    "campaign": "WP - Generic Search",
+    "adGroup": "WP - Shopping Centre Generic Keywords",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE"
+  },
+  {
+    "keyword": "Canberra shopping",
+    "matchType": "BROAD",
+    "campaign": "WP - Generic Search",
+    "adGroup": "WP - Shopping Centre Generic Keywords",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE"
+  },
+  {
+    "keyword": "Casey Market Town",
+    "matchType": "BROAD",
+    "campaign": "WP - Generic Search",
+    "adGroup": "WP - Shopping Centre Generic Keywords",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE"
+  },
+  {
+    "keyword": "Canberra shopping",
+    "matchType": "EXACT",
+    "campaign": "WP - Generic Search",
+    "adGroup": "WP - Shopping Centre Generic Keywords",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE"
+  },
+  {
+    "keyword": "Casey Market Town",
+    "matchType": "EXACT",
+    "campaign": "WP - Generic Search",
+    "adGroup": "WP - Shopping Centre Generic Keywords",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE"
+  },
+  {
+    "keyword": "mall near me",
+    "matchType": "BROAD",
+    "campaign": "WP - Branded Search",
+    "adGroup": "WP - Branded Keywords",
+    "qualityScore": 3,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE"
+  },
+  {
+    "keyword": "mall near me",
+    "matchType": "EXACT",
+    "campaign": "WP - Branded Search",
+    "adGroup": "WP - Branded Keywords",
+    "qualityScore": 3,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE"
+  },
+  {
+    "keyword": "Westfield Belconnen",
+    "matchType": "EXACT",
+    "campaign": "WP - Branded Search",
+    "adGroup": "WP - Branded Keywords",
+    "qualityScore": 3,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE"
+  },
+  {
+    "keyword": "Westfield Belconnen",
+    "matchType": "BROAD",
+    "campaign": "WP - Branded Search",
+    "adGroup": "WP - Branded Keywords",
+    "qualityScore": 3,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE"
+  },
+  {
+    "keyword": "Canberra shopping",
+    "matchType": "BROAD",
+    "campaign": "WP - Branded Search",
+    "adGroup": "WP - Branded Keywords",
+    "qualityScore": 3,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE"
+  },
+  {
+    "keyword": "Canberra shopping",
+    "matchType": "EXACT",
+    "campaign": "WP - Branded Search",
+    "adGroup": "WP - Branded Keywords",
+    "qualityScore": 3,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE"
+  },
+  {
+    "keyword": "shopping centre",
+    "matchType": "BROAD",
+    "campaign": "WP - Generic Search",
+    "adGroup": "WP - Shopping Centre Generic Keywords",
+    "qualityScore": 3,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE"
+  },
+  {
+    "keyword": "shopping centre",
+    "matchType": "EXACT",
+    "campaign": "WP - Generic Search",
+    "adGroup": "WP - Shopping Centre Generic Keywords",
+    "qualityScore": 3,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE"
+  },
+  {
+    "keyword": "shopping centre",
+    "matchType": "BROAD",
+    "campaign": "WP - Branded Search",
+    "adGroup": "WP - Branded Keywords",
+    "qualityScore": 4,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE"
+  },
+  {
+    "keyword": "shopping centre",
+    "matchType": "EXACT",
+    "campaign": "WP - Branded Search",
+    "adGroup": "WP - Branded Keywords",
+    "qualityScore": 4,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE"
+  },
+  {
+    "keyword": "shopping mall near me",
+    "matchType": "BROAD",
+    "campaign": "WP - Branded Search",
+    "adGroup": "WP - Branded Keywords",
+    "qualityScore": 5,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "AVERAGE",
+    "searchPredictedCtr": "AVERAGE"
+  },
+  {
+    "keyword": "shopping mall near me",
+    "matchType": "EXACT",
+    "campaign": "WP - Branded Search",
+    "adGroup": "WP - Branded Keywords",
+    "qualityScore": 5,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "AVERAGE",
+    "searchPredictedCtr": "AVERAGE"
+  },
+  {
+    "keyword": "shopping centre near me",
+    "matchType": "BROAD",
+    "campaign": "WP - Branded Search",
+    "adGroup": "WP - Branded Keywords",
+    "qualityScore": 5,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "AVERAGE",
+    "searchPredictedCtr": "AVERAGE"
+  },
+  {
+    "keyword": "shopping centre near me",
+    "matchType": "EXACT",
+    "campaign": "WP - Branded Search",
+    "adGroup": "WP - Branded Keywords",
+    "qualityScore": 5,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "AVERAGE",
+    "searchPredictedCtr": "AVERAGE"
+  },
+  {
+    "keyword": "Shopping near me",
+    "matchType": "BROAD",
+    "campaign": "WP - Branded Search",
+    "adGroup": "WP - Branded Keywords",
+    "qualityScore": 5,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "AVERAGE",
+    "searchPredictedCtr": "AVERAGE"
+  },
+  {
+    "keyword": "Shopping near me",
+    "matchType": "EXACT",
+    "campaign": "WP - Branded Search",
+    "adGroup": "WP - Branded Keywords",
+    "qualityScore": 5,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "AVERAGE",
+    "searchPredictedCtr": "AVERAGE"
+  },
+  {
+    "keyword": "nearest shopping centre",
+    "matchType": "BROAD",
+    "campaign": "WP - Branded Search",
+    "adGroup": "WP - Branded Keywords",
+    "qualityScore": 6,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "ABOVE_AVERAGE",
+    "searchPredictedCtr": "AVERAGE"
+  },
+  {
+    "keyword": "nearest shopping centre",
+    "matchType": "EXACT",
+    "campaign": "WP - Branded Search",
+    "adGroup": "WP - Branded Keywords",
+    "qualityScore": 6,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "ABOVE_AVERAGE",
+    "searchPredictedCtr": "AVERAGE"
+  },
+  {
+    "keyword": "gungahlin shopping centre",
+    "matchType": "EXACT",
+    "campaign": "WP - Branded Search",
+    "adGroup": "WP - Branded Keywords",
+    "qualityScore": 8,
+    "creativeQualityScore": "ABOVE_AVERAGE",
+    "postClickQualityScore": "ABOVE_AVERAGE",
+    "searchPredictedCtr": "AVERAGE"
+  },
+  {
+    "keyword": "gungahlin marketplace",
+    "matchType": "EXACT",
+    "campaign": "WP - Branded Search",
+    "adGroup": "WP - Branded Keywords",
+    "qualityScore": 10,
+    "creativeQualityScore": "ABOVE_AVERAGE",
+    "postClickQualityScore": "ABOVE_AVERAGE",
+    "searchPredictedCtr": "ABOVE_AVERAGE"
+  }
+]

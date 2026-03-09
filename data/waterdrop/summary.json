@@ -1,0 +1,50 @@
+{
+  "clientId": "waterdrop",
+  "clientName": "Waterdrop",
+  "current7d": {
+    "clicks": 6994,
+    "impressions": 298319,
+    "costMicros": 13955007138,
+    "conversions": 549.254435,
+    "conversionValue": 49329.234086528,
+    "ctr": 0.023444701812489314,
+    "averageCpc": 1995282.69
+  },
+  "prev7d": {
+    "clicks": 7375,
+    "impressions": 336461,
+    "costMicros": 11413361248,
+    "conversions": 556.502771,
+    "conversionValue": 48271.401668235,
+    "ctr": 0.02191933091799644,
+    "averageCpc": 1547574.41
+  },
+  "current30d": {
+    "clicks": 35894,
+    "impressions": 1648144,
+    "costMicros": 58737260882,
+    "conversions": 2887.950411,
+    "conversionValue": 249667.641084204,
+    "ctr": 0.021778436835616307,
+    "averageCpc": 1636408.90
+  },
+  "prev30d": {
+    "clicks": 56686,
+    "impressions": 1749524,
+    "costMicros": 56740600303,
+    "conversions": 4537.537596,
+    "conversionValue": 407359.634072019,
+    "ctr": 0.03240081302114175,
+    "averageCpc": 1000963.21
+  },
+  "yoy30d": {
+    "clicks": 27804,
+    "impressions": 1724963,
+    "costMicros": 36120173172,
+    "conversions": 2189.580065,
+    "conversionValue": 177385.170998833,
+    "ctr": 0.01611860660199668,
+    "averageCpc": 1299099.88
+  },
+  "lastUpdated": "2026-03-09T00:00:00.000Z"
+}

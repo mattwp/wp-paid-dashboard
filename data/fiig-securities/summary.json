@@ -1,0 +1,45 @@
+{
+  "clientId": "fiig-securities",
+  "clientName": "FIIG Securities",
+  "current7d": {
+    "clicks": 3341,
+    "impressions": 287652,
+    "costMicros": 8977737064,
+    "conversions": 127.944095,
+    "ctr": 0.011614728908542267,
+    "averageCpc": 2687140.69560012
+  },
+  "prev7d": {
+    "clicks": 4485,
+    "impressions": 293991,
+    "costMicros": 9210226133,
+    "conversions": 124.382369,
+    "ctr": 0.015255569048032082,
+    "averageCpc": 2053562.125529543
+  },
+  "current30d": {
+    "clicks": 15494,
+    "impressions": 1027399,
+    "costMicros": 40411868255,
+    "conversions": 540.634899,
+    "ctr": 0.01508080112984342,
+    "averageCpc": 2608226.9430101975
+  },
+  "prev30d": {
+    "clicks": 14176,
+    "impressions": 960026,
+    "costMicros": 38879882612,
+    "conversions": 535.732338,
+    "ctr": 0.01476626674694227,
+    "averageCpc": 2742655.376128668
+  },
+  "yoy30d": {
+    "clicks": 12361,
+    "impressions": 752981,
+    "costMicros": 35576490984,
+    "conversions": 404.263656,
+    "ctr": 0.01641608486801128,
+    "averageCpc": 2878124.017797913
+  },
+  "lastUpdated": "2026-03-09T00:00:00.000Z"
+}

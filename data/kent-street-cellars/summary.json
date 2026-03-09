@@ -1,0 +1,50 @@
+{
+  "clientId": "kent-street-cellars",
+  "clientName": "Kent Street Cellars",
+  "current7d": {
+    "clicks": 16391,
+    "impressions": 1054958,
+    "costMicros": 24079296178,
+    "conversions": 458.052042,
+    "conversionValue": 196088.613312436,
+    "ctr": 0.015537111430028495,
+    "averageCpc": 1469087.68
+  },
+  "prev7d": {
+    "clicks": 18825,
+    "impressions": 1213514,
+    "costMicros": 26154053031,
+    "conversions": 494.725607,
+    "conversionValue": 208698.770539721,
+    "ctr": 0.015512800017140305,
+    "averageCpc": 1389333.38
+  },
+  "current30d": {
+    "clicks": 78281,
+    "impressions": 5012992,
+    "costMicros": 108477074344,
+    "conversions": 2230.143317,
+    "conversionValue": 975769.016978046,
+    "ctr": 0.015615624361658666,
+    "averageCpc": 1385739.51
+  },
+  "prev30d": {
+    "clicks": 63127,
+    "impressions": 3577967,
+    "costMicros": 75343548964,
+    "conversions": 2216.336436,
+    "conversionValue": 934821.882963108,
+    "ctr": 0.017643259426372574,
+    "averageCpc": 1193523.36
+  },
+  "yoy30d": {
+    "clicks": 55851,
+    "impressions": 3138732,
+    "costMicros": 49402322677,
+    "conversions": 2311.186201,
+    "conversionValue": 988233.453649088,
+    "ctr": 0.01779412832952925,
+    "averageCpc": 884537.84
+  },
+  "lastUpdated": "2026-03-09T00:00:00.000Z"
+}

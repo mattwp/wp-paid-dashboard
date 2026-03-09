@@ -1,0 +1,10 @@
+{
+  "clientId": "artilux",
+  "clientName": "Artilux",
+  "current7d": { "clicks": 411, "impressions": 4022, "costMicros": 1783011151, "conversions": 25, "ctr": 0.10218796618597713, "averageCpc": 4338226.6447688565 },
+  "prev7d": { "clicks": 490, "impressions": 5497, "costMicros": 2183886243, "conversions": 39, "ctr": 0.0891395306530835, "averageCpc": 4456910.7 },
+  "current30d": { "clicks": 1913, "impressions": 18956, "costMicros": 8155290503, "conversions": 130, "ctr": 0.10091791517197721, "averageCpc": 4263089.651332985 },
+  "prev30d": { "clicks": 1846, "impressions": 16131, "costMicros": 7817344561, "conversions": 159, "ctr": 0.11443803855929577, "averageCpc": 4234747.866197183 },
+  "yoy30d": { "clicks": 1719, "impressions": 16337, "costMicros": 5511768670, "conversions": 124, "ctr": 0.10522127685621595, "averageCpc": 3206380.843513671 },
+  "lastUpdated": "2026-03-09T00:00:00.000Z"
+}

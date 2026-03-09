@@ -1,0 +1,45 @@
+{
+  "clientId": "the-abraham-group",
+  "clientName": "The Abraham Group",
+  "current7d": {
+    "clicks": 0,
+    "impressions": 0,
+    "costMicros": 0,
+    "conversions": 0,
+    "ctr": null,
+    "averageCpc": null
+  },
+  "prev7d": {
+    "clicks": 0,
+    "impressions": 0,
+    "costMicros": 0,
+    "conversions": 0,
+    "ctr": null,
+    "averageCpc": null
+  },
+  "current30d": {
+    "clicks": 0,
+    "impressions": 0,
+    "costMicros": 0,
+    "conversions": 0,
+    "ctr": null,
+    "averageCpc": null
+  },
+  "prev30d": {
+    "clicks": 0,
+    "impressions": 0,
+    "costMicros": 0,
+    "conversions": 0,
+    "ctr": null,
+    "averageCpc": null
+  },
+  "yoy30d": {
+    "clicks": 0,
+    "impressions": 0,
+    "costMicros": 0,
+    "conversions": 0,
+    "ctr": null,
+    "averageCpc": null
+  },
+  "lastUpdated": "2026-03-09T00:00:00.000Z"
+}

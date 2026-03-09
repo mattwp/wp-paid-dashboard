@@ -1,0 +1,732 @@
+[
+  {
+    "keyword": "property value",
+    "matchType": "PHRASE",
+    "campaign": "WB | S | Generic | 2026",
+    "adGroup": "Property/House/Home Val",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE"
+  },
+  {
+    "keyword": "house value",
+    "matchType": "EXACT",
+    "campaign": "WB | S | Generic | 2026",
+    "adGroup": "Property/House/Home Val",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE"
+  },
+  {
+    "keyword": "property valuation",
+    "matchType": "EXACT",
+    "campaign": "WB | S | Generic | 2026",
+    "adGroup": "Property/House/Home Val",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE"
+  },
+  {
+    "keyword": "real estate valuation",
+    "matchType": "EXACT",
+    "campaign": "WB | S | Generic | 2026",
+    "adGroup": "Property/House/Home Val",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE"
+  },
+  {
+    "keyword": "house valuation",
+    "matchType": "EXACT",
+    "campaign": "WB | S | Generic | 2026",
+    "adGroup": "Property/House/Home Val",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE"
+  },
+  {
+    "keyword": "house value",
+    "matchType": "PHRASE",
+    "campaign": "WB | S | Generic | 2026",
+    "adGroup": "Property/House/Home Val",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE"
+  },
+  {
+    "keyword": "value my house",
+    "matchType": "PHRASE",
+    "campaign": "WB | S | Generic | 2026",
+    "adGroup": "Property/House/Home Val",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE"
+  },
+  {
+    "keyword": "house valuation",
+    "matchType": "PHRASE",
+    "campaign": "WB | S | Generic | 2026",
+    "adGroup": "Property/House/Home Val",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE"
+  },
+  {
+    "keyword": "property valuation",
+    "matchType": "PHRASE",
+    "campaign": "WB | S | Generic | 2026",
+    "adGroup": "Property/House/Home Val",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE"
+  },
+  {
+    "keyword": "real estate valuation",
+    "matchType": "PHRASE",
+    "campaign": "WB | S | Generic | 2026",
+    "adGroup": "Property/House/Home Val",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE"
+  },
+  {
+    "keyword": "real estate property value",
+    "matchType": "EXACT",
+    "campaign": "WB | S | Generic | 2026",
+    "adGroup": "Property/House/Home Val",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE"
+  },
+  {
+    "keyword": "property value",
+    "matchType": "EXACT",
+    "campaign": "WB | S | Generic | 2026",
+    "adGroup": "Property/House/Home Val",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE"
+  },
+  {
+    "keyword": "online property valuation",
+    "matchType": "EXACT",
+    "campaign": "WB | S | Generic | 2026",
+    "adGroup": "Property/House/Home Val",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE"
+  },
+  {
+    "keyword": "value my house",
+    "matchType": "EXACT",
+    "campaign": "WB | S | Generic | 2026",
+    "adGroup": "Property/House/Home Val",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE"
+  },
+  {
+    "keyword": "real estate property value",
+    "matchType": "PHRASE",
+    "campaign": "WB | S | Generic | 2026",
+    "adGroup": "Property/House/Home Val",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE"
+  },
+  {
+    "keyword": "property value estimator",
+    "matchType": "PHRASE",
+    "campaign": "WB | S | Generic | 2026",
+    "adGroup": "Property/House/Home Val",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE"
+  },
+  {
+    "keyword": "online property valuation",
+    "matchType": "PHRASE",
+    "campaign": "WB | S | Generic | 2026",
+    "adGroup": "Property/House/Home Val",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE"
+  },
+  {
+    "keyword": "property value estimator",
+    "matchType": "EXACT",
+    "campaign": "WB | S | Generic | 2026",
+    "adGroup": "Property/House/Home Val",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE"
+  },
+  {
+    "keyword": "real estate value estimator",
+    "matchType": "PHRASE",
+    "campaign": "WB | S | Generic | 2026",
+    "adGroup": "Property/House/Home Val",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE"
+  },
+  {
+    "keyword": "real estate value estimator",
+    "matchType": "EXACT",
+    "campaign": "WB | S | Generic | 2026",
+    "adGroup": "Property/House/Home Val",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE"
+  },
+  {
+    "keyword": "free property value estimate",
+    "matchType": "PHRASE",
+    "campaign": "WB | S | Generic | 2026",
+    "adGroup": "Property/House/Home Val",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE"
+  },
+  {
+    "keyword": "free property value estimate",
+    "matchType": "EXACT",
+    "campaign": "WB | S | Generic | 2026",
+    "adGroup": "Property/House/Home Val",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE"
+  },
+  {
+    "keyword": "property price estimate",
+    "matchType": "PHRASE",
+    "campaign": "WB | S | Generic | 2026",
+    "adGroup": "Property/House/Home Val",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE"
+  },
+  {
+    "keyword": "property price estimate",
+    "matchType": "EXACT",
+    "campaign": "WB | S | Generic | 2026",
+    "adGroup": "Property/House/Home Val",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE"
+  },
+  {
+    "keyword": "realestate valuation",
+    "matchType": "PHRASE",
+    "campaign": "WB | S | Generic | 2026",
+    "adGroup": "Property/House/Home Val",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE"
+  },
+  {
+    "keyword": "realestate valuation",
+    "matchType": "EXACT",
+    "campaign": "WB | S | Generic | 2026",
+    "adGroup": "Property/House/Home Val",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE"
+  },
+  {
+    "keyword": "what's my house worth",
+    "matchType": "BROAD",
+    "campaign": "WB | S | Generic | 2026",
+    "adGroup": "House Appraisal",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE"
+  },
+  {
+    "keyword": "what is my house worth",
+    "matchType": "PHRASE",
+    "campaign": "WB | S | Generic | 2026",
+    "adGroup": "House Appraisal",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE"
+  },
+  {
+    "keyword": "ray white robertson",
+    "matchType": "PHRASE",
+    "campaign": "WB | S | Brand | 2026",
+    "adGroup": "Brand",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE"
+  },
+  {
+    "keyword": "ray white robertson",
+    "matchType": "EXACT",
+    "campaign": "WB | S | Brand | 2026",
+    "adGroup": "Brand",
+    "qualityScore": 1,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE"
+  },
+  {
+    "keyword": "home valuation",
+    "matchType": "EXACT",
+    "campaign": "WB | S | Generic | 2026",
+    "adGroup": "Property/House/Home Val",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE"
+  },
+  {
+    "keyword": "home valuation",
+    "matchType": "PHRASE",
+    "campaign": "WB | S | Generic | 2026",
+    "adGroup": "Property/House/Home Val",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE"
+  },
+  {
+    "keyword": "ray white acacia ridge",
+    "matchType": "EXACT",
+    "campaign": "WB | S | Location | 2026",
+    "adGroup": "Acacia Ridge",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE"
+  },
+  {
+    "keyword": "ray white acacia ridge",
+    "matchType": "PHRASE",
+    "campaign": "WB | S | Location | 2026",
+    "adGroup": "Acacia Ridge",
+    "qualityScore": 2,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE"
+  },
+  {
+    "keyword": "sell my house eight mile plains",
+    "matchType": "PHRASE",
+    "campaign": "WB | S | Location | 2026",
+    "adGroup": "Eight Mile Plains",
+    "qualityScore": 3,
+    "creativeQualityScore": "ABOVE_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE"
+  },
+  {
+    "keyword": "sell my house eight mile plains",
+    "matchType": "EXACT",
+    "campaign": "WB | S | Location | 2026",
+    "adGroup": "Eight Mile Plains",
+    "qualityScore": 3,
+    "creativeQualityScore": "ABOVE_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE"
+  },
+  {
+    "keyword": "sell my house Eight Mile Plains",
+    "matchType": "PHRASE",
+    "campaign": "WB | S | Location | 2026",
+    "adGroup": "Eight Mile Plains",
+    "qualityScore": 3,
+    "creativeQualityScore": "ABOVE_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE"
+  },
+  {
+    "keyword": "home value estimator",
+    "matchType": "PHRASE",
+    "campaign": "WB | S | Generic | 2026",
+    "adGroup": "Property/House/Home Val",
+    "qualityScore": 3,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "AVERAGE"
+  },
+  {
+    "keyword": "free property valuation",
+    "matchType": "PHRASE",
+    "campaign": "WB | S | Generic | 2026",
+    "adGroup": "Property/House/Home Val",
+    "qualityScore": 3,
+    "creativeQualityScore": "ABOVE_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE"
+  },
+  {
+    "keyword": "home value estimator",
+    "matchType": "EXACT",
+    "campaign": "WB | S | Generic | 2026",
+    "adGroup": "Property/House/Home Val",
+    "qualityScore": 3,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "AVERAGE"
+  },
+  {
+    "keyword": "free property valuation",
+    "matchType": "EXACT",
+    "campaign": "WB | S | Generic | 2026",
+    "adGroup": "Property/House/Home Val",
+    "qualityScore": 3,
+    "creativeQualityScore": "ABOVE_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE"
+  },
+  {
+    "keyword": "property value estimate online",
+    "matchType": "PHRASE",
+    "campaign": "WB | S | Generic | 2026",
+    "adGroup": "Property/House/Home Val",
+    "qualityScore": 3,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "AVERAGE"
+  },
+  {
+    "keyword": "property value estimate online",
+    "matchType": "EXACT",
+    "campaign": "WB | S | Generic | 2026",
+    "adGroup": "Property/House/Home Val",
+    "qualityScore": 3,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "AVERAGE"
+  },
+  {
+    "keyword": "house appraisal",
+    "matchType": "EXACT",
+    "campaign": "WB | S | Generic | 2026",
+    "adGroup": "House Appraisal",
+    "qualityScore": 3,
+    "creativeQualityScore": "ABOVE_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE"
+  },
+  {
+    "keyword": "house appraisal",
+    "matchType": "PHRASE",
+    "campaign": "WB | S | Generic | 2026",
+    "adGroup": "House Appraisal",
+    "qualityScore": 3,
+    "creativeQualityScore": "ABOVE_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE"
+  },
+  {
+    "keyword": "sell my house",
+    "matchType": "PHRASE",
+    "campaign": "WB | S | Generic | 2026",
+    "adGroup": "Sell my house",
+    "qualityScore": 3,
+    "creativeQualityScore": "ABOVE_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE"
+  },
+  {
+    "keyword": "sell house",
+    "matchType": "EXACT",
+    "campaign": "WB | S | Generic | 2026",
+    "adGroup": "Sell my house",
+    "qualityScore": 3,
+    "creativeQualityScore": "ABOVE_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE"
+  },
+  {
+    "keyword": "sell house",
+    "matchType": "PHRASE",
+    "campaign": "WB | S | Generic | 2026",
+    "adGroup": "Sell my house",
+    "qualityScore": 3,
+    "creativeQualityScore": "ABOVE_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE"
+  },
+  {
+    "keyword": "sell my house",
+    "matchType": "EXACT",
+    "campaign": "WB | S | Generic | 2026",
+    "adGroup": "Sell my house",
+    "qualityScore": 3,
+    "creativeQualityScore": "ABOVE_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE"
+  },
+  {
+    "keyword": "ray white Mansfield",
+    "matchType": "PHRASE",
+    "campaign": "WB | S | Location | 2026",
+    "adGroup": "Mansfield",
+    "qualityScore": 4,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "AVERAGE"
+  },
+  {
+    "keyword": "ray white Mansfield",
+    "matchType": "EXACT",
+    "campaign": "WB | S | Location | 2026",
+    "adGroup": "Mansfield",
+    "qualityScore": 4,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "AVERAGE"
+  },
+  {
+    "keyword": "ray white eight mile plains",
+    "matchType": "EXACT",
+    "campaign": "WB | S | Location | 2026",
+    "adGroup": "Eight Mile Plains",
+    "qualityScore": 5,
+    "creativeQualityScore": "ABOVE_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "AVERAGE"
+  },
+  {
+    "keyword": "ray white eight mile plains",
+    "matchType": "PHRASE",
+    "campaign": "WB | S | Location | 2026",
+    "adGroup": "Eight Mile Plains",
+    "qualityScore": 5,
+    "creativeQualityScore": "ABOVE_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "AVERAGE"
+  },
+  {
+    "keyword": "ray white macgregor",
+    "matchType": "PHRASE",
+    "campaign": "WB | S | Location | 2026",
+    "adGroup": "MacGregor",
+    "qualityScore": 5,
+    "creativeQualityScore": "ABOVE_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "AVERAGE"
+  },
+  {
+    "keyword": "ray white macgregor",
+    "matchType": "EXACT",
+    "campaign": "WB | S | Location | 2026",
+    "adGroup": "MacGregor",
+    "qualityScore": 5,
+    "creativeQualityScore": "ABOVE_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "AVERAGE"
+  },
+  {
+    "keyword": "ray white sunnybank",
+    "matchType": "EXACT",
+    "campaign": "WB | S | Location | 2026",
+    "adGroup": "Sunnybank",
+    "qualityScore": 5,
+    "creativeQualityScore": "ABOVE_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "AVERAGE"
+  },
+  {
+    "keyword": "ray white sunnybank",
+    "matchType": "PHRASE",
+    "campaign": "WB | S | Location | 2026",
+    "adGroup": "Sunnybank",
+    "qualityScore": 5,
+    "creativeQualityScore": "ABOVE_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "AVERAGE"
+  },
+  {
+    "keyword": "ray white sunnybank hills",
+    "matchType": "EXACT",
+    "campaign": "WB | S | Location | 2026",
+    "adGroup": "Sunnybank Hills",
+    "qualityScore": 5,
+    "creativeQualityScore": "ABOVE_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "AVERAGE"
+  },
+  {
+    "keyword": "ray white sunnybank hills",
+    "matchType": "PHRASE",
+    "campaign": "WB | S | Location | 2026",
+    "adGroup": "Sunnybank Hills",
+    "qualityScore": 5,
+    "creativeQualityScore": "ABOVE_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "AVERAGE"
+  },
+  {
+    "keyword": "house value checker",
+    "matchType": "PHRASE",
+    "campaign": "WB | S | Generic | 2026",
+    "adGroup": "Property/House/Home Val",
+    "qualityScore": 5,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "ABOVE_AVERAGE"
+  },
+  {
+    "keyword": "house value checker",
+    "matchType": "EXACT",
+    "campaign": "WB | S | Generic | 2026",
+    "adGroup": "Property/House/Home Val",
+    "qualityScore": 5,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "ABOVE_AVERAGE"
+  },
+  {
+    "keyword": "ray white",
+    "matchType": "PHRASE",
+    "campaign": "WB | S | Brand | 2026",
+    "adGroup": "Brand",
+    "qualityScore": 5,
+    "creativeQualityScore": "ABOVE_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "AVERAGE"
+  },
+  {
+    "keyword": "ray white real estate",
+    "matchType": "PHRASE",
+    "campaign": "WB | S | Brand | 2026",
+    "adGroup": "Brand",
+    "qualityScore": 5,
+    "creativeQualityScore": "ABOVE_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "AVERAGE"
+  },
+  {
+    "keyword": "ray white real estate",
+    "matchType": "EXACT",
+    "campaign": "WB | S | Brand | 2026",
+    "adGroup": "Brand",
+    "qualityScore": 5,
+    "creativeQualityScore": "ABOVE_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "AVERAGE"
+  },
+  {
+    "keyword": "ray white",
+    "matchType": "EXACT",
+    "campaign": "WB | S | Brand | 2026",
+    "adGroup": "Brand",
+    "qualityScore": 5,
+    "creativeQualityScore": "ABOVE_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "AVERAGE"
+  },
+  {
+    "keyword": "ray white sunnybank hills",
+    "matchType": "EXACT",
+    "campaign": "WB | S | Brand | 2026",
+    "adGroup": "Brand",
+    "qualityScore": 5,
+    "creativeQualityScore": "ABOVE_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "AVERAGE"
+  },
+  {
+    "keyword": "ray white sunnybank hills",
+    "matchType": "PHRASE",
+    "campaign": "WB | S | Brand | 2026",
+    "adGroup": "Brand",
+    "qualityScore": 5,
+    "creativeQualityScore": "ABOVE_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "AVERAGE"
+  },
+  {
+    "keyword": "ray white Algester",
+    "matchType": "PHRASE",
+    "campaign": "WB | S | Location | 2026",
+    "adGroup": "Algester",
+    "qualityScore": 5,
+    "creativeQualityScore": "ABOVE_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "AVERAGE"
+  },
+  {
+    "keyword": "ray white Algester",
+    "matchType": "EXACT",
+    "campaign": "WB | S | Location | 2026",
+    "adGroup": "Algester",
+    "qualityScore": 5,
+    "creativeQualityScore": "ABOVE_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "AVERAGE"
+  },
+  {
+    "keyword": "ray white Calamvale",
+    "matchType": "EXACT",
+    "campaign": "WB | S | Location | 2026",
+    "adGroup": "Calamvale",
+    "qualityScore": 5,
+    "creativeQualityScore": "ABOVE_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "AVERAGE"
+  },
+  {
+    "keyword": "ray white Calamvale",
+    "matchType": "PHRASE",
+    "campaign": "WB | S | Location | 2026",
+    "adGroup": "Calamvale",
+    "qualityScore": 5,
+    "creativeQualityScore": "ABOVE_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "AVERAGE"
+  },
+  {
+    "keyword": "ray white Kuraby",
+    "matchType": "EXACT",
+    "campaign": "WB | S | Location | 2026",
+    "adGroup": "Kuraby",
+    "qualityScore": 7,
+    "creativeQualityScore": "ABOVE_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "ABOVE_AVERAGE"
+  },
+  {
+    "keyword": "ray white Kuraby",
+    "matchType": "PHRASE",
+    "campaign": "WB | S | Location | 2026",
+    "adGroup": "Kuraby",
+    "qualityScore": 7,
+    "creativeQualityScore": "ABOVE_AVERAGE",
+    "postClickQualityScore": "BELOW_AVERAGE",
+    "searchPredictedCtr": "ABOVE_AVERAGE"
+  }
+]

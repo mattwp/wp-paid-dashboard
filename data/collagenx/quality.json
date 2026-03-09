@@ -1,0 +1,12 @@
+[
+  {"keyword": "collagen x reviews", "matchType": "EXACT", "campaign": "WP - Search - Branded", "adGroup": "CollagenX", "qualityScore": 6, "creativeQualityScore": "BELOW_AVERAGE", "postClickQualityScore": "ABOVE_AVERAGE", "searchPredictedCtr": "AVERAGE"},
+  {"keyword": "collagen x reviews", "matchType": "PHRASE", "campaign": "WP - Search - Branded", "adGroup": "CollagenX", "qualityScore": 6, "creativeQualityScore": "BELOW_AVERAGE", "postClickQualityScore": "ABOVE_AVERAGE", "searchPredictedCtr": "AVERAGE"},
+  {"keyword": "collagen x", "matchType": "EXACT", "campaign": "WP - Search - Branded", "adGroup": "CollagenX", "qualityScore": 8, "creativeQualityScore": "BELOW_AVERAGE", "postClickQualityScore": "ABOVE_AVERAGE", "searchPredictedCtr": "ABOVE_AVERAGE"},
+  {"keyword": "collagen x", "matchType": "PHRASE", "campaign": "WP - Search - Branded", "adGroup": "CollagenX", "qualityScore": 8, "creativeQualityScore": "BELOW_AVERAGE", "postClickQualityScore": "ABOVE_AVERAGE", "searchPredictedCtr": "ABOVE_AVERAGE"},
+  {"keyword": "collagen x powder", "matchType": "EXACT", "campaign": "WP - Search - Branded", "adGroup": "CollagenX", "qualityScore": 9, "creativeQualityScore": "AVERAGE", "postClickQualityScore": "ABOVE_AVERAGE", "searchPredictedCtr": "ABOVE_AVERAGE"},
+  {"keyword": "collagen x powder", "matchType": "PHRASE", "campaign": "WP - Search - Branded", "adGroup": "CollagenX", "qualityScore": 9, "creativeQualityScore": "AVERAGE", "postClickQualityScore": "ABOVE_AVERAGE", "searchPredictedCtr": "ABOVE_AVERAGE"},
+  {"keyword": "collagenx", "matchType": "EXACT", "campaign": "WP - Search - Branded", "adGroup": "CollagenX", "qualityScore": 10, "creativeQualityScore": "ABOVE_AVERAGE", "postClickQualityScore": "ABOVE_AVERAGE", "searchPredictedCtr": "ABOVE_AVERAGE"},
+  {"keyword": "collagenx", "matchType": "PHRASE", "campaign": "WP - Search - Branded", "adGroup": "CollagenX", "qualityScore": 10, "creativeQualityScore": "ABOVE_AVERAGE", "postClickQualityScore": "ABOVE_AVERAGE", "searchPredictedCtr": "ABOVE_AVERAGE"},
+  {"keyword": "collagenx reviews", "matchType": "EXACT", "campaign": "WP - Search - Branded", "adGroup": "CollagenX", "qualityScore": 10, "creativeQualityScore": "ABOVE_AVERAGE", "postClickQualityScore": "ABOVE_AVERAGE", "searchPredictedCtr": "ABOVE_AVERAGE"},
+  {"keyword": "collagenx reviews", "matchType": "PHRASE", "campaign": "WP - Search - Branded", "adGroup": "CollagenX", "qualityScore": 10, "creativeQualityScore": "ABOVE_AVERAGE", "postClickQualityScore": "ABOVE_AVERAGE", "searchPredictedCtr": "ABOVE_AVERAGE"}
+]

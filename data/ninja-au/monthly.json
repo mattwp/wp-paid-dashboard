@@ -1,0 +1,18 @@
+{
+  "lastUpdated": "2026-03-09T00:00:00.000Z",
+  "dateRange": { "start": "2025-03-01", "end": "2026-02-28" },
+  "monthly": [
+    { "month": "2025-03", "conversions": 3192.507748, "costMicros": 198213023767 },
+    { "month": "2025-04", "conversions": 4046.672693, "costMicros": 185248795494 },
+    { "month": "2025-05", "conversions": 3970.832934, "costMicros": 111927761330 },
+    { "month": "2025-06", "conversions": 4335.168773, "costMicros": 210972782338 },
+    { "month": "2025-07", "conversions": 2510.068388, "costMicros": 120809691921 },
+    { "month": "2025-08", "conversions": 3139.354601, "costMicros": 188048932490 },
+    { "month": "2025-09", "conversions": 2584.313526, "costMicros": 180510434217 },
+    { "month": "2025-10", "conversions": 2385.05439, "costMicros": 132941794247 },
+    { "month": "2025-11", "conversions": 8063.05442, "costMicros": 330131378849 },
+    { "month": "2025-12", "conversions": 2862.166404, "costMicros": 77517235276 },
+    { "month": "2026-01", "conversions": 1434.30535, "costMicros": 88887473592 },
+    { "month": "2026-02", "conversions": 2059.174414, "costMicros": 144722551690 }
+  ]
+}

@@ -1,0 +1,62 @@
+[
+  {
+    "month": "2025-03",
+    "conversions": 267.230363,
+    "costMicros": 24538176668
+  },
+  {
+    "month": "2025-04",
+    "conversions": 234.652013,
+    "costMicros": 20991360767
+  },
+  {
+    "month": "2025-05",
+    "conversions": 300.012071,
+    "costMicros": 30427146780
+  },
+  {
+    "month": "2025-06",
+    "conversions": 265.943087,
+    "costMicros": 28955270154
+  },
+  {
+    "month": "2025-07",
+    "conversions": 285.605767,
+    "costMicros": 27671872949
+  },
+  {
+    "month": "2025-08",
+    "conversions": 190.99885999999998,
+    "costMicros": 25750965427
+  },
+  {
+    "month": "2025-09",
+    "conversions": 329.047772,
+    "costMicros": 26621707532
+  },
+  {
+    "month": "2025-10",
+    "conversions": 344.172811,
+    "costMicros": 31017372947
+  },
+  {
+    "month": "2025-11",
+    "conversions": 332.775528,
+    "costMicros": 28949649514
+  },
+  {
+    "month": "2025-12",
+    "conversions": 298.888013,
+    "costMicros": 28075478573
+  },
+  {
+    "month": "2026-01",
+    "conversions": 325.99596199999996,
+    "costMicros": 28449695957
+  },
+  {
+    "month": "2026-02",
+    "conversions": 298.95021,
+    "costMicros": 28363330597
+  }
+]

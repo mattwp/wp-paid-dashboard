@@ -1,0 +1,45 @@
+{
+  "clientId": "roomia",
+  "clientName": "Roomia",
+  "current7d": {
+    "clicks": 3358,
+    "impressions": 74833,
+    "costMicros": 14313963082,
+    "conversions": 262.573978,
+    "ctr": 0.04487325110579557,
+    "averageCpc": 4262645.349017272
+  },
+  "prev7d": {
+    "clicks": 4027,
+    "impressions": 117603,
+    "costMicros": 14389552216,
+    "conversions": 319.063276,
+    "ctr": 0.03424232375024447,
+    "averageCpc": 3573268.491681152
+  },
+  "current30d": {
+    "clicks": 14794,
+    "impressions": 400735,
+    "costMicros": 60649706701,
+    "conversions": 1203.27111,
+    "ctr": 0.03691716470984566,
+    "averageCpc": 4099615.1616195757
+  },
+  "prev30d": {
+    "clicks": 11442,
+    "impressions": 349304,
+    "costMicros": 56396163396,
+    "conversions": 1114.709284,
+    "ctr": 0.03275656734534961,
+    "averageCpc": 4928872.871525957
+  },
+  "yoy30d": {
+    "clicks": 6679,
+    "impressions": 129398,
+    "costMicros": 39385014483,
+    "conversions": 673.924933,
+    "ctr": 0.05161594460501708,
+    "averageCpc": 5896843.012876179
+  },
+  "lastUpdated": "2026-03-09T00:00:00.000Z"
+}

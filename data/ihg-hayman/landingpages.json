@@ -1,0 +1,65 @@
+[
+  {
+    "url": "https://haymanisland.intercontinental.com/special-offers/",
+    "clicks": 1568,
+    "impressions": 12306,
+    "costMicros": 1706244082,
+    "conversions": 732.001655,
+    "ctr": 0.12741751990898748,
+    "averageCpc": 1088165.868622449
+  },
+  {
+    "url": "https://haymanisland.intercontinental.com/promotion/summer-lives-on-great-barrier-reef-accommodations-packages/",
+    "clicks": 911,
+    "impressions": 5357,
+    "costMicros": 1036845578,
+    "conversions": 279.791051,
+    "ctr": 0.17005786820981894,
+    "averageCpc": 1138140.041712404
+  },
+  {
+    "url": "https://haymanisland.intercontinental.com/weddings/",
+    "clicks": 135,
+    "impressions": 1222,
+    "costMicros": 173025894,
+    "conversions": 27.0,
+    "ctr": 0.1104746317512275,
+    "averageCpc": 1281673.288888889
+  },
+  {
+    "url": "https://haymanisland.intercontinental.com/stay/",
+    "clicks": 100,
+    "impressions": 3825,
+    "costMicros": 74724858,
+    "conversions": 34.423852,
+    "ctr": 0.026143790849673203,
+    "averageCpc": 747248.58
+  },
+  {
+    "url": "https://haymanisland.intercontinental.com/contact/",
+    "clicks": 11,
+    "impressions": 3086,
+    "costMicros": 6176936,
+    "conversions": 2.0,
+    "ctr": 0.0035644847699287103,
+    "averageCpc": 561539.6363636364
+  },
+  {
+    "url": "https://haymanisland.intercontinental.com/destination/hayman-island/",
+    "clicks": 0,
+    "impressions": 0,
+    "costMicros": 0,
+    "conversions": 0.5,
+    "ctr": null,
+    "averageCpc": null
+  },
+  {
+    "url": "https://haymanisland.intercontinental.com/experiences-recreation/",
+    "clicks": 0,
+    "impressions": 0,
+    "costMicros": 0,
+    "conversions": 3.50711,
+    "ctr": null,
+    "averageCpc": null
+  }
+]

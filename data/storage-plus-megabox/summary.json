@@ -1,0 +1,45 @@
+{
+  "clientId": "storage-plus-megabox",
+  "clientName": "Storage Plus / Megabox",
+  "current7d": {
+    "clicks": 565,
+    "impressions": 6629,
+    "costMicros": 6242306084,
+    "conversions": 63.768517,
+    "ctr": 0.08523153568397946,
+    "averageCpc": 11047444.395575222
+  },
+  "prev7d": {
+    "clicks": 574,
+    "impressions": 7437,
+    "costMicros": 6830651560,
+    "conversions": 65.264661,
+    "ctr": 0.07717391418458516,
+    "averageCpc": 11902704.633100629
+  },
+  "current30d": {
+    "clicks": 2452,
+    "impressions": 29348,
+    "costMicros": 29037852914,
+    "conversions": 296.571428,
+    "ctr": 0.08354948285543777,
+    "averageCpc": 11842516.278954731
+  },
+  "prev30d": {
+    "clicks": 2673,
+    "impressions": 31586,
+    "costMicros": 28628508082,
+    "conversions": 343.917842,
+    "ctr": 0.08462419069162862,
+    "averageCpc": 10710843.822139318
+  },
+  "yoy30d": {
+    "clicks": 2868,
+    "impressions": 44905,
+    "costMicros": 23221460175,
+    "conversions": 222.475471,
+    "ctr": 0.06386742345975062,
+    "averageCpc": 8095578.519178082
+  },
+  "lastUpdated": "2026-03-09T00:00:00.000Z"
+}

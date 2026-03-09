@@ -1,0 +1,45 @@
+{
+  "clientId": "superclinicphysio",
+  "clientName": "SuperClinicPhysio",
+  "current7d": {
+    "clicks": 267,
+    "impressions": 2306,
+    "costMicros": 964291799,
+    "conversions": 37,
+    "ctr": 0.11578490893321769,
+    "averageCpc": 3611579.7715355805
+  },
+  "prev7d": {
+    "clicks": 214,
+    "impressions": 1798,
+    "costMicros": 843618345,
+    "conversions": 24.5,
+    "ctr": 0.11902113459399333,
+    "averageCpc": 3942141.7990654204
+  },
+  "current30d": {
+    "clicks": 1066,
+    "impressions": 9421,
+    "costMicros": 4081944157,
+    "conversions": 129.833334,
+    "ctr": 0.11315147011994481,
+    "averageCpc": 3829215.907129456
+  },
+  "prev30d": {
+    "clicks": 1106,
+    "impressions": 10179,
+    "costMicros": 3975390542,
+    "conversions": 145.166666,
+    "ctr": 0.10865507417231555,
+    "averageCpc": 3594385.6618444845
+  },
+  "yoy30d": {
+    "clicks": 583,
+    "impressions": 6202,
+    "costMicros": 3141907938,
+    "conversions": 26,
+    "ctr": 0.09400193485972266,
+    "averageCpc": 5389207.440823328
+  },
+  "lastUpdated": "2026-03-09T00:00:00.000Z"
+}

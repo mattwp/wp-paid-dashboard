@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Locksmith Brisbane",
+    "status": "ENABLED",
+    "clicks": 943,
+    "impressions": 20052,
+    "costMicros": 15728427157,
+    "conversions": 148,
+    "ctr": 0.047027727907440656,
+    "averageCpc": 16679138,
+    "searchImpressionShare": 0.3151623537523432,
+    "searchTopImpressionShare": 0.22838428888457976,
+    "searchAbsoluteTopImpressionShare": 0.10035981298343137,
+    "searchBudgetLostImpressionShare": 0.33711835556225894,
+    "searchRankLostImpressionShare": 0.34771929068539786
+  },
+  {
+    "name": "Performance Max",
+    "status": "ENABLED",
+    "clicks": 286,
+    "impressions": 15108,
+    "costMicros": 1181131548,
+    "conversions": 34,
+    "ctr": 0.018930368016944664,
+    "averageCpc": 4129831,
+    "searchImpressionShare": 0.2138548711387315,
+    "searchTopImpressionShare": null,
+    "searchAbsoluteTopImpressionShare": null,
+    "searchBudgetLostImpressionShare": 0.2091025406689819,
+    "searchRankLostImpressionShare": 0.5770425881922866
+  }
+]

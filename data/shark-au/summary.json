@@ -1,0 +1,50 @@
+{
+  "clientId": "shark-au",
+  "clientName": "Shark AU",
+  "current7d": {
+    "clicks": 28348,
+    "impressions": 1366506,
+    "costMicros": 39443982222,
+    "conversions": 555.954242,
+    "conversionValue": 172476.02331103,
+    "ctr": 0.02074487781246478,
+    "averageCpc": 1391420.2843939608
+  },
+  "prev7d": {
+    "clicks": 38681,
+    "impressions": 1878691,
+    "costMicros": 48439200516,
+    "conversions": 793.836378,
+    "conversionValue": 202266.27299299,
+    "ctr": 0.02058933587269008,
+    "averageCpc": 1252273.739458649
+  },
+  "current30d": {
+    "clicks": 156811,
+    "impressions": 7511687,
+    "costMicros": 195510944412,
+    "conversions": 3219.795942,
+    "conversionValue": 856877.23879133,
+    "ctr": 0.020875603576134095,
+    "averageCpc": 1246793.5566510002
+  },
+  "prev30d": {
+    "clicks": 111305,
+    "impressions": 4497953,
+    "costMicros": 97574700641,
+    "conversions": 1940.670435,
+    "conversionValue": 470193.23791611,
+    "ctr": 0.024745700988872053,
+    "averageCpc": 876642.564493958
+  },
+  "yoy30d": {
+    "clicks": 98912,
+    "impressions": 4475047,
+    "costMicros": 98634202763,
+    "conversions": 2042.619601,
+    "conversionValue": 549859.74227089,
+    "ctr": 0.0221030080801386,
+    "averageCpc": 997191.4708326593
+  },
+  "lastUpdated": "2026-03-09T00:00:00.000Z"
+}

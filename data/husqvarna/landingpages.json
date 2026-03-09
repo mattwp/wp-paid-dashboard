@@ -1,0 +1,110 @@
+[
+  {
+    "url": "https://www.husqvarna.com/au/learn-and-discover/automower-consultation/",
+    "clicks": 6063,
+    "impressions": 448713,
+    "costMicros": 11885842236,
+    "conversions": 89.834954,
+    "ctr": 0.013511977589238555,
+    "averageCpc": 1960389615042
+  },
+  {
+    "url": "https://www.husqvarna.com/au/robotic-lawn-mowers/about/",
+    "clicks": 834,
+    "impressions": 454881,
+    "costMicros": 3630687792,
+    "conversions": 2.5,
+    "ctr": 0.0018334465497569694,
+    "averageCpc": 4353342676258
+  },
+  {
+    "url": "https://www.husqvarna.com/au/learn-and-discover/news-and-media/2026/womensgolf/",
+    "clicks": 286,
+    "impressions": 254167,
+    "costMicros": 2693902487,
+    "conversions": 0.0,
+    "ctr": 0.0011252444259089497,
+    "averageCpc": 9419239465034
+  },
+  {
+    "url": "https://www.husqvarna.com/au/robotic-lawn-mowers/",
+    "clicks": 566,
+    "impressions": 28868,
+    "costMicros": 1579538895,
+    "conversions": 3.166667,
+    "ctr": 0.019606484688928918,
+    "averageCpc": 2790704761484
+  },
+  {
+    "url": "http://husqvarna.com/au/learn-and-discover/news-and-media/2026/womensgolf/",
+    "clicks": 151,
+    "impressions": 408868,
+    "costMicros": 1456286261,
+    "conversions": 0.0,
+    "ctr": 0.0003693123453045971,
+    "averageCpc": 9644279874172
+  },
+  {
+    "url": "https://www.husqvarna.com/au/robotic-lawn-mowers/automower-305/",
+    "clicks": 760,
+    "impressions": 42874,
+    "costMicros": 686202376,
+    "conversions": 0.0,
+    "ctr": 0.017726360964687222,
+    "averageCpc": 902897863157
+  },
+  {
+    "url": "https://www.husqvarna.com/au/learn-and-discover/automower-promotion/",
+    "clicks": 170,
+    "impressions": 21544,
+    "costMicros": 484008233,
+    "conversions": 0.0,
+    "ctr": 0.007890828072781285,
+    "averageCpc": 2847107252941
+  },
+  {
+    "url": "https://www.husqvarna.com/au/robotic-lawn-mowers/automower-405x/?article=970456206",
+    "clicks": 362,
+    "impressions": 26784,
+    "costMicros": 393815751,
+    "conversions": 1.498379,
+    "ctr": 0.01351553166069295,
+    "averageCpc": 1087888814917
+  },
+  {
+    "url": "https://www.husqvarna.com/au/robotic-lawn-mowers/automower-435x-awd-epos-with-wire-free-rs1-technology/",
+    "clicks": 48,
+    "impressions": 10680,
+    "costMicros": 139140411,
+    "conversions": 0.5,
+    "ctr": 0.0044943820224719105,
+    "averageCpc": 2898758562500
+  },
+  {
+    "url": "https://www.husqvarna.com/au/robotic-lawn-mowers/automower-450x-nera-with-husqvarna-epos-reference-station/",
+    "clicks": 42,
+    "impressions": 8037,
+    "costMicros": 106321478,
+    "conversions": 0.0,
+    "ctr": 0.005225830533781261,
+    "averageCpc": 2531463761904
+  },
+  {
+    "url": "https://www.husqvarna.com/au/robotic-lawn-mowers/automower-430x-nera-with-husqvarna-epos-plug-in-kit/",
+    "clicks": 9,
+    "impressions": 2461,
+    "costMicros": 26062072,
+    "conversions": 1.0,
+    "ctr": 0.0036570499796830555,
+    "averageCpc": 2895785777777
+  },
+  {
+    "url": "https://www.husqvarna.com/au/learn-and-discover/automower-satisfaction-guarantee/",
+    "clicks": 1,
+    "impressions": 11628,
+    "costMicros": 3010000,
+    "conversions": 0.0,
+    "ctr": 8.599931200550395e-05,
+    "averageCpc": 3010000000000
+  }
+]

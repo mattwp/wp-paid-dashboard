@@ -1,0 +1,83 @@
+[
+  {
+    "url": "https://go.fitness.edu.au/nutrition-info-pack",
+    "clicks": 1392,
+    "impressions": 48714,
+    "costMicros": 21004088563,
+    "conversions": 220.083333,
+    "ctr": 0.028574947653651928,
+    "averageCpc": 15089144.082614943
+  },
+  {
+    "url": "https://go.fitness.edu.au/fitness-info-pack",
+    "clicks": 974,
+    "impressions": 34517,
+    "costMicros": 20008030754,
+    "conversions": 157.333334,
+    "ctr": 0.028217979546310515,
+    "averageCpc": 20542126.030800823
+  },
+  {
+    "url": "https://go.fitness.edu.au/fitness-newyear-sale",
+    "clicks": 546,
+    "impressions": 29692,
+    "costMicros": 9046471746,
+    "conversions": 84.813831,
+    "ctr": 0.01838879159369527,
+    "averageCpc": 16568629.57142857
+  },
+  {
+    "url": "https://go.fitness.edu.au/massage-info-pack",
+    "clicks": 281,
+    "impressions": 7494,
+    "costMicros": 4628754437,
+    "conversions": 39.5,
+    "ctr": 0.03749666399786496,
+    "averageCpc": 16472435.71886121
+  },
+  {
+    "url": "https://go.fitness.edu.au/nutrition-newyear-sale",
+    "clicks": 192,
+    "impressions": 19577,
+    "costMicros": 2652127311,
+    "conversions": 27.753408,
+    "ctr": 0.009807427082801246,
+    "averageCpc": 13813163.078125
+  },
+  {
+    "url": "https://fitness.edu.au/who-we-are/",
+    "clicks": 13,
+    "impressions": 20057,
+    "costMicros": 289094598,
+    "conversions": 0.0,
+    "ctr": 0.0006481527646208307,
+    "averageCpc": 22238046.0
+  },
+  {
+    "url": "https://fitness.edu.au/studying-at-aif/",
+    "clicks": 8,
+    "impressions": 10006,
+    "costMicros": 188256308,
+    "conversions": 0.0,
+    "ctr": 0.0007995202878273036,
+    "averageCpc": 23532038.5
+  },
+  {
+    "url": "https://fitness.edu.au/",
+    "clicks": 5,
+    "impressions": 14891,
+    "costMicros": 70421092,
+    "conversions": 0.0,
+    "ctr": 0.0003357732858773756,
+    "averageCpc": 14084218.4
+  },
+  {
+    "url": "https://fitness.edu.au/your-career/",
+    "clicks": 2,
+    "impressions": 8889,
+    "costMicros": 55877564,
+    "conversions": 0.0,
+    "ctr": 0.0002249971875351558,
+    "averageCpc": 27938782.0
+  }
+]

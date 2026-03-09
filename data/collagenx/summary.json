@@ -1,0 +1,50 @@
+{
+  "clientId": "collagenx",
+  "clientName": "CollagenX",
+  "current7d": {
+    "clicks": 205,
+    "impressions": 7958,
+    "costMicros": 302211445,
+    "conversions": 20,
+    "conversionValue": 2395.49,
+    "ctr": 0.025760241266649914,
+    "averageCpc": 1474689.49
+  },
+  "prev7d": {
+    "clicks": 250,
+    "impressions": 10345,
+    "costMicros": 275005616,
+    "conversions": 38.996268,
+    "conversionValue": 4529.224810272,
+    "ctr": 0.02416626389560174,
+    "averageCpc": 1100022.464
+  },
+  "current30d": {
+    "clicks": 980,
+    "impressions": 34018,
+    "costMicros": 1291479005,
+    "conversions": 152.140975,
+    "conversionValue": 17954.45400224,
+    "ctr": 0.028808277970486212,
+    "averageCpc": 1317835.72
+  },
+  "prev30d": {
+    "clicks": 889,
+    "impressions": 44089,
+    "costMicros": 1267126635,
+    "conversions": 178.783223,
+    "conversionValue": 22977.737150848,
+    "ctr": 0.020163759667944384,
+    "averageCpc": 1425339.30
+  },
+  "yoy30d": {
+    "clicks": 1236,
+    "impressions": 37717,
+    "costMicros": 1819429951,
+    "conversions": 119.143934,
+    "conversionValue": 0,
+    "ctr": 0.03277036879921521,
+    "averageCpc": 1471868.09
+  },
+  "lastUpdated": "2026-03-09T00:00:00.000Z"
+}

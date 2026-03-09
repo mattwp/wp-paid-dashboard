@@ -1,0 +1,65 @@
+[
+  {
+    "url": "https://www.marketplacegungahlin.com.au",
+    "clicks": 325,
+    "impressions": 12354,
+    "costMicros": 210714473,
+    "conversions": 15.0,
+    "ctr": 0.02631,
+    "averageCpc": 648352
+  },
+  {
+    "url": "https://www.marketplacegungahlin.com.au/",
+    "clicks": 185,
+    "impressions": 5552,
+    "costMicros": 191740926,
+    "conversions": 14.0,
+    "ctr": 0.03332,
+    "averageCpc": 1036437
+  },
+  {
+    "url": "https://www.marketplacegungahlin.com.au/whats-on",
+    "clicks": 96,
+    "impressions": 5051,
+    "costMicros": 57754761,
+    "conversions": 3.0,
+    "ctr": 0.01901,
+    "averageCpc": 601612
+  },
+  {
+    "url": "https://www.marketplacegungahlin.com.au/shopping/",
+    "clicks": 17,
+    "impressions": 458,
+    "costMicros": 16910000,
+    "conversions": 0.0,
+    "ctr": 0.03712,
+    "averageCpc": 994706
+  },
+  {
+    "url": "https://www.marketplacegungahlin.com.au/centre-info/",
+    "clicks": 6,
+    "impressions": 416,
+    "costMicros": 8750000,
+    "conversions": 0.0,
+    "ctr": 0.01442,
+    "averageCpc": 1458333
+  },
+  {
+    "url": "https://www.marketplacegungahlin.com.au/offers/",
+    "clicks": 0,
+    "impressions": 233,
+    "costMicros": 0,
+    "conversions": 0.0,
+    "ctr": 0.0,
+    "averageCpc": 0
+  },
+  {
+    "url": "https://www.marketplacegungahlin.com.au/dining/",
+    "clicks": 0,
+    "impressions": 382,
+    "costMicros": 0,
+    "conversions": 0.0,
+    "ctr": 0.0,
+    "averageCpc": 0
+  }
+]

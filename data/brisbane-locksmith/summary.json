@@ -1,0 +1,10 @@
+{
+  "clientId": "brisbane-locksmith",
+  "clientName": "Brisbane Locksmith",
+  "current7d": { "clicks": 269, "impressions": 7763, "costMicros": 4321739741, "conversions": 44, "ctr": 0.03465155223496071, "averageCpc": 16065946.992565056 },
+  "prev7d": { "clicks": 245, "impressions": 7172, "costMicros": 3576308104, "conversions": 40, "ctr": 0.034160624651422195, "averageCpc": 14597175.934693877 },
+  "current30d": { "clicks": 1229, "impressions": 35160, "costMicros": 16909558705, "conversions": 182, "ctr": 0.03495449374288965, "averageCpc": 13758794.715215623 },
+  "prev30d": { "clicks": 1122, "impressions": 23284, "costMicros": 17535225993, "conversions": 188, "ctr": 0.04818759663288095, "averageCpc": 15628543.665775402 },
+  "yoy30d": { "clicks": 0, "impressions": 0, "costMicros": 0, "conversions": 0, "ctr": 0, "averageCpc": 0 },
+  "lastUpdated": "2026-03-09T00:00:00.000Z"
+}

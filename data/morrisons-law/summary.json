@@ -1,0 +1,45 @@
+{
+  "clientId": "morrisons-law",
+  "clientName": "Morrisons Law",
+  "current7d": {
+    "clicks": 72,
+    "impressions": 964,
+    "costMicros": 1524137070,
+    "conversions": 9,
+    "ctr": 0.07468879668049792,
+    "averageCpc": 21168570.416666668
+  },
+  "prev7d": {
+    "clicks": 85,
+    "impressions": 1173,
+    "costMicros": 1944300731,
+    "conversions": 15,
+    "ctr": 0.07246376811594203,
+    "averageCpc": 22874126.247058824
+  },
+  "current30d": {
+    "clicks": 333,
+    "impressions": 5067,
+    "costMicros": 7167866900,
+    "conversions": 56,
+    "ctr": 0.06571936056838366,
+    "averageCpc": 21525125.825825825
+  },
+  "prev30d": {
+    "clicks": 254,
+    "impressions": 4257,
+    "costMicros": 5377547710,
+    "conversions": 44.998241,
+    "ctr": 0.05966643175945502,
+    "averageCpc": 21171447.677165356
+  },
+  "yoy30d": {
+    "clicks": 240,
+    "impressions": 4260,
+    "costMicros": 2931266304,
+    "conversions": 32,
+    "ctr": 0.056338028169014086,
+    "averageCpc": 12213609.6
+  },
+  "lastUpdated": "2026-03-09T00:00:00.000Z"
+}

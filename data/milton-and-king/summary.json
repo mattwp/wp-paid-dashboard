@@ -1,0 +1,50 @@
+{
+  "clientId": "milton-and-king",
+  "clientName": "Milton & King",
+  "current7d": {
+    "clicks": 9709,
+    "impressions": 555132,
+    "costMicros": 12163629865,
+    "conversions": 288.614254,
+    "conversionValue": 41572.670170842,
+    "ctr": 0.017490,
+    "averageCpc": 1252870.36
+  },
+  "prev7d": {
+    "clicks": 10270,
+    "impressions": 608543,
+    "costMicros": 12735890619,
+    "conversions": 371.771152,
+    "conversionValue": 56931.616684987,
+    "ctr": 0.016876,
+    "averageCpc": 1240107.17
+  },
+  "current30d": {
+    "clicks": 40543,
+    "impressions": 2366302,
+    "costMicros": 53230474194,
+    "conversions": 1559.445106,
+    "conversionValue": 253272.230531270,
+    "ctr": 0.017131,
+    "averageCpc": 1312969.13
+  },
+  "prev30d": {
+    "clicks": 47387,
+    "impressions": 2349060,
+    "costMicros": 49919804588,
+    "conversions": 1869.387152,
+    "conversionValue": 269367.168021044,
+    "ctr": 0.020172,
+    "averageCpc": 1053422.53
+  },
+  "yoy30d": {
+    "clicks": 36635,
+    "impressions": 3199256,
+    "costMicros": 48427143503,
+    "conversions": 1218.324338,
+    "conversionValue": 398733.335774941,
+    "ctr": 0.011451,
+    "averageCpc": 1321881.90
+  },
+  "lastUpdated": "2026-03-09T00:00:00.000Z"
+}

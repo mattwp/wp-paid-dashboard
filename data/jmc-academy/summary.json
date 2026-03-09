@@ -1,0 +1,45 @@
+{
+  "clientId": "jmc-academy",
+  "clientName": "JMC Academy",
+  "current7d": {
+    "clicks": 2003,
+    "impressions": 440625,
+    "costMicros": 22018876343,
+    "conversions": 56.927335,
+    "ctr": 0.004545815602836879,
+    "averageCpc": 10992948.748377433
+  },
+  "prev7d": {
+    "clicks": 2294,
+    "impressions": 447566,
+    "costMicros": 24373050082,
+    "conversions": 102.902305,
+    "ctr": 0.005125501043421529,
+    "averageCpc": 10624694.891891891
+  },
+  "current30d": {
+    "clicks": 10518,
+    "impressions": 2081049,
+    "costMicros": 112635720515,
+    "conversions": 401.021891,
+    "ctr": 0.0050541818092702286,
+    "averageCpc": 10708853.443145085
+  },
+  "prev30d": {
+    "clicks": 10889,
+    "impressions": 1932195,
+    "costMicros": 112186259429,
+    "conversions": 421.923586,
+    "ctr": 0.005635559557912116,
+    "averageCpc": 10302714.613738636
+  },
+  "yoy30d": {
+    "clicks": 4413,
+    "impressions": 194173,
+    "costMicros": 38587832074,
+    "conversions": 103,
+    "ctr": 0.02272715568075891,
+    "averageCpc": 8744126.914570587
+  },
+  "lastUpdated": "2026-03-09T00:00:00.000Z"
+}

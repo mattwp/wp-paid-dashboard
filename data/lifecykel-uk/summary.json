@@ -1,0 +1,50 @@
+{
+  "clientId": "lifecykel-uk",
+  "clientName": "Lifecykel UK",
+  "current7d": {
+    "clicks": 1441,
+    "impressions": 112726,
+    "costMicros": 1806355884,
+    "conversions": 32.8664,
+    "conversionValue": 1874.691495654,
+    "ctr": 0.012783208842680482,
+    "averageCpc": 1253543.2921582235
+  },
+  "prev7d": {
+    "clicks": 785,
+    "impressions": 83348,
+    "costMicros": 845790946,
+    "conversions": 29.757802,
+    "conversionValue": 1945.05996853,
+    "ctr": 0.009418342371742574,
+    "averageCpc": 1077440.6955414012
+  },
+  "current30d": {
+    "clicks": 3627,
+    "impressions": 412352,
+    "costMicros": 5164297720,
+    "conversions": 172.900288,
+    "conversionValue": 8519.033290414,
+    "ctr": 0.008795883128977184,
+    "averageCpc": 1423848.282326992
+  },
+  "prev30d": {
+    "clicks": 2331,
+    "impressions": 218494,
+    "costMicros": 4306583388,
+    "conversions": 212.049161,
+    "conversionValue": 9880.116189842,
+    "ctr": 0.010668485175794301,
+    "averageCpc": 1847526.120978121
+  },
+  "yoy30d": {
+    "clicks": 4746,
+    "impressions": 558378,
+    "costMicros": 8089177983,
+    "conversions": 354.96969,
+    "conversionValue": 32170.652604298,
+    "ctr": 0.008499618537979647,
+    "averageCpc": 1704420.1396965866
+  },
+  "lastUpdated": "2026-03-09T00:00:00.000Z"
+}

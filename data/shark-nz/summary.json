@@ -1,0 +1,50 @@
+{
+  "clientId": "shark-nz",
+  "clientName": "Shark NZ",
+  "current7d": {
+    "clicks": 1626,
+    "impressions": 51240,
+    "costMicros": 1098211612,
+    "conversions": 29.000003,
+    "conversionValue": 7360.5946813,
+    "ctr": 0.031733021077283374,
+    "averageCpc": 675406.8954489545
+  },
+  "prev7d": {
+    "clicks": 1987,
+    "impressions": 65227,
+    "costMicros": 1113363277,
+    "conversions": 51.985633,
+    "conversionValue": 8007.42536715,
+    "ctr": 0.03046284514081592,
+    "averageCpc": 560323.7428283845
+  },
+  "current30d": {
+    "clicks": 13186,
+    "impressions": 608036,
+    "costMicros": 13370620676,
+    "conversions": 217.956717,
+    "conversionValue": 36951.198117976,
+    "ctr": 0.021686215947739937,
+    "averageCpc": 1014001.2646746549
+  },
+  "prev30d": {
+    "clicks": 13705,
+    "impressions": 493744,
+    "costMicros": 15476105047,
+    "conversions": 198.843429,
+    "conversionValue": 27225.400203095,
+    "ctr": 0.02775729932920704,
+    "averageCpc": 1129230.5762130609
+  },
+  "yoy30d": {
+    "clicks": 11290,
+    "impressions": 458847,
+    "costMicros": 9320842522,
+    "conversions": 224.658732,
+    "conversionValue": 48926.687074555,
+    "ctr": 0.024605151608270294,
+    "averageCpc": 825583.9257750221
+  },
+  "lastUpdated": "2026-03-09T00:00:00.000Z"
+}

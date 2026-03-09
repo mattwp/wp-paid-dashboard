@@ -1,0 +1,182 @@
+[
+  {
+    "url": "https://www.miltonandking.com/{ignore}?wickedsource=google&wickedid={gclid}&wickedid={creative}&wcid={campaignid}&wv=4",
+    "clicks": 2613,
+    "impressions": 3838,
+    "costMicros": 5369506915,
+    "conversions": 272.272023,
+    "ctr": 0.6808233454924439,
+    "averageCpc": 2055107
+  },
+  {
+    "url": "https://www.miltonandking.com.au/brands-designers/",
+    "clicks": 1984,
+    "impressions": 14802,
+    "costMicros": 958684334,
+    "conversions": 323.098262,
+    "ctr": 0.13403594108904202,
+    "averageCpc": 483207
+  },
+  {
+    "url": "https://www.miltonandking.com/product-category/designer-wallpaper/{ignore}?wickedsource=google&wickedid={gclid}&wickedid={creative}&wcid={campaignid}&wv=4",
+    "clicks": 924,
+    "impressions": 4681,
+    "costMicros": 2167792213,
+    "conversions": 92.638344,
+    "ctr": 0.19739371929074984,
+    "averageCpc": 2345012
+  },
+  {
+    "url": "https://www.miltonandking.com/search/?q=magic%20garden{ignore}&wickedsource=google&wickedid={gclid}&wickedid={creative}&wcid={campaignid}&wv=4",
+    "clicks": 4666,
+    "impressions": 100477,
+    "costMicros": 1166682237,
+    "conversions": 12.333334,
+    "ctr": 0.04643848841028295,
+    "averageCpc": 250028
+  },
+  {
+    "url": "https://www.miltonandking.co.uk/product/frontier-wallpaper/?attribute_pa_color=rust&attribute_pa_size=roll&utm_source=Google+Shopping&utm_medium=cpc&utm_campaign=DD-Shopping-UK",
+    "clicks": 444,
+    "impressions": 46736,
+    "costMicros": 603242783,
+    "conversions": 8.0,
+    "ctr": 0.009500171174255391,
+    "averageCpc": 1358204
+  },
+  {
+    "url": "https://www.miltonandking.co.uk/brands-designers/",
+    "clicks": 550,
+    "impressions": 2711,
+    "costMicros": 517232367,
+    "conversions": 48.64892,
+    "ctr": 0.20287716709701217,
+    "averageCpc": 940422
+  },
+  {
+    "url": "https://www.miltonandking.com/product/reed-wallpaper/?attribute_pa_material-type=wallpaper&attribute_pa_color=earth&attribute_pa_size=double-roll&utm_source=Google+Shopping&utm_medium=cpc&utm_campaign=DD-Shopping-US",
+    "clicks": 219,
+    "impressions": 24069,
+    "costMicros": 504000000,
+    "conversions": 13.772922,
+    "ctr": 0.009098840832606257,
+    "averageCpc": 2301369
+  },
+  {
+    "url": "https://www.miltonandking.co.uk/product/frontier-wallpaper/?attribute_pa_color=dusty&attribute_pa_size=roll&utm_source=Google+Shopping&utm_medium=cpc&utm_campaign=DD-Shopping-UK",
+    "clicks": 326,
+    "impressions": 36296,
+    "costMicros": 502800026,
+    "conversions": 6.985635,
+    "ctr": 0.008981705973109985,
+    "averageCpc": 1542331
+  },
+  {
+    "url": "https://www.miltonandking.com/product/frontier-wallpaper/?attribute_pa_material-type=wallpaper&attribute_pa_color=canvas&attribute_pa_size=double-roll&utm_source=Google+Shopping&utm_medium=cpc&utm_campaign=DD-Shopping-US",
+    "clicks": 262,
+    "impressions": 17662,
+    "costMicros": 453260000,
+    "conversions": 11.333332,
+    "ctr": 0.014834107122636168,
+    "averageCpc": 1730000
+  },
+  {
+    "url": "https://www.miltonandking.co.uk/product/wild-garden-wallpaper/?attribute_pa_size=roll&utm_source=Google+Shopping&utm_medium=cpc&utm_campaign=DD-Shopping-UK",
+    "clicks": 294,
+    "impressions": 25627,
+    "costMicros": 419671838,
+    "conversions": 6.732781,
+    "ctr": 0.011472275334608031,
+    "averageCpc": 1427795
+  },
+  {
+    "url": "https://www.miltonandking.com/product/spring-landscape-grasscloth-mural/?attribute_pa_color=green&attribute_pa_size=panel-4&utm_source=Google+Shopping&utm_medium=cpc&utm_campaign=DD-Shopping-US",
+    "clicks": 241,
+    "impressions": 22318,
+    "costMicros": 416325157,
+    "conversions": 5.341863,
+    "ctr": 0.010798458643247603,
+    "averageCpc": 1727490
+  },
+  {
+    "url": "https://www.miltonandking.com/product/the-jungle-wallpaper/?attribute_pa_material-type=wallpaper&attribute_pa_size=two-roll-set&attribute_pa_color=greenery&utm_source=Google+Shopping&utm_medium=cpc&utm_campaign=DD-Shopping-US",
+    "clicks": 205,
+    "impressions": 17201,
+    "costMicros": 358540402,
+    "conversions": 2.608905,
+    "ctr": 0.0119179117493169,
+    "averageCpc": 1749465
+  },
+  {
+    "url": "https://www.miltonandking.co.uk/best-sellers/",
+    "clicks": 229,
+    "impressions": 14837,
+    "costMicros": 345875396,
+    "conversions": 0.012922,
+    "ctr": 0.015434387005459325,
+    "averageCpc": 1510809
+  },
+  {
+    "url": "https://www.miltonandking.com/product/herbarium-antique-wallpaper/?attribute_pa_material-type=wallpaper&attribute_pa_color=dark-navy&attribute_pa_size=double-roll&utm_source=Google+Shopping&utm_medium=cpc&utm_campaign=DD-Shopping-US",
+    "clicks": 154,
+    "impressions": 14626,
+    "costMicros": 312357110,
+    "conversions": 4.907137,
+    "ctr": 0.010529194584985642,
+    "averageCpc": 2028942
+  },
+  {
+    "url": "https://www.miltonandking.com{ignore}?wickedsource=google&wickedid={gclid}&wickedid={creative}&wcid={campaignid}&wv=4",
+    "clicks": 164,
+    "impressions": 4055,
+    "costMicros": 305532542,
+    "conversions": 19.0,
+    "ctr": 0.040443896424167694,
+    "averageCpc": 1862393
+  },
+  {
+    "url": "https://www.miltonandking.co.uk/product/camden-factory-bricks-wallpaper/?attribute_pa_size=roll&utm_source=Google+Shopping&utm_medium=cpc&utm_campaign=DD-Shopping-UK",
+    "clicks": 254,
+    "impressions": 13755,
+    "costMicros": 273960103,
+    "conversions": 6.301434,
+    "ctr": 0.01846601235914213,
+    "averageCpc": 1078583
+  },
+  {
+    "url": "https://www.miltonandking.com/brand/milton-king-studio/{ignore}?wickedsource=google&wickedid={gclid}&wickedid={creative}&wcid={campaignid}&wv=4",
+    "clicks": 97,
+    "impressions": 2231,
+    "costMicros": 298800403,
+    "conversions": 1.0,
+    "ctr": 0.043478260869565216,
+    "averageCpc": 3080416
+  },
+  {
+    "url": "https://www.miltonandking.com.au",
+    "clicks": 172,
+    "impressions": 10744,
+    "costMicros": 240941634,
+    "conversions": 7.0,
+    "ctr": 0.01600893521965748,
+    "averageCpc": 1400824
+  },
+  {
+    "url": "https://www.miltonandking.co.uk/product/new-york-city-wallpaper/?attribute_pa_color=pink&attribute_pa_size=roll&utm_source=Google+Shopping&utm_medium=cpc&utm_campaign=DD-Shopping-UK",
+    "clicks": 190,
+    "impressions": 18066,
+    "costMicros": 245865571,
+    "conversions": 3.016074,
+    "ctr": 0.010516993246983283,
+    "averageCpc": 1294029
+  },
+  {
+    "url": "https://www.miltonandking.com/brand/kingdom-home/{ignore}?wickedsource=google&wickedid={gclid}&wickedid={creative}&wcid={campaignid}&wv=4",
+    "clicks": 108,
+    "impressions": 1963,
+    "costMicros": 273631814,
+    "conversions": 2.0,
+    "ctr": 0.05501782985226694,
+    "averageCpc": 2533628
+  }
+]

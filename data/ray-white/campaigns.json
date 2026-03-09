@@ -1,0 +1,47 @@
+[
+  {
+    "name": "WB | S | Generic | 2026",
+    "status": "ENABLED",
+    "clicks": 325,
+    "impressions": 11394,
+    "costMicros": 1602101750,
+    "conversions": 4.0,
+    "ctr": 0.028523784447955065,
+    "averageCpc": 4929543,
+    "searchImpressionShare": 0.17714573457658314,
+    "searchTopImpressionShare": 0.0999,
+    "searchAbsoluteTopImpressionShare": 0.0999,
+    "searchBudgetLostImpressionShare": 0.2178118108732267,
+    "searchRankLostImpressionShare": 0.6050424545501901
+  },
+  {
+    "name": "WB | S | Location | 2026",
+    "status": "ENABLED",
+    "clicks": 244,
+    "impressions": 1744,
+    "costMicros": 1081087910,
+    "conversions": 1.0,
+    "ctr": 0.13990825688073394,
+    "averageCpc": 4430688,
+    "searchImpressionShare": 0.8191082802547771,
+    "searchTopImpressionShare": 0.42785445420326224,
+    "searchAbsoluteTopImpressionShare": 0.4178168130489335,
+    "searchBudgetLostImpressionShare": 0.08662420382165605,
+    "searchRankLostImpressionShare": 0.09426751592356689
+  },
+  {
+    "name": "WB | S | Brand | 2026",
+    "status": "ENABLED",
+    "clicks": 228,
+    "impressions": 2412,
+    "costMicros": 418182330,
+    "conversions": 2.0,
+    "ctr": 0.0945273631840796,
+    "averageCpc": 1834133,
+    "searchImpressionShare": 0.1602438340807175,
+    "searchTopImpressionShare": 0.0999,
+    "searchAbsoluteTopImpressionShare": 0.0999,
+    "searchBudgetLostImpressionShare": 0.32749439461883406,
+    "searchRankLostImpressionShare": 0.5122617713004485
+  }
+]
