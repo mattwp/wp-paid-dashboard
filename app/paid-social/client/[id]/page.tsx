@@ -1,9 +1,11 @@
-export const dynamic = 'force-dynamic'
-
 import { notFound } from 'next/navigation'
 import Link from 'next/link'
 import { getMetaClients, getMetaClientSummary, getMetaClientCampaigns, getMetaClientAdSets, getMetaClientAds, getMetaClientCreatives, getMetaClientMonthly, timeAgo } from '@/lib/data'
 import MetaClientDashboard from '@/components/meta/MetaClientDashboard'
+
+export function generateStaticParams() {
+  return getMetaClients().map(c => ({ id: c.id }))
+}
 
 interface Props {
   params: Promise<{ id: string }>

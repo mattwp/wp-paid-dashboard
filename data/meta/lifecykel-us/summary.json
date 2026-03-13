@@ -1,106 +1,65 @@
 {
   "clientId": "lifecykel-us",
   "clientName": "Lifecykel US",
-  "accountId": "act_318592889522750",
-  "accountName": "Life Cykel US Ads MINT",
-  "platform": "meta",
-  "type": "ecommerce",
-  "lastUpdated": "2026-03-13T00:00:00.000Z",
-  "periods": {
-    "current_7d": {
-      "label": "Current 7 Days",
-      "dateRange": {
-        "since": "2026-03-06",
-        "until": "2026-03-12"
-      },
-      "metrics": {
-        "spend": 51083.86,
-        "impressions": 1856567,
-        "reach": 501061,
-        "clicks": 24172,
-        "conversions": 1767,
-        "revenue": 78995.24,
-        "ctr": 1.3,
-        "cpm": 27.52,
-        "cpc": 2.11,
-        "frequency": 3.71
-      }
-    },
-    "prev_7d": {
-      "label": "Previous 7 Days",
-      "dateRange": {
-        "since": "2026-02-27",
-        "until": "2026-03-05"
-      },
-      "metrics": {
-        "spend": 57451.52,
-        "impressions": 2200909,
-        "reach": 623466,
-        "clicks": 29321,
-        "conversions": 2042,
-        "revenue": 90207.4,
-        "ctr": 1.33,
-        "cpm": 26.1,
-        "cpc": 1.96,
-        "frequency": 3.53
-      }
-    },
-    "current_30d": {
-      "label": "Current 30 Days",
-      "dateRange": {
-        "since": "2026-02-11",
-        "until": "2026-03-12"
-      },
-      "metrics": {
-        "spend": 234574.62,
-        "impressions": 8129976,
-        "reach": 1940036,
-        "clicks": 126407,
-        "conversions": 8631,
-        "revenue": 359197.01,
-        "ctr": 1.55,
-        "cpm": 28.85,
-        "cpc": 1.86,
-        "frequency": 4.19
-      }
-    },
-    "prev_30d": {
-      "label": "Previous 30 Days",
-      "dateRange": {
-        "since": "2026-01-12",
-        "until": "2026-02-10"
-      },
-      "metrics": {
-        "spend": 179637.22,
-        "impressions": 4869098,
-        "reach": 1313059,
-        "clicks": 106499,
-        "conversions": 5271,
-        "revenue": 152321.32,
-        "ctr": 2.19,
-        "cpm": 36.89,
-        "cpc": 1.69,
-        "frequency": 3.71
-      }
-    },
-    "yoy_30d": {
-      "label": "Year-over-Year 30 Days",
-      "dateRange": {
-        "since": "2025-02-11",
-        "until": "2025-03-12"
-      },
-      "metrics": {
-        "spend": 187698.89,
-        "impressions": 12369849,
-        "reach": 1871002,
-        "clicks": 132365,
-        "conversions": 5050,
-        "revenue": 415831.48,
-        "ctr": 1.07,
-        "cpm": 15.17,
-        "cpc": 1.42,
-        "frequency": 6.61
-      }
-    }
-  }
+  "current7d": {
+    "spend": 51083.86,
+    "impressions": 1856567,
+    "reach": 501061,
+    "clicks": 24172,
+    "conversions": 1767,
+    "revenue": 78995.24,
+    "ctr": 0.013000000000000001,
+    "cpm": 27.52,
+    "cpc": 2.11,
+    "frequency": 3.71
+  },
+  "prev7d": {
+    "spend": 57451.52,
+    "impressions": 2200909,
+    "reach": 623466,
+    "clicks": 29321,
+    "conversions": 2042,
+    "revenue": 90207.4,
+    "ctr": 0.013300000000000001,
+    "cpm": 26.1,
+    "cpc": 1.96,
+    "frequency": 3.53
+  },
+  "current30d": {
+    "spend": 234574.62,
+    "impressions": 8129976,
+    "reach": 1940036,
+    "clicks": 126407,
+    "conversions": 8631,
+    "revenue": 359197.01,
+    "ctr": 0.0155,
+    "cpm": 28.85,
+    "cpc": 1.86,
+    "frequency": 4.19
+  },
+  "prev30d": {
+    "spend": 179637.22,
+    "impressions": 4869098,
+    "reach": 1313059,
+    "clicks": 106499,
+    "conversions": 5271,
+    "revenue": 152321.32,
+    "ctr": 0.0219,
+    "cpm": 36.89,
+    "cpc": 1.69,
+    "frequency": 3.71
+  },
+  "yoy30d": {
+    "spend": 187698.89,
+    "impressions": 12369849,
+    "reach": 1871002,
+    "clicks": 132365,
+    "conversions": 5050,
+    "revenue": 415831.48,
+    "ctr": 0.010700000000000001,
+    "cpm": 15.17,
+    "cpc": 1.42,
+    "frequency": 6.61
+  },
+  "lastUpdated": "2026-03-13T00:00:00.000Z"
 }

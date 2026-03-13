@@ -1,38 +1,30 @@
-{
-  "clientId": "rippl",
-  "clientName": "Rippl",
-  "dateRange": {
-    "since": "2026-02-11",
-    "until": "2026-03-12"
+[
+  {
+    "name": "20250822_rippl_IMGADSPACK_PH1_COLD_STD_ABO_PURCHASE_AUS",
+    "status": "ACTIVE",
+    "objective": "PURCHASE",
+    "spend": 6253.24,
+    "impressions": 208663,
+    "clicks": 4680,
+    "conversions": 61,
+    "revenue": 11260.34,
+    "ctr": 2.2429,
+    "cpm": 29.97,
+    "roas": 1.8,
+    "cpa": 102.51
   },
-  "campaigns": [
-    {
-      "name": "20250822_rippl_IMGADSPACK_PH1_COLD_STD_ABO_PURCHASE_AUS",
-      "status": "ACTIVE",
-      "objective": "PURCHASE",
-      "spend": 6253.24,
-      "impressions": 208663,
-      "clicks": 4680,
-      "conversions": 61,
-      "revenue": 11260.34,
-      "ctr": 2.2429,
-      "cpm": 29.97,
-      "roas": 1.8,
-      "cpa": 102.51
-    },
-    {
-      "name": "20260112_rippl_RIPPLCANSB2B_PH1_COLD_STD_ABO_PURCHASE_AUS",
-      "status": "ACTIVE",
-      "objective": "PURCHASE",
-      "spend": 2207.63,
-      "impressions": 78506,
-      "clicks": 2564,
-      "conversions": 216,
-      "revenue": 1619.31,
-      "ctr": 3.266,
-      "cpm": 28.12,
-      "roas": 0.73,
-      "cpa": 10.22
-    }
-  ]
-}
+  {
+    "name": "20260112_rippl_RIPPLCANSB2B_PH1_COLD_STD_ABO_PURCHASE_AUS",
+    "status": "ACTIVE",
+    "objective": "PURCHASE",
+    "spend": 2207.63,
+    "impressions": 78506,
+    "clicks": 2564,
+    "conversions": 216,
+    "revenue": 1619.31,
+    "ctr": 3.266,
+    "cpm": 28.12,
+    "roas": 0.73,
+    "cpa": 10.22
+  }
+]

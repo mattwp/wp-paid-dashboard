@@ -1,5 +1,3 @@
-export const dynamic = 'force-dynamic'
-
 import { getClients, getClientSummary, getClientCampaigns, getLastUpdated, timeAgo } from '@/lib/data'
 import ClientsGrid from '@/components/ClientsGrid'
 import AlertsDrawer from '@/components/AlertsDrawer'

@@ -1,90 +1,80 @@
-{
-  "clientId": "collagenx",
-  "clientName": "CollagenX",
-  "platform": "meta",
-  "lastUpdated": "2026-03-13T00:00:00.000Z",
-  "dateRange": {
-    "since": "2026-02-11",
-    "until": "2026-03-12"
+[
+  {
+    "name": "20250826_COLLAGENX_40UPCTESTING_PH1_COLD_STD_ABO_PURCHASE_AUS_20250826_MAXCONV_BROAD_EXLXXX_IMGTST004_40UPSTATICADS",
+    "campaign": "20250826_COLLAGENX_40UPCTESTING_PH1_COLD_STD_ABO_PURCHASE_AUS",
+    "spend": 2197.37,
+    "impressions": 123971,
+    "clicks": 2229,
+    "conversions": 93,
+    "revenue": 12374.17,
+    "ctr": 1.8,
+    "roas": 5.63,
+    "cpa": 23.63,
+    "targeting": "Broad"
   },
-  "adsets": [
-    {
-      "name": "20250826_COLLAGENX_40UPCTESTING_PH1_COLD_STD_ABO_PURCHASE_AUS_20250826_MAXCONV_BROAD_EXLXXX_IMGTST004_40UPSTATICADS",
-      "campaign": "20250826_COLLAGENX_40UPCTESTING_PH1_COLD_STD_ABO_PURCHASE_AUS",
-      "spend": 2197.37,
-      "impressions": 123971,
-      "clicks": 2229,
-      "conversions": 93,
-      "revenue": 12374.17,
-      "ctr": 1.8,
-      "roas": 5.63,
-      "cpa": 23.63,
-      "targeting": "Broad"
-    },
-    {
-      "name": "20250808_COLLAGENX_BVCLPTEST_PH1_COLD_STD_ABO_PURCHASE_AUS_20250808_MAXCONV_BROAD_EXLXXX_XXXTSTXXX_BVCADSPACK",
-      "campaign": "20250808_COLLAGENX_BVCLPTEST_PH1_COLD_STD_ABO_PURCHASE_AUS",
-      "spend": 1317.89,
-      "impressions": 41843,
-      "clicks": 1354,
-      "conversions": 51,
-      "revenue": 4178.75,
-      "ctr": 3.24,
-      "roas": 3.17,
-      "cpa": 25.84,
-      "targeting": "Broad"
-    },
-    {
-      "name": "20260210_COLLAGENX_JOINTFIXCTESTING_PURCHASE_AUS_BROAD_JOINTFIXR1",
-      "campaign": "20260210_COLLAGENX_JOINTFIXCTESTING_PURCHASE_AUS",
-      "spend": 733.71,
-      "impressions": 32696,
-      "clicks": 905,
-      "conversions": 33,
-      "revenue": 3055.25,
-      "ctr": 2.77,
-      "roas": 4.16,
-      "cpa": 22.23,
-      "targeting": "Broad"
-    },
-    {
-      "name": "20250629_COLLAGENX_EVERGREENDPA_PH3_REM_DPA_ABO_PURCHASE_AUS_20250629_MAXCONV_CUS001_EXLXXX_DPATST001_EVERGREENDPA",
-      "campaign": "20250629_COLLAGENX_EVERGREENDPA_PH3_REM_DPA_ABO_PURCHASE_AUS",
-      "spend": 405.28,
-      "impressions": 27006,
-      "clicks": 288,
-      "conversions": 12,
-      "revenue": 1568.91,
-      "ctr": 1.07,
-      "roas": 3.87,
-      "cpa": 33.77,
-      "targeting": "Custom Audience"
-    },
-    {
-      "name": "20250826_COLLAGENX_40UPCTESTING_PH1_COLD_STD_ABO_PURCHASE_AUS_20250826_MAXCONV_BROAD_EXLXXX_IMGTST004_40UPSTATICADS_LP1",
-      "campaign": "20250826_COLLAGENX_40UPCTESTING_PH1_COLD_STD_ABO_PURCHASE_AUS",
-      "spend": 7.77,
-      "impressions": 313,
-      "clicks": 7,
-      "conversions": 0,
-      "revenue": 0,
-      "ctr": 2.24,
-      "roas": 0,
-      "cpa": null,
-      "targeting": "Broad"
-    },
-    {
-      "name": "20250826_COLLAGENX_40UPCTESTING_PH1_COLD_STD_ABO_PURCHASE_AUS_20250826_MAXCONV_BROAD_EXLXXX_IMGTST004_40UPSTATICADS_LP2",
-      "campaign": "20250826_COLLAGENX_40UPCTESTING_PH1_COLD_STD_ABO_PURCHASE_AUS",
-      "spend": 7.52,
-      "impressions": 282,
-      "clicks": 9,
-      "conversions": 0,
-      "revenue": 0,
-      "ctr": 3.19,
-      "roas": 0,
-      "cpa": null,
-      "targeting": "Broad"
-    }
-  ]
-}
+  {
+    "name": "20250808_COLLAGENX_BVCLPTEST_PH1_COLD_STD_ABO_PURCHASE_AUS_20250808_MAXCONV_BROAD_EXLXXX_XXXTSTXXX_BVCADSPACK",
+    "campaign": "20250808_COLLAGENX_BVCLPTEST_PH1_COLD_STD_ABO_PURCHASE_AUS",
+    "spend": 1317.89,
+    "impressions": 41843,
+    "clicks": 1354,
+    "conversions": 51,
+    "revenue": 4178.75,
+    "ctr": 3.24,
+    "roas": 3.17,
+    "cpa": 25.84,
+    "targeting": "Broad"
+  },
+  {
+    "name": "20260210_COLLAGENX_JOINTFIXCTESTING_PURCHASE_AUS_BROAD_JOINTFIXR1",
+    "campaign": "20260210_COLLAGENX_JOINTFIXCTESTING_PURCHASE_AUS",
+    "spend": 733.71,
+    "impressions": 32696,
+    "clicks": 905,
+    "conversions": 33,
+    "revenue": 3055.25,
+    "ctr": 2.77,
+    "roas": 4.16,
+    "cpa": 22.23,
+    "targeting": "Broad"
+  },
+  {
+    "name": "20250629_COLLAGENX_EVERGREENDPA_PH3_REM_DPA_ABO_PURCHASE_AUS_20250629_MAXCONV_CUS001_EXLXXX_DPATST001_EVERGREENDPA",
+    "campaign": "20250629_COLLAGENX_EVERGREENDPA_PH3_REM_DPA_ABO_PURCHASE_AUS",
+    "spend": 405.28,
+    "impressions": 27006,
+    "clicks": 288,
+    "conversions": 12,
+    "revenue": 1568.91,
+    "ctr": 1.07,
+    "roas": 3.87,
+    "cpa": 33.77,
+    "targeting": "Custom Audience"
+  },
+  {
+    "name": "20250826_COLLAGENX_40UPCTESTING_PH1_COLD_STD_ABO_PURCHASE_AUS_20250826_MAXCONV_BROAD_EXLXXX_IMGTST004_40UPSTATICADS_LP1",
+    "campaign": "20250826_COLLAGENX_40UPCTESTING_PH1_COLD_STD_ABO_PURCHASE_AUS",
+    "spend": 7.77,
+    "impressions": 313,
+    "clicks": 7,
+    "conversions": 0,
+    "revenue": 0,
+    "ctr": 2.24,
+    "roas": 0,
+    "cpa": null,
+    "targeting": "Broad"
+  },
+  {
+    "name": "20250826_COLLAGENX_40UPCTESTING_PH1_COLD_STD_ABO_PURCHASE_AUS_20250826_MAXCONV_BROAD_EXLXXX_IMGTST004_40UPSTATICADS_LP2",
+    "campaign": "20250826_COLLAGENX_40UPCTESTING_PH1_COLD_STD_ABO_PURCHASE_AUS",
+    "spend": 7.52,
+    "impressions": 282,
+    "clicks": 9,
+    "conversions": 0,
+    "revenue": 0,
+    "ctr": 3.19,
+    "roas": 0,
+    "cpa": null,
+    "targeting": "Broad"
+  }
+]

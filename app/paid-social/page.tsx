@@ -1,5 +1,3 @@
-export const dynamic = 'force-dynamic'
-
 import { getMetaClients, getMetaClientSummary, getMetaClientCampaigns, getMetaLastUpdated, timeAgo } from '@/lib/data'
 import MetaClientsGrid from '@/components/meta/MetaClientsGrid'
 import AlertsDrawer from '@/components/AlertsDrawer'

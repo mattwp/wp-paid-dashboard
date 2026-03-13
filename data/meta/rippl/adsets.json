@@ -1,36 +1,28 @@
-{
-  "clientId": "rippl",
-  "clientName": "Rippl",
-  "dateRange": {
-    "since": "2026-02-11",
-    "until": "2026-03-12"
+[
+  {
+    "name": "20250822_rippl_IMGADSPACK_PH1_COLD_STD_ABO_PURCHASE_AUS_20250822_MAXCONV_BROAD_EXLXXX_XXXTST001_IMGADSPACK",
+    "campaign": "20250822_rippl_IMGADSPACK_PH1_COLD_STD_ABO_PURCHASE_AUS",
+    "spend": 6253.24,
+    "impressions": 208663,
+    "clicks": 4680,
+    "conversions": 61,
+    "revenue": 11260.34,
+    "ctr": 2.2429,
+    "roas": 1.8,
+    "cpa": 102.51,
+    "targeting": "20250822_rippl_IMGADSPACK_PH1_COLD_STD_ABO_PURCHASE_AUS_20250822_MAXCONV_BROAD_EXLXXX_XXXTST001_IMGADSPACK"
   },
-  "adsets": [
-    {
-      "name": "20250822_rippl_IMGADSPACK_PH1_COLD_STD_ABO_PURCHASE_AUS_20250822_MAXCONV_BROAD_EXLXXX_XXXTST001_IMGADSPACK",
-      "campaign": "20250822_rippl_IMGADSPACK_PH1_COLD_STD_ABO_PURCHASE_AUS",
-      "spend": 6253.24,
-      "impressions": 208663,
-      "clicks": 4680,
-      "conversions": 61,
-      "revenue": 11260.34,
-      "ctr": 2.2429,
-      "roas": 1.8,
-      "cpa": 102.51,
-      "targeting": "20250822_rippl_IMGADSPACK_PH1_COLD_STD_ABO_PURCHASE_AUS_20250822_MAXCONV_BROAD_EXLXXX_XXXTST001_IMGADSPACK"
-    },
-    {
-      "name": "20260112_rippl_RIPPLCANSB2B_PH1_COLD_STD_ABO_PURCHASE_AUS_20260112_MAXCONV_BROAD_EXLXXX_XXXTST008_RIPPLCANSB2B",
-      "campaign": "20260112_rippl_RIPPLCANSB2B_PH1_COLD_STD_ABO_PURCHASE_AUS",
-      "spend": 2207.63,
-      "impressions": 78506,
-      "clicks": 2564,
-      "conversions": 216,
-      "revenue": 1619.31,
-      "ctr": 3.266,
-      "roas": 0.73,
-      "cpa": 10.22,
-      "targeting": "20260112_rippl_RIPPLCANSB2B_PH1_COLD_STD_ABO_PURCHASE_AUS_20260112_MAXCONV_BROAD_EXLXXX_XXXTST008_RIPPLCANSB2B"
-    }
-  ]
-}
+  {
+    "name": "20260112_rippl_RIPPLCANSB2B_PH1_COLD_STD_ABO_PURCHASE_AUS_20260112_MAXCONV_BROAD_EXLXXX_XXXTST008_RIPPLCANSB2B",
+    "campaign": "20260112_rippl_RIPPLCANSB2B_PH1_COLD_STD_ABO_PURCHASE_AUS",
+    "spend": 2207.63,
+    "impressions": 78506,
+    "clicks": 2564,
+    "conversions": 216,
+    "revenue": 1619.31,
+    "ctr": 3.266,
+    "roas": 0.73,
+    "cpa": 10.22,
+    "targeting": "20260112_rippl_RIPPLCANSB2B_PH1_COLD_STD_ABO_PURCHASE_AUS_20260112_MAXCONV_BROAD_EXLXXX_XXXTST008_RIPPLCANSB2B"
+  }
+]
