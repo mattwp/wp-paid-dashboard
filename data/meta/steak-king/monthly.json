@@ -1,0 +1,74 @@
+[
+  {
+    "month": "2025-03",
+    "spend": 346359.98,
+    "conversions": 1400,
+    "revenue": 1975234.45
+  },
+  {
+    "month": "2025-04",
+    "spend": 266572.33,
+    "conversions": 1502,
+    "revenue": 2014707.25
+  },
+  {
+    "month": "2025-05",
+    "spend": 315154.14,
+    "conversions": 1383,
+    "revenue": 1930583.12
+  },
+  {
+    "month": "2025-06",
+    "spend": 315950.01,
+    "conversions": 1352,
+    "revenue": 1934485.49
+  },
+  {
+    "month": "2025-07",
+    "spend": 298111.56,
+    "conversions": 1345,
+    "revenue": 1942786.22
+  },
+  {
+    "month": "2025-08",
+    "spend": 366210.89,
+    "conversions": 1305,
+    "revenue": 1888736.3
+  },
+  {
+    "month": "2025-09",
+    "spend": 330650.52,
+    "conversions": 1491,
+    "revenue": 2170292.4
+  },
+  {
+    "month": "2025-10",
+    "spend": 351528.33,
+    "conversions": 1455,
+    "revenue": 2147278.95
+  },
+  {
+    "month": "2025-11",
+    "spend": 559876.37,
+    "conversions": 2884,
+    "revenue": 3655838.23
+  },
+  {
+    "month": "2025-12",
+    "spend": 600911.98,
+    "conversions": 2204,
+    "revenue": 3171545.0
+  },
+  {
+    "month": "2026-01",
+    "spend": 391545.83,
+    "conversions": 1961,
+    "revenue": 2900772.7
+  },
+  {
+    "month": "2026-02",
+    "spend": 394819.96,
+    "conversions": 1534,
+    "revenue": 2222754.98
+  }
+]

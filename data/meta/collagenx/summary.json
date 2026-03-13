@@ -1,0 +1,74 @@
+{
+  "clientId": "collagenx",
+  "clientName": "CollagenX",
+  "platform": "meta",
+  "accountId": "act_2063666003730772",
+  "lastUpdated": "2026-03-13T00:00:00.000Z",
+  "periods": [
+    {
+      "period": "current_7d",
+      "spend": 828.38,
+      "impressions": 43932,
+      "reach": 8779,
+      "clicks": 897,
+      "conversions": 32,
+      "revenue": 3929.64,
+      "ctr": 2.04,
+      "cpm": 18.86,
+      "cpc": 0.92,
+      "frequency": 5.0
+    },
+    {
+      "period": "prev_7d",
+      "spend": 1002.4,
+      "impressions": 47713,
+      "reach": 10734,
+      "clicks": 1003,
+      "conversions": 38,
+      "revenue": 5012.06,
+      "ctr": 2.1,
+      "cpm": 21.01,
+      "cpc": 1.0,
+      "frequency": 4.45
+    },
+    {
+      "period": "current_30d",
+      "spend": 4669.54,
+      "impressions": 226111,
+      "reach": 37339,
+      "clicks": 4792,
+      "conversions": 189,
+      "revenue": 21177.08,
+      "ctr": 2.12,
+      "cpm": 20.65,
+      "cpc": 0.97,
+      "frequency": 6.06
+    },
+    {
+      "period": "prev_30d",
+      "spend": 3365.29,
+      "impressions": 173719,
+      "reach": 32096,
+      "clicks": 3344,
+      "conversions": 131,
+      "revenue": 13786.01,
+      "ctr": 1.92,
+      "cpm": 19.37,
+      "cpc": 1.01,
+      "frequency": 5.41
+    },
+    {
+      "period": "yoy_30d",
+      "spend": 941.2,
+      "impressions": 105713,
+      "reach": 40615,
+      "clicks": 3457,
+      "conversions": 20,
+      "revenue": 557.21,
+      "ctr": 3.27,
+      "cpm": 8.9,
+      "cpc": 0.27,
+      "frequency": 2.6
+    }
+  ]
+}

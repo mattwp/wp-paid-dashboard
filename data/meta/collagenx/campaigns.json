@@ -1,0 +1,68 @@
+{
+  "clientId": "collagenx",
+  "clientName": "CollagenX",
+  "platform": "meta",
+  "lastUpdated": "2026-03-13T00:00:00.000Z",
+  "dateRange": {
+    "since": "2026-02-11",
+    "until": "2026-03-12"
+  },
+  "campaigns": [
+    {
+      "name": "20250826_COLLAGENX_40UPCTESTING_PH1_COLD_STD_ABO_PURCHASE_AUS",
+      "status": "ACTIVE",
+      "objective": "PURCHASE",
+      "spend": 2212.66,
+      "impressions": 124566,
+      "clicks": 2245,
+      "conversions": 93,
+      "revenue": 12374.17,
+      "ctr": 1.8,
+      "cpm": 17.76,
+      "roas": 5.59,
+      "cpa": 23.79
+    },
+    {
+      "name": "20250808_COLLAGENX_BVCLPTEST_PH1_COLD_STD_ABO_PURCHASE_AUS",
+      "status": "ACTIVE",
+      "objective": "PURCHASE",
+      "spend": 1317.89,
+      "impressions": 41843,
+      "clicks": 1354,
+      "conversions": 51,
+      "revenue": 4178.75,
+      "ctr": 3.24,
+      "cpm": 31.5,
+      "roas": 3.17,
+      "cpa": 25.84
+    },
+    {
+      "name": "20260210_COLLAGENX_JOINTFIXCTESTING_PURCHASE_AUS",
+      "status": "ACTIVE",
+      "objective": "PURCHASE",
+      "spend": 733.71,
+      "impressions": 32696,
+      "clicks": 905,
+      "conversions": 33,
+      "revenue": 3055.25,
+      "ctr": 2.77,
+      "cpm": 22.44,
+      "roas": 4.16,
+      "cpa": 22.23
+    },
+    {
+      "name": "20250629_COLLAGENX_EVERGREENDPA_PH3_REM_DPA_ABO_PURCHASE_AUS",
+      "status": "ACTIVE",
+      "objective": "PURCHASE",
+      "spend": 405.28,
+      "impressions": 27006,
+      "clicks": 288,
+      "conversions": 12,
+      "revenue": 1568.91,
+      "ctr": 1.07,
+      "cpm": 15.01,
+      "roas": 3.87,
+      "cpa": 33.77
+    }
+  ]
+}

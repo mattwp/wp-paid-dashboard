@@ -1,0 +1,53 @@
+{
+  "clientId": "collagenx",
+  "clientName": "CollagenX",
+  "platform": "meta",
+  "lastUpdated": "2026-03-13T00:00:00.000Z",
+  "dateRange": {
+    "since": "2026-02-11",
+    "until": "2026-03-12"
+  },
+  "note": "Creative details pending - Meta Ads MCP rate limited during pull",
+  "creatives": [
+    {
+      "name": "20250826_COLLAGENX_40UPCTESTING_PH1_COLD_STD_ABO_PURCHASE_AUS_20250826_MAXCONV_BROAD_EXLXXX_VIDTST001_40UPUGCLAUNCH_VID007_HDL011_PRT013_DES002_URL007_PP_WEBPROFITS_WHEYPROTEIN_40UP_POSTIDXXX",
+      "adSet": "20250826_COLLAGENX_40UPCTESTING_PH1_COLD_STD_ABO_PURCHASE_AUS_20250826_MAXCONV_BROAD_EXLXXX_IMGTST004_40UPSTATICADS",
+      "spend": 727.81,
+      "impressions": 32474,
+      "clicks": 927,
+      "conversions": 32,
+      "revenue": 0,
+      "ctr": 2.85,
+      "roas": 5.16,
+      "cpa": 22.74,
+      "creativeType": "video",
+      "type": "video",
+      "adId": "120231691535380095",
+      "thumbnailUrl": null,
+      "body": null,
+      "headline": null,
+      "linkUrl": null,
+      "callToAction": null
+    },
+    {
+      "name": "20250808_COLLAGENX_BVCLPTEST_PH1_COLD_STD_ABO_PURCHASE_AUS_20250808_MAXCONV_BROAD_EXLXXX_VIDTST003_FOUNDERSTORY_VID011_HDL016_PRT018_DES002_URL004_PP_WEBPROFITS_COLLAGEN_BVC_POSTIDXXX",
+      "adSet": "20250808_COLLAGENX_BVCLPTEST_PH1_COLD_STD_ABO_PURCHASE_AUS_20250808_MAXCONV_BROAD_EXLXXX_XXXTSTXXX_BVCADSPACK",
+      "spend": 690.87,
+      "impressions": 16682,
+      "clicks": 744,
+      "conversions": 22,
+      "revenue": 0,
+      "ctr": 4.46,
+      "roas": 2.73,
+      "cpa": 31.4,
+      "creativeType": "video",
+      "type": "video",
+      "adId": "120233768757990095",
+      "thumbnailUrl": null,
+      "body": null,
+      "headline": null,
+      "linkUrl": null,
+      "callToAction": null
+    }
+  ]
+}

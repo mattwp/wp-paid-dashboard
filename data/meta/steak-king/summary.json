@@ -1,0 +1,70 @@
+{
+  "clientId": "steak-king",
+  "clientName": "Steak King",
+  "current7d": {
+    "spend": 95741.79,
+    "impressions": 1557165,
+    "reach": 299974,
+    "clicks": 21214,
+    "conversions": 314,
+    "revenue": 408168.3,
+    "ctr": 1.0,
+    "cpm": 60.0,
+    "cpc": 4.51,
+    "frequency": 5.19,
+    "roas": 4.26
+  },
+  "prev7d": {
+    "spend": 99975.4,
+    "impressions": 1859073,
+    "reach": 402124,
+    "clicks": 21783,
+    "conversions": 459,
+    "revenue": 584669.65,
+    "ctr": 1.0,
+    "cpm": 50.0,
+    "cpc": 4.59,
+    "frequency": 4.62,
+    "roas": 5.85
+  },
+  "current30d": {
+    "spend": 434631.52,
+    "impressions": 7686448,
+    "reach": 747074,
+    "clicks": 94018,
+    "conversions": 2013,
+    "revenue": 2289863.9,
+    "ctr": 1.0,
+    "cpm": 60.0,
+    "cpc": 4.62,
+    "frequency": 10.29,
+    "roas": 5.27
+  },
+  "prev30d": {
+    "spend": 367576.6,
+    "impressions": 5709672,
+    "reach": 642748,
+    "clicks": 66604,
+    "conversions": 2124,
+    "revenue": 2499760.26,
+    "ctr": 1.0,
+    "cpm": 60.0,
+    "cpc": 5.52,
+    "frequency": 8.88,
+    "roas": 6.8
+  },
+  "yoy30d": {
+    "spend": 328657.9,
+    "impressions": 3973508,
+    "reach": 401020,
+    "clicks": 44052,
+    "conversions": 1395,
+    "revenue": 1874959.41,
+    "ctr": 1.0,
+    "cpm": 80.0,
+    "cpc": 7.46,
+    "frequency": 9.91,
+    "roas": 5.7
+  },
+  "lastUpdated": "2026-03-13T00:00:00.000Z"
+}

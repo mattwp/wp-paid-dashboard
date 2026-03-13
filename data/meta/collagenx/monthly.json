@@ -1,0 +1,12 @@
+{
+  "clientId": "collagenx",
+  "clientName": "CollagenX",
+  "platform": "meta",
+  "lastUpdated": "2026-03-13T00:00:00.000Z",
+  "dateRange": {
+    "since": "2025-03-01",
+    "until": "2026-02-28"
+  },
+  "note": "Monthly breakdown pending - Meta Ads MCP rate limited during pull. Re-run to populate.",
+  "monthly": []
+}
