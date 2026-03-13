@@ -13,6 +13,22 @@ function formatMonth(m: string): string {
   return `${months[parseInt(month) - 1]} '${year.slice(2)}`
 }
 
+function fillGaps(rows: MonthlyRow[]): MonthlyRow[] {
+  if (rows.length < 2) return rows
+  const byMonth = new Map(rows.map(r => [r.month, r]))
+  const [startY, startM] = rows[0].month.split('-').map(Number)
+  const [endY, endM] = rows[rows.length - 1].month.split('-').map(Number)
+  const filled: MonthlyRow[] = []
+  let y = startY, m = startM
+  while (y < endY || (y === endY && m <= endM)) {
+    const key = `${y}-${String(m).padStart(2, '0')}`
+    filled.push(byMonth.get(key) ?? { month: key, conversions: 0, costMicros: 0 })
+    m++
+    if (m > 12) { m = 1; y++ }
+  }
+  return filled
+}
+
 export default function MonthlyChart({ data }: Props) {
   if (data.length === 0) {
     return (
@@ -22,11 +38,12 @@ export default function MonthlyChart({ data }: Props) {
     )
   }
 
-  const maxConv = Math.max(...data.map(d => d.conversions), 1)
+  const filled = fillGaps(data)
+  const maxConv = Math.max(...filled.map(d => d.conversions), 1)
   const CHART_H = 140
 
-  const totalConv = data.reduce((s, d) => s + d.conversions, 0)
-  const totalSpend = data.reduce((s, d) => s + d.costMicros, 0)
+  const totalConv = filled.reduce((s, d) => s + d.conversions, 0)
+  const totalSpend = filled.reduce((s, d) => s + d.costMicros, 0)
   const avgCpl = totalConv > 0 ? totalSpend / totalConv : null
 
   return (
@@ -49,7 +66,7 @@ export default function MonthlyChart({ data }: Props) {
 
       {/* Bar chart */}
       <div style={{ display: 'flex', gap: '4px', height: `${CHART_H}px`, alignItems: 'stretch' }}>
-        {data.map(row => {
+        {filled.map(row => {
           const barH = Math.max(Math.round((row.conversions / maxConv) * (CHART_H - 24)), 2)
           return (
             <div key={row.month} style={{ flex: 1, display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'flex-end', gap: '3px' }}>
@@ -69,7 +86,7 @@ export default function MonthlyChart({ data }: Props) {
 
       {/* X-axis: month labels + CPL */}
       <div style={{ display: 'flex', gap: '4px', borderTop: '1px solid var(--border)', paddingTop: '8px' }}>
-        {data.map(row => {
+        {filled.map(row => {
           const cpl = row.conversions > 0 ? row.costMicros / row.conversions : null
           return (
             <div key={row.month} style={{ flex: 1, textAlign: 'center' }}>

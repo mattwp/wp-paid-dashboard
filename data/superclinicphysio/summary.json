@@ -2,44 +2,51 @@
   "clientId": "superclinicphysio",
   "clientName": "SuperClinicPhysio",
   "current7d": {
-    "clicks": 267,
-    "impressions": 2306,
-    "costMicros": 964291799,
-    "conversions": 37,
-    "ctr": 0.11578490893321769,
-    "averageCpc": 3611579.7715355805
+    "clicks": 266,
+    "impressions": 2284,
+    "costMicros": 948464199,
+    "conversions": 33,
+    "conversionValue": 0,
+    "ctr": 0.11646234676007006,
+    "averageCpc": 3565654.8834586465
   },
   "prev7d": {
-    "clicks": 214,
-    "impressions": 1798,
-    "costMicros": 843618345,
-    "conversions": 24.5,
-    "ctr": 0.11902113459399333,
-    "averageCpc": 3942141.7990654204
+    "clicks": 207,
+    "impressions": 1753,
+    "costMicros": 859463103,
+    "conversions": 23,
+    "conversionValue": 1,
+    "ctr": 0.11808328579577866,
+    "averageCpc": 4151995.6666666665
   },
   "current30d": {
-    "clicks": 1066,
-    "impressions": 9421,
-    "costMicros": 4081944157,
+    "clicks": 1079,
+    "impressions": 9463,
+    "costMicros": 4086133746,
     "conversions": 129.833334,
-    "ctr": 0.11315147011994481,
-    "averageCpc": 3829215.907129456
+    "conversionValue": 1,
+    "ctr": 0.11402303709183134,
+    "averageCpc": 3786963.6200185358
   },
   "prev30d": {
-    "clicks": 1106,
-    "impressions": 10179,
-    "costMicros": 3975390542,
-    "conversions": 145.166666,
-    "ctr": 0.10865507417231555,
-    "averageCpc": 3594385.6618444845
+    "clicks": 1087,
+    "impressions": 9952,
+    "costMicros": 3964406102,
+    "conversions": 146.166666,
+    "conversionValue": 1,
+    "ctr": 0.10922427652733119,
+    "averageCpc": 3647107.7295308188
   },
   "yoy30d": {
-    "clicks": 583,
-    "impressions": 6202,
-    "costMicros": 3141907938,
+    "clicks": 576,
+    "impressions": 6067,
+    "costMicros": 3126587836,
     "conversions": 26,
-    "ctr": 0.09400193485972266,
-    "averageCpc": 5389207.440823328
+    "conversionValue": 0,
+    "ctr": 0.0949398384704137,
+    "averageCpc": 5428103.881944444
   },
-  "lastUpdated": "2026-03-09T00:00:00.000Z"
+  "weightedIS30d": 0.3546,
+  "weightedISPrev30d": 0.3461,
+  "lastUpdated": "2026-03-10T00:00:00.000Z"
 }

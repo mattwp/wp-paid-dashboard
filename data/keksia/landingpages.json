@@ -6,7 +6,7 @@
     "costMicros": 1515687922,
     "conversions": 16.0,
     "ctr": 0.06397908640616401,
-    "averageCpc": 3259543918279
+    "averageCpc": 3259543.91827957
   },
   {
     "url": "https://keksia.com.au/all-products",
@@ -15,7 +15,7 @@
     "costMicros": 866317568,
     "conversions": 21.39341,
     "ctr": 0.06212312438648156,
-    "averageCpc": 1955570130925
+    "averageCpc": 1955570.130925508
   },
   {
     "url": "https://keksia.com.au/composite-decking-free-sample",
@@ -24,7 +24,7 @@
     "costMicros": 595678397,
     "conversions": 12.0,
     "ctr": 0.057971014492753624,
-    "averageCpc": 4653737476562
+    "averageCpc": 4653737.4765625
   },
   {
     "url": "https://keksia.com.au/composite-cladding",
@@ -33,7 +33,7 @@
     "costMicros": 520142714,
     "conversions": 1.5,
     "ctr": 0.04263565891472868,
-    "averageCpc": 5253966808080
+    "averageCpc": 5253966.808080808
   },
   {
     "url": "https://keksia.com.au/products/pedestals",
@@ -42,7 +42,7 @@
     "costMicros": 209643313,
     "conversions": 0.5,
     "ctr": 0.021183345507669833,
-    "averageCpc": 2409693252873
+    "averageCpc": 2409693.252873563
   },
   {
     "url": "https://keksia.com.au/products/composite-decking",
@@ -51,7 +51,7 @@
     "costMicros": 93195668,
     "conversions": 0.5,
     "ctr": 0.009717062017719349,
-    "averageCpc": 2741049058823
+    "averageCpc": 2741049.0588235296
   },
   {
     "url": "https://keksia.com.au/products/composite-cladding",
@@ -60,7 +60,7 @@
     "costMicros": 47929422,
     "conversions": 0.0,
     "ctr": 0.013396715643906655,
-    "averageCpc": 1546110387096
+    "averageCpc": 1546110.3870967743
   },
   {
     "url": "https://keksia.com.au/contact",
@@ -69,7 +69,7 @@
     "costMicros": 40142990,
     "conversions": 2.893411,
     "ctr": 0.005041246562786435,
-    "averageCpc": 3649362727272
+    "averageCpc": 3649362.727272727
   },
   {
     "url": "https://keksia.com.au/products/safety-grid-systems",
@@ -78,7 +78,7 @@
     "costMicros": 12670000,
     "conversions": 0.0,
     "ctr": 0.0058997050147492625,
-    "averageCpc": 2111666666666
+    "averageCpc": 2111666.6666666665
   },
   {
     "url": "https://keksia.com.au/projects",
@@ -87,6 +87,6 @@
     "costMicros": 11480000,
     "conversions": 0.0,
     "ctr": 0.0017421602787456446,
-    "averageCpc": 2870000000000
+    "averageCpc": 2870000.0
   }
 ]

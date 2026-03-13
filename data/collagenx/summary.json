@@ -1,50 +1,12 @@
 {
   "clientId": "collagenx",
   "clientName": "CollagenX",
-  "current7d": {
-    "clicks": 205,
-    "impressions": 7958,
-    "costMicros": 302211445,
-    "conversions": 20,
-    "conversionValue": 2395.49,
-    "ctr": 0.025760241266649914,
-    "averageCpc": 1474689.49
-  },
-  "prev7d": {
-    "clicks": 250,
-    "impressions": 10345,
-    "costMicros": 275005616,
-    "conversions": 38.996268,
-    "conversionValue": 4529.224810272,
-    "ctr": 0.02416626389560174,
-    "averageCpc": 1100022.464
-  },
-  "current30d": {
-    "clicks": 980,
-    "impressions": 34018,
-    "costMicros": 1291479005,
-    "conversions": 152.140975,
-    "conversionValue": 17954.45400224,
-    "ctr": 0.028808277970486212,
-    "averageCpc": 1317835.72
-  },
-  "prev30d": {
-    "clicks": 889,
-    "impressions": 44089,
-    "costMicros": 1267126635,
-    "conversions": 178.783223,
-    "conversionValue": 22977.737150848,
-    "ctr": 0.020163759667944384,
-    "averageCpc": 1425339.30
-  },
-  "yoy30d": {
-    "clicks": 1236,
-    "impressions": 37717,
-    "costMicros": 1819429951,
-    "conversions": 119.143934,
-    "conversionValue": 0,
-    "ctr": 0.03277036879921521,
-    "averageCpc": 1471868.09
-  },
-  "lastUpdated": "2026-03-09T00:00:00.000Z"
+  "current7d": { "clicks": 212, "impressions": 7941, "costMicros": 308008176, "conversions": 24.985032, "conversionValue": 2955.361792, "ctr": 0.026697520462157793, "averageCpc": 1453340.45283019 },
+  "prev7d": { "clicks": 241, "impressions": 9840, "costMicros": 292018891, "conversions": 33.996268, "conversionValue": 3940.604810272, "ctr": 0.024492378048780487, "averageCpc": 1211697.47302905 },
+  "current30d": { "clicks": 979, "impressions": 33296, "costMicros": 1297694587, "conversions": 149.95934, "conversionValue": 17735.712431648, "ctr": 0.029401721772994353, "averageCpc": 1325530.7323799796 },
+  "prev30d": { "clicks": 886, "impressions": 44028, "costMicros": 1271384056, "conversions": 179.94989, "conversionValue": 23150.35051344, "ctr": 0.02012580130710002, "averageCpc": 1434971.2822800902 },
+  "yoy30d": { "clicks": 1219, "impressions": 37925, "costMicros": 1732649656, "conversions": 112.349589, "conversionValue": 0, "ctr": 0.03214588297811316, "averageCpc": 1421369.6931091879 },
+  "weightedIS30d": 0.12618022133009907,
+  "weightedISPrev30d": 0.14917420455945217,
+  "lastUpdated": "2026-03-10T00:00:00.000Z"
 }

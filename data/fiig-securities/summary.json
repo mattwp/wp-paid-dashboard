@@ -1,45 +1,12 @@
 {
   "clientId": "fiig-securities",
   "clientName": "FIIG Securities",
-  "current7d": {
-    "clicks": 3341,
-    "impressions": 287652,
-    "costMicros": 8977737064,
-    "conversions": 127.944095,
-    "ctr": 0.011614728908542267,
-    "averageCpc": 2687140.69560012
-  },
-  "prev7d": {
-    "clicks": 4485,
-    "impressions": 293991,
-    "costMicros": 9210226133,
-    "conversions": 124.382369,
-    "ctr": 0.015255569048032082,
-    "averageCpc": 2053562.125529543
-  },
-  "current30d": {
-    "clicks": 15494,
-    "impressions": 1027399,
-    "costMicros": 40411868255,
-    "conversions": 540.634899,
-    "ctr": 0.01508080112984342,
-    "averageCpc": 2608226.9430101975
-  },
-  "prev30d": {
-    "clicks": 14176,
-    "impressions": 960026,
-    "costMicros": 38879882612,
-    "conversions": 535.732338,
-    "ctr": 0.01476626674694227,
-    "averageCpc": 2742655.376128668
-  },
-  "yoy30d": {
-    "clicks": 12361,
-    "impressions": 752981,
-    "costMicros": 35576490984,
-    "conversions": 404.263656,
-    "ctr": 0.01641608486801128,
-    "averageCpc": 2878124.017797913
-  },
-  "lastUpdated": "2026-03-09T00:00:00.000Z"
+  "current7d": { "clicks": 3342, "impressions": 290973, "costMicros": 9091866436, "conversions": 127.979425, "conversionValue": 8.995214, "ctr": 0.011484911671729135, "averageCpc": 2720485.467385398 },
+  "prev7d": { "clicks": 4269, "impressions": 278824, "costMicros": 9331883501, "conversions": 130.38026, "conversionValue": 5, "ctr": 0.015311111777299102, "averageCpc": 2186179.389084097 },
+  "current30d": { "clicks": 15631, "impressions": 1040065, "costMicros": 40925905548, "conversions": 549.634899, "conversionValue": 28, "ctr": 0.015029130069768614, "averageCpc": 2618460.618321604 },
+  "prev30d": { "clicks": 14104, "impressions": 964731, "costMicros": 38727772911, "conversions": 534.232338, "conversionValue": 19.999906, "ctr": 0.014619014555553, "averageCpc": 2745619.6814370394 },
+  "yoy30d": { "clicks": 12455, "impressions": 766978, "costMicros": 35268782298, "conversions": 401.101943, "conversionValue": 21, "ctr": 0.01624001591267898, "averageCpc": 2831297.4545562024 },
+  "weightedIS30d": 0.16253135379137698,
+  "weightedISPrev30d": 0.20989068009687068,
+  "lastUpdated": "2026-03-10T00:00:00.000Z"
 }

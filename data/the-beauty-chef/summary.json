@@ -2,49 +2,51 @@
   "clientId": "the-beauty-chef",
   "clientName": "The Beauty Chef",
   "current7d": {
-    "clicks": 3207,
-    "impressions": 142242,
-    "costMicros": 3764051419,
-    "conversions": 124.920738,
-    "conversionValue": 15942.304342315,
-    "ctr": 0.02254608343527228,
-    "averageCpc": 1173698.60
+    "clicks": 2939,
+    "impressions": 134364,
+    "costMicros": 3489659363,
+    "conversions": 126.5247,
+    "conversionValue": 15510.39,
+    "ctr": 0.02187,
+    "averageCpc": 1187363
   },
   "prev7d": {
-    "clicks": 3379,
-    "impressions": 162268,
-    "costMicros": 3986045026,
-    "conversions": 164.351517,
-    "conversionValue": 17508.392571395,
-    "ctr": 0.02082357581285281,
-    "averageCpc": 1179652.27
+    "clicks": 2779,
+    "impressions": 135093,
+    "costMicros": 3670759766,
+    "conversions": 167.851608,
+    "conversionValue": 18061.67,
+    "ctr": 0.02057,
+    "averageCpc": 1320893
   },
   "current30d": {
-    "clicks": 13312,
-    "impressions": 699556,
-    "costMicros": 17786122171,
-    "conversions": 660.707213,
-    "conversionValue": 71050.55531636,
-    "ctr": 0.019029212814985506,
-    "averageCpc": 1336096.92
+    "clicks": 13271,
+    "impressions": 682073,
+    "costMicros": 17418721429,
+    "conversions": 665.118868,
+    "conversionValue": 71276.88,
+    "ctr": 0.01945,
+    "averageCpc": 1312571
   },
   "prev30d": {
-    "clicks": 19302,
-    "impressions": 1355277,
-    "costMicros": 39649519567,
-    "conversions": 1653.090398,
-    "conversionValue": 178517.871814235,
-    "ctr": 0.014242106964111396,
-    "averageCpc": 2054166.39
+    "clicks": 19218,
+    "impressions": 1358389,
+    "costMicros": 39586500694,
+    "conversions": 1645.02553,
+    "conversionValue": 177927.82,
+    "ctr": 0.01415,
+    "averageCpc": 2059954
   },
   "yoy30d": {
-    "clicks": 10895,
-    "impressions": 369957,
-    "costMicros": 16442169011,
-    "conversions": 1173.442143,
-    "conversionValue": 133759.142128733,
-    "ctr": 0.029449368440116013,
-    "averageCpc": 1509148.14
+    "clicks": 10828,
+    "impressions": 372746,
+    "costMicros": 16719738573,
+    "conversions": 1167.405472,
+    "conversionValue": 132590.45,
+    "ctr": 0.02905,
+    "averageCpc": 1543862
   },
-  "lastUpdated": "2026-03-09T00:00:00.000Z"
+  "weightedIS30d": 0.1378,
+  "weightedISPrev30d": 0.1815,
+  "lastUpdated": "2026-03-10T00:00:00.000Z"
 }

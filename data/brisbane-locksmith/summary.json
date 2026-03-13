@@ -1,10 +1,12 @@
 {
   "clientId": "brisbane-locksmith",
   "clientName": "Brisbane Locksmith",
-  "current7d": { "clicks": 269, "impressions": 7763, "costMicros": 4321739741, "conversions": 44, "ctr": 0.03465155223496071, "averageCpc": 16065946.992565056 },
-  "prev7d": { "clicks": 245, "impressions": 7172, "costMicros": 3576308104, "conversions": 40, "ctr": 0.034160624651422195, "averageCpc": 14597175.934693877 },
-  "current30d": { "clicks": 1229, "impressions": 35160, "costMicros": 16909558705, "conversions": 182, "ctr": 0.03495449374288965, "averageCpc": 13758794.715215623 },
-  "prev30d": { "clicks": 1122, "impressions": 23284, "costMicros": 17535225993, "conversions": 188, "ctr": 0.04818759663288095, "averageCpc": 15628543.665775402 },
-  "yoy30d": { "clicks": 0, "impressions": 0, "costMicros": 0, "conversions": 0, "ctr": 0, "averageCpc": 0 },
-  "lastUpdated": "2026-03-09T00:00:00.000Z"
+  "current7d": { "clicks": 277, "impressions": 7940, "costMicros": 4968040405, "conversions": 40, "conversionValue": 40, "ctr": 0.034886649874055414, "averageCpc": 17932758.44765343 },
+  "prev7d": { "clicks": 264, "impressions": 7243, "costMicros": 4067203508, "conversions": 47, "conversionValue": 47, "ctr": 0.03644898250034529, "averageCpc": 15406074.651515152 },
+  "current30d": { "clicks": 1198, "impressions": 35646, "costMicros": 17333604567, "conversions": 172, "conversionValue": 172, "ctr": 0.033608517643722985, "averageCpc": 14468785.1144407 },
+  "prev30d": { "clicks": 1186, "impressions": 23819, "costMicros": 18291728669, "conversions": 202, "conversionValue": 202, "ctr": 0.04979218229984466, "averageCpc": 15423044.825463744 },
+  "yoy30d": { "clicks": 0, "impressions": 0, "costMicros": 0, "conversions": 0, "conversionValue": 0, "ctr": 0, "averageCpc": 0 },
+  "weightedIS30d": 0.2729612574427067,
+  "weightedISPrev30d": 0.35629017752782103,
+  "lastUpdated": "2026-03-10T00:00:00.000Z"
 }

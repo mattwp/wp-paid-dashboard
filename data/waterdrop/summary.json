@@ -2,49 +2,51 @@
   "clientId": "waterdrop",
   "clientName": "Waterdrop",
   "current7d": {
-    "clicks": 6994,
-    "impressions": 298319,
-    "costMicros": 13955007138,
-    "conversions": 549.254435,
-    "conversionValue": 49329.234086528,
-    "ctr": 0.023444701812489314,
-    "averageCpc": 1995282.69
+    "clicks": 6937,
+    "impressions": 294551,
+    "costMicros": 14374973323,
+    "conversions": 547.42,
+    "conversionValue": 49329.23,
+    "ctr": 0.02354,
+    "averageCpc": 2072610
   },
   "prev7d": {
-    "clicks": 7375,
-    "impressions": 336461,
-    "costMicros": 11413361248,
-    "conversions": 556.502771,
-    "conversionValue": 48271.401668235,
-    "ctr": 0.02191933091799644,
-    "averageCpc": 1547574.41
+    "clicks": 7506,
+    "impressions": 337937,
+    "costMicros": 11548768107,
+    "conversions": 578.61,
+    "conversionValue": 48271.40,
+    "ctr": 0.02221,
+    "averageCpc": 1538871
   },
   "current30d": {
-    "clicks": 35894,
-    "impressions": 1648144,
-    "costMicros": 58737260882,
-    "conversions": 2887.950411,
-    "conversionValue": 249667.641084204,
-    "ctr": 0.021778436835616307,
-    "averageCpc": 1636408.90
+    "clicks": 35168,
+    "impressions": 1600751,
+    "costMicros": 57816740767,
+    "conversions": 2827.98,
+    "conversionValue": 249667.64,
+    "ctr": 0.02197,
+    "averageCpc": 1643690
   },
   "prev30d": {
-    "clicks": 56686,
-    "impressions": 1749524,
-    "costMicros": 56740600303,
-    "conversions": 4537.537596,
-    "conversionValue": 407359.634072019,
-    "ctr": 0.03240081302114175,
-    "averageCpc": 1000963.21
+    "clicks": 57289,
+    "impressions": 1810807,
+    "costMicros": 58855123511,
+    "conversions": 4575.16,
+    "conversionValue": 407359.63,
+    "ctr": 0.03163,
+    "averageCpc": 1027316
   },
   "yoy30d": {
-    "clicks": 27804,
-    "impressions": 1724963,
-    "costMicros": 36120173172,
-    "conversions": 2189.580065,
-    "conversionValue": 177385.170998833,
-    "ctr": 0.01611860660199668,
-    "averageCpc": 1299099.88
+    "clicks": 26396,
+    "impressions": 1635398,
+    "costMicros": 35162649508,
+    "conversions": 2124.02,
+    "conversionValue": 177385.17,
+    "ctr": 0.01614,
+    "averageCpc": 1332046
   },
-  "lastUpdated": "2026-03-09T00:00:00.000Z"
+  "weightedIS30d": 0.2147,
+  "weightedISPrev30d": 0.2993,
+  "lastUpdated": "2026-03-10T00:00:00.000Z"
 }

@@ -1,7 +1,7 @@
 'use client'
 
 import Link from 'next/link'
-import { formatCurrency, formatNumber, formatDelta, calcDelta } from '@/lib/format'
+import { formatCurrency, formatCpc, formatPercent, formatNumber, formatDelta, calcDelta } from '@/lib/format'
 import type { ClientSummary } from '@/lib/types'
 
 interface Props {
@@ -33,7 +33,6 @@ export default function ClientCard({ id, name, type, summary }: Props) {
   const cpaDelta = s && p && s.conversions && p.conversions
     ? calcDelta(s.costMicros / s.conversions, p.costMicros / p.conversions)
     : null
-  const clickDelta = s && p ? calcDelta(s.clicks, p.clicks) : null
   const revDelta = s && p ? calcDelta(s.conversionValue, p.conversionValue) : null
 
   const roas = s && s.conversionValue > 0 && s.costMicros > 0
@@ -121,14 +120,14 @@ export default function ClientCard({ id, name, type, summary }: Props) {
             ) : (
               <>
                 <div>
-                  <p style={{ fontSize: '11px', color: 'var(--text-muted)', marginBottom: '2px' }}>Impressions</p>
-                  <p style={{ fontWeight: 700, color: 'var(--text-primary)', fontSize: '15px' }}>{formatNumber(s!.impressions)}</p>
-                  <DeltaBadge delta={clickDelta} />
+                  <p style={{ fontSize: '11px', color: 'var(--text-muted)', marginBottom: '2px' }}>Search IS</p>
+                  <p style={{ fontWeight: 700, color: 'var(--text-primary)', fontSize: '15px' }}>{summary.weightedIS30d !== null ? formatPercent(summary.weightedIS30d) : '—'}</p>
+                  <DeltaBadge delta={summary.weightedIS30d !== null && summary.weightedISPrev30d !== null ? calcDelta(summary.weightedIS30d, summary.weightedISPrev30d) : null} />
                 </div>
                 <div>
                   <p style={{ fontSize: '11px', color: 'var(--text-muted)', marginBottom: '2px' }}>CPA</p>
                   <p style={{ fontWeight: 700, color: 'var(--text-primary)', fontSize: '15px' }}>
-                    {s!.conversions > 0 ? formatCurrency(s!.costMicros / s!.conversions) : '—'}
+                    {s!.conversions > 0 ? formatCpc(s!.costMicros / s!.conversions) : '—'}
                   </p>
                   <DeltaBadge delta={cpaDelta} higherIsBetter={false} />
                 </div>

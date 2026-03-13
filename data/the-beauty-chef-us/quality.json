@@ -1,0 +1,72 @@
+[
+  {
+    "keyword": "carla oates",
+    "matchType": "EXACT",
+    "campaign": "WP | USA | Search | Brand",
+    "adGroup": "Brand | Carla Oates",
+    "qualityScore": 8,
+    "creativeQualityScore": "ABOVE_AVERAGE",
+    "postClickQualityScore": "ABOVE_AVERAGE",
+    "searchPredictedCtr": "AVERAGE"
+  },
+  {
+    "keyword": "The Beauty Chef",
+    "matchType": "PHRASE",
+    "campaign": "WP | USA | Search | Brand",
+    "adGroup": "Brand | Generic",
+    "qualityScore": 10,
+    "creativeQualityScore": "ABOVE_AVERAGE",
+    "postClickQualityScore": "ABOVE_AVERAGE",
+    "searchPredictedCtr": "ABOVE_AVERAGE"
+  },
+  {
+    "keyword": "Beauty Chef",
+    "matchType": "EXACT",
+    "campaign": "WP | USA | Search | Brand",
+    "adGroup": "Brand | Generic",
+    "qualityScore": 10,
+    "creativeQualityScore": "ABOVE_AVERAGE",
+    "postClickQualityScore": "ABOVE_AVERAGE",
+    "searchPredictedCtr": "ABOVE_AVERAGE"
+  },
+  {
+    "keyword": "The Beauty Chef",
+    "matchType": "EXACT",
+    "campaign": "WP | USA | Search | Brand",
+    "adGroup": "Brand | Generic",
+    "qualityScore": 10,
+    "creativeQualityScore": "ABOVE_AVERAGE",
+    "postClickQualityScore": "ABOVE_AVERAGE",
+    "searchPredictedCtr": "ABOVE_AVERAGE"
+  },
+  {
+    "keyword": "Beauty Chef",
+    "matchType": "PHRASE",
+    "campaign": "WP | USA | Search | Brand",
+    "adGroup": "Brand | Generic",
+    "qualityScore": 10,
+    "creativeQualityScore": "ABOVE_AVERAGE",
+    "postClickQualityScore": "ABOVE_AVERAGE",
+    "searchPredictedCtr": "ABOVE_AVERAGE"
+  },
+  {
+    "keyword": "beauty chef usa",
+    "matchType": "EXACT",
+    "campaign": "WP | USA | Search | Brand",
+    "adGroup": "Brand | Generic",
+    "qualityScore": 10,
+    "creativeQualityScore": "ABOVE_AVERAGE",
+    "postClickQualityScore": "ABOVE_AVERAGE",
+    "searchPredictedCtr": "ABOVE_AVERAGE"
+  },
+  {
+    "keyword": "carla oates the beauty chef",
+    "matchType": "EXACT",
+    "campaign": "WP | USA | Search | Brand",
+    "adGroup": "Brand | Carla Oates",
+    "qualityScore": 10,
+    "creativeQualityScore": "ABOVE_AVERAGE",
+    "postClickQualityScore": "ABOVE_AVERAGE",
+    "searchPredictedCtr": "ABOVE_AVERAGE"
+  }
+]

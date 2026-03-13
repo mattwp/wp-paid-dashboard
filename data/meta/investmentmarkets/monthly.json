@@ -1,0 +1,74 @@
+[
+  {
+    "month": "2025-03",
+    "spend": 11418.29,
+    "conversions": 2,
+    "revenue": 0
+  },
+  {
+    "month": "2025-04",
+    "spend": 7481.18,
+    "conversions": 0,
+    "revenue": 0
+  },
+  {
+    "month": "2025-05",
+    "spend": 7595.22,
+    "conversions": 0,
+    "revenue": 0
+  },
+  {
+    "month": "2025-06",
+    "spend": 7299.08,
+    "conversions": 2,
+    "revenue": 0
+  },
+  {
+    "month": "2025-07",
+    "spend": 6808.51,
+    "conversions": 2,
+    "revenue": 0
+  },
+  {
+    "month": "2025-08",
+    "spend": 6882.95,
+    "conversions": 4,
+    "revenue": 0
+  },
+  {
+    "month": "2025-09",
+    "spend": 7096.86,
+    "conversions": 22,
+    "revenue": 0
+  },
+  {
+    "month": "2025-10",
+    "spend": 7528.87,
+    "conversions": 123,
+    "revenue": 0
+  },
+  {
+    "month": "2025-11",
+    "spend": 9898.6,
+    "conversions": 177,
+    "revenue": 0
+  },
+  {
+    "month": "2025-12",
+    "spend": 8328.17,
+    "conversions": 264,
+    "revenue": 0
+  },
+  {
+    "month": "2026-01",
+    "spend": 7478.18,
+    "conversions": 219,
+    "revenue": 0
+  },
+  {
+    "month": "2026-02",
+    "spend": 6393.66,
+    "conversions": 195,
+    "revenue": 0
+  }
+]

@@ -2,34 +2,38 @@
   "clientId": "ray-white",
   "clientName": "Ray White",
   "current7d": {
-    "clicks": 208,
-    "impressions": 5235,
-    "costMicros": 689992168,
-    "conversions": 3.0,
-    "ctr": 0.03973256924546323,
-    "averageCpc": 3317270.0384615385
+    "clicks": 209,
+    "impressions": 5018,
+    "costMicros": 684596584,
+    "conversions": 3,
+    "conversionValue": 0,
+    "ctr": 0.04165,
+    "averageCpc": 3275580
   },
   "prev7d": {
-    "clicks": 206,
-    "impressions": 4087,
-    "costMicros": 1065042635,
-    "conversions": 2.0,
-    "ctr": 0.05040371910937118,
-    "averageCpc": 5170109.8786407765
+    "clicks": 233,
+    "impressions": 4471,
+    "costMicros": 1064338063,
+    "conversions": 2,
+    "conversionValue": 0,
+    "ctr": 0.05212,
+    "averageCpc": 4567546
   },
   "current30d": {
-    "clicks": 797,
-    "impressions": 15550,
-    "costMicros": 3101371990,
-    "conversions": 7.0,
-    "ctr": 0.0512540192926045,
-    "averageCpc": 3891307.3902133
+    "clicks": 825,
+    "impressions": 16371,
+    "costMicros": 3194776406,
+    "conversions": 7,
+    "conversionValue": 2,
+    "ctr": 0.05039,
+    "averageCpc": 3872456
   },
   "prev30d": {
     "clicks": 0,
     "impressions": 0,
     "costMicros": 0,
-    "conversions": 0.0,
+    "conversions": 0,
+    "conversionValue": 0,
     "ctr": 0,
     "averageCpc": 0
   },
@@ -37,9 +41,12 @@
     "clicks": 0,
     "impressions": 0,
     "costMicros": 0,
-    "conversions": 0.0,
+    "conversions": 0,
+    "conversionValue": 0,
     "ctr": 0,
     "averageCpc": 0
   },
-  "lastUpdated": "2026-03-09T04:30:00.000Z"
+  "weightedIS30d": 0.2449,
+  "weightedISPrev30d": null,
+  "lastUpdated": "2026-03-10T00:00:00.000Z"
 }

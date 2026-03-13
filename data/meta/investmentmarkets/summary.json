@@ -1,0 +1,65 @@
+{
+  "clientId": "investmentmarkets",
+  "clientName": "InvestmentMarkets",
+  "current7d": {
+    "spend": 1969.65,
+    "impressions": 84133,
+    "reach": 41541,
+    "clicks": 2049,
+    "conversions": 49,
+    "revenue": 0,
+    "ctr": 2.44,
+    "cpm": 23.41,
+    "cpc": 0.96,
+    "frequency": 2.03
+  },
+  "prev7d": {
+    "spend": 1608.56,
+    "impressions": 93336,
+    "reach": 46683,
+    "clicks": 2290,
+    "conversions": 50,
+    "revenue": 0,
+    "ctr": 2.45,
+    "cpm": 17.23,
+    "cpc": 0.7,
+    "frequency": 2.0
+  },
+  "current30d": {
+    "spend": 7308.56,
+    "impressions": 455147,
+    "reach": 130903,
+    "clicks": 9893,
+    "conversions": 212,
+    "revenue": 0,
+    "ctr": 2.17,
+    "cpm": 16.06,
+    "cpc": 0.74,
+    "frequency": 3.48
+  },
+  "prev30d": {
+    "spend": 6859.41,
+    "impressions": 646182,
+    "reach": 148975,
+    "clicks": 10693,
+    "conversions": 224,
+    "revenue": 0,
+    "ctr": 1.65,
+    "cpm": 10.62,
+    "cpc": 0.64,
+    "frequency": 4.34
+  },
+  "yoy30d": {
+    "spend": 4513.83,
+    "impressions": 513719,
+    "reach": 139697,
+    "clicks": 4423,
+    "conversions": 16,
+    "revenue": 0,
+    "ctr": 0.86,
+    "cpm": 8.79,
+    "cpc": 1.02,
+    "frequency": 3.68
+  },
+  "lastUpdated": "2026-03-13T00:00:00.000Z"
+}

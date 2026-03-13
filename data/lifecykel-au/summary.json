@@ -2,40 +2,40 @@
   "clientId": "lifecykel-au",
   "clientName": "Lifecykel AU",
   "current7d": {
-    "clicks": 3600,
-    "impressions": 170474,
-    "costMicros": 8791622464,
-    "conversions": 199.337189,
-    "conversionValue": 20351.483634444,
-    "ctr": 0.021118,
-    "averageCpc": 2442117.35
+    "clicks": 3361,
+    "impressions": 159117,
+    "costMicros": 8541642553,
+    "conversions": 192.16649,
+    "conversionValue": 20149.571958423,
+    "ctr": 0.02112282157154798,
+    "averageCpc": 2541399.1529306755
   },
   "prev7d": {
-    "clicks": 5800,
-    "impressions": 245140,
-    "costMicros": 10161173233,
-    "conversions": 238.009114,
-    "conversionValue": 24313.909138336,
-    "ctr": 0.02366,
-    "averageCpc": 1751926.42
+    "clicks": 5854,
+    "impressions": 248326,
+    "costMicros": 10265143798,
+    "conversions": 230.577351,
+    "conversionValue": 22746.07937251,
+    "ctr": 0.023573850502967873,
+    "averageCpc": 1753526.4431158183
   },
   "current30d": {
-    "clicks": 56842,
-    "impressions": 1512931,
-    "costMicros": 41838388360,
-    "conversions": 1318.224826,
-    "conversionValue": 101980.486321083,
-    "ctr": 0.037571,
-    "averageCpc": 736047.08
+    "clicks": 56795,
+    "impressions": 1505185,
+    "costMicros": 41875858016,
+    "conversions": 1256.058096,
+    "conversionValue": 101662.296935429,
+    "ctr": 0.037732903264382785,
+    "averageCpc": 737315.9259793996
   },
   "prev30d": {
-    "clicks": 16396,
-    "impressions": 890263,
-    "costMicros": 36506177353,
-    "conversions": 3559.571041,
-    "conversionValue": 109340.360766769,
-    "ctr": 0.018417,
-    "averageCpc": 2226529.48
+    "clicks": 16416,
+    "impressions": 891799,
+    "costMicros": 36533564695,
+    "conversions": 3474.697572,
+    "conversionValue": 106177.429457266,
+    "ctr": 0.018407735375348032,
+    "averageCpc": 2225485.1787889865
   },
   "yoy30d": {
     "clicks": 26093,
@@ -43,8 +43,10 @@
     "costMicros": 61118242853,
     "conversions": 2394.110222,
     "conversionValue": 176382.022964049,
-    "ctr": 0.01697,
-    "averageCpc": 2342323.34
+    "ctr": 0.016970460874870086,
+    "averageCpc": 2342323.337791745
   },
-  "lastUpdated": "2026-03-09T00:00:00.000Z"
+  "weightedIS30d": 0.1830,
+  "weightedISPrev30d": 0.2616,
+  "lastUpdated": "2026-03-10T09:00:00.000Z"
 }

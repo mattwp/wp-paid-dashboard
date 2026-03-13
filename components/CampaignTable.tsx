@@ -1,21 +1,23 @@
 'use client'
 
 import { useState } from 'react'
-import { formatCurrency, formatNumber, formatPercent, formatCpc } from '@/lib/format'
+import { formatCurrency, formatDollars, formatNumber, formatPercent, formatCpc } from '@/lib/format'
 import type { CampaignRow, SortDir } from '@/lib/types'
 
 interface Props {
   campaigns: CampaignRow[]
+  clientType: 'lead-gen' | 'ecommerce'
 }
 
-type SortKey = keyof CampaignRow | 'cpa' | 'cvr'
+type SortKey = keyof CampaignRow | 'cpa' | 'cvr' | 'roas'
 
 function SortIcon({ active, dir }: { active: boolean; dir: SortDir }) {
   if (!active) return <span style={{ color: 'var(--border-med)', marginLeft: '4px' }}>↕</span>
   return <span style={{ color: 'var(--wp)', marginLeft: '4px' }}>{dir === 'asc' ? '↑' : '↓'}</span>
 }
 
-export default function CampaignTable({ campaigns }: Props) {
+export default function CampaignTable({ campaigns, clientType }: Props) {
+  const isEcom = clientType === 'ecommerce'
   const [sortKey, setSortKey] = useState<SortKey>('costMicros')
   const [sortDir, setSortDir] = useState<SortDir>('desc')
   const [showPaused, setShowPaused] = useState(false)
@@ -35,6 +37,7 @@ export default function CampaignTable({ campaigns }: Props) {
     ...c,
     cpa: c.conversions > 0 ? c.costMicros / c.conversions : null,
     cvr: c.clicks > 0 ? c.conversions / c.clicks : null,
+    roas: (c.conversionValue ?? 0) > 0 && c.costMicros > 0 ? (c.conversionValue!) / (c.costMicros / 1_000_000) : null,
   }))
 
   const sorted = [...withCalc].sort((a, b) => {
@@ -86,8 +89,9 @@ export default function CampaignTable({ campaigns }: Props) {
               <Th k="ctr" label="CTR" right />
               <Th k="costMicros" label="Spend" right />
               <Th k="conversions" label="Conv." right />
+              {isEcom && <Th k="conversionValue" label="Conv. Value" right />}
               <Th k="cvr" label="CVR" right />
-              <Th k="cpa" label="CPA" right />
+              {isEcom ? <Th k="roas" label="ROAS" right /> : <Th k="cpa" label="CPA" right />}
               <Th k="averageCpc" label="CPC" right />
               <Th k="searchImpressionShare" label="IS%" right />
               <Th k="searchTopImpressionShare" label="Top IS%" right />
@@ -105,8 +109,12 @@ export default function CampaignTable({ campaigns }: Props) {
                 <td style={{ padding: '10px 12px', textAlign: 'right', color: 'var(--text-secondary)' }}>{formatPercent(c.ctr, 2)}</td>
                 <td style={{ padding: '10px 12px', textAlign: 'right', color: 'var(--text-primary)', fontWeight: 600 }}>{formatCurrency(c.costMicros)}</td>
                 <td style={{ padding: '10px 12px', textAlign: 'right', color: 'var(--text-secondary)' }}>{c.conversions.toFixed(1)}</td>
+                {isEcom && <td style={{ padding: '10px 12px', textAlign: 'right', color: 'var(--text-secondary)' }}>{(c.conversionValue ?? 0) > 0 ? formatDollars(c.conversionValue!) : '—'}</td>}
                 <td style={{ padding: '10px 12px', textAlign: 'right', color: 'var(--text-secondary)' }}>{formatPercent(c.cvr, 1)}</td>
-                <td style={{ padding: '10px 12px', textAlign: 'right', color: 'var(--text-secondary)' }}>{c.cpa ? formatCurrency(c.cpa) : '—'}</td>
+                {isEcom
+                  ? <td style={{ padding: '10px 12px', textAlign: 'right', color: 'var(--text-secondary)', fontWeight: 600 }}>{c.roas !== null ? `${c.roas.toFixed(2)}x` : '—'}</td>
+                  : <td style={{ padding: '10px 12px', textAlign: 'right', color: 'var(--text-secondary)' }}>{c.cpa ? formatCurrency(c.cpa) : '—'}</td>
+                }
                 <td style={{ padding: '10px 12px', textAlign: 'right', color: 'var(--text-secondary)' }}>{formatCpc(c.averageCpc)}</td>
                 <td style={{ padding: '10px 12px', textAlign: 'right' }}>
                   <ISBar value={c.searchImpressionShare} />
@@ -118,7 +126,7 @@ export default function CampaignTable({ campaigns }: Props) {
             ))}
             {sorted.length === 0 && (
               <tr>
-                <td colSpan={11} style={{ padding: '32px 12px', textAlign: 'center', color: 'var(--text-muted)' }}>No campaigns</td>
+                <td colSpan={isEcom ? 13 : 11} style={{ padding: '32px 12px', textAlign: 'center', color: 'var(--text-muted)' }}>No campaigns</td>
               </tr>
             )}
           </tbody>

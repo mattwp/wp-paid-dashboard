@@ -2,44 +2,51 @@
   "clientId": "ihg-sanctuary-cove",
   "clientName": "IHG Sanctuary Cove",
   "current7d": {
-    "clicks": 394,
-    "impressions": 2760,
-    "costMicros": 835085216,
-    "conversions": 152.782611,
-    "ctr": 0.1427536231884058,
-    "averageCpc": 2119505.624365482
+    "clicks": 393,
+    "impressions": 2730,
+    "costMicros": 816579343,
+    "conversions": 153.999895,
+    "conversionValue": 153.999895,
+    "ctr": 0.143956043956044,
+    "averageCpc": 2078065.757252545
   },
   "prev7d": {
-    "clicks": 215,
-    "impressions": 1005,
-    "costMicros": 291081862,
-    "conversions": 90.997996,
-    "ctr": 0.21393034825870647,
-    "averageCpc": 1353869.1255813953
+    "clicks": 240,
+    "impressions": 1194,
+    "costMicros": 336989437,
+    "conversions": 106.780712,
+    "conversionValue": 106.780712,
+    "ctr": 0.201005025125628,
+    "averageCpc": 1404122.654166667
   },
   "current30d": {
-    "clicks": 1702,
-    "impressions": 12166,
-    "costMicros": 3196539004,
-    "conversions": 685.24585,
-    "ctr": 0.13989807660693737,
-    "averageCpc": 1878107.5229142185
+    "clicks": 1717,
+    "impressions": 12345,
+    "costMicros": 3268742108,
+    "conversions": 696.320722,
+    "conversionValue": 696.320722,
+    "ctr": 0.139084648441069,
+    "averageCpc": 1903743.511944088
   },
   "prev30d": {
-    "clicks": 1574,
-    "impressions": 9213,
-    "costMicros": 1872457328,
-    "conversions": 463.233242,
-    "ctr": 0.17084554433952023,
-    "averageCpc": 1189617.1080050827
+    "clicks": 1532,
+    "impressions": 9029,
+    "costMicros": 1824887157,
+    "conversions": 444.288001,
+    "conversionValue": 444.288001,
+    "ctr": 0.169731419868758,
+    "averageCpc": 1191178.627609660
   },
   "yoy30d": {
-    "clicks": 2783,
-    "impressions": 17080,
-    "costMicros": 3596030745,
-    "conversions": 996.13552,
-    "ctr": 0.1629391100702576,
-    "averageCpc": 1292141.8415379087
+    "clicks": 2751,
+    "impressions": 16862,
+    "costMicros": 3561543989,
+    "conversions": 993.821732,
+    "conversionValue": 993.821732,
+    "ctr": 0.163150277193677,
+    "averageCpc": 1294636.128316612
   },
-  "lastUpdated": "2026-03-09T00:00:00.000Z"
+  "weightedIS30d": 0.1524,
+  "weightedISPrev30d": 0.1177,
+  "lastUpdated": "2026-03-10T06:00:00.000Z"
 }

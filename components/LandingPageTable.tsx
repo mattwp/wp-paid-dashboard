@@ -158,7 +158,7 @@ export default function LandingPageTable({ pages }: Props) {
                 <td style={{ padding: '10px 12px', textAlign: 'right', color: 'var(--text-secondary)' }}>{p.conversions.toFixed(1)}</td>
                 <td style={{ padding: '10px 12px', textAlign: 'right', fontWeight: 700, color: cvrColor(p.cvr) }}>{formatPercent(p.cvr, 1)}</td>
                 <td style={{ padding: '10px 12px', textAlign: 'right', color: 'var(--text-secondary)' }}>{p.cpa ? formatCurrency(p.cpa) : '—'}</td>
-                <td style={{ padding: '10px 12px', textAlign: 'right', color: 'var(--text-secondary)' }}>{p.averageCpc ? formatCpc(p.averageCpc) : '—'}</td>
+                <td style={{ padding: '10px 12px', textAlign: 'right', color: 'var(--text-secondary)' }}>{p.clicks > 0 ? formatCpc(p.costMicros / p.clicks) : '—'}</td>
               </tr>
             ))}
             {sorted.length === 0 && (

@@ -1,45 +1,52 @@
 {
   "clientId": "keksia",
-  "clientName": "Keksiä",
+  "clientName": "Keksi\u00e4",
   "current7d": {
-    "clicks": 264,
-    "impressions": 2054,
-    "costMicros": 801950888,
-    "conversions": 15,
-    "ctr": 0.12852969814995133,
-    "averageCpc": 3037692.757575758
+    "clicks": 258,
+    "impressions": 2027,
+    "costMicros": 793332767,
+    "conversions": 11,
+    "conversionValue": 8,
+    "ctr": 0.127281204736064,
+    "averageCpc": 3074933.980620155
   },
   "prev7d": {
-    "clicks": 338,
-    "impressions": 2553,
-    "costMicros": 1013064926,
-    "conversions": 13.999037,
-    "ctr": 0.13239326282804545,
-    "averageCpc": 2997233.5088757398
+    "clicks": 319,
+    "impressions": 2450,
+    "costMicros": 926604770,
+    "conversions": 14,
+    "conversionValue": 6,
+    "ctr": 0.130204081632653,
+    "averageCpc": 2904717.461128527
   },
   "current30d": {
-    "clicks": 1328,
-    "impressions": 10291,
-    "costMicros": 4015647035,
-    "conversions": 61.785858,
-    "ctr": 0.12904479642405986,
-    "averageCpc": 3023830.5986445784
+    "clicks": 1344,
+    "impressions": 10392,
+    "costMicros": 4093895605,
+    "conversions": 60.785858,
+    "conversionValue": 31.999037,
+    "ctr": 0.129330254042534,
+    "averageCpc": 3046340.775297619
   },
   "prev30d": {
-    "clicks": 1378,
-    "impressions": 11381,
-    "costMicros": 4429233419,
-    "conversions": 61.141651,
-    "ctr": 0.12107899130129163,
-    "averageCpc": 3214247.7641509436
+    "clicks": 1380,
+    "impressions": 11376,
+    "costMicros": 4422450180,
+    "conversions": 62.141651,
+    "conversionValue": 35.928472,
+    "ctr": 0.121306258322697,
+    "averageCpc": 3204673.318840580
   },
   "yoy30d": {
     "clicks": 1064,
     "impressions": 10358,
     "costMicros": 3238401768,
     "conversions": 70.607057,
-    "ctr": 0.10272253330758833,
-    "averageCpc": 3043610.6842105263
+    "conversionValue": 34.607057,
+    "ctr": 0.102725330758833,
+    "averageCpc": 3043610.684210526
   },
-  "lastUpdated": "2026-03-09T00:00:00.000Z"
+  "weightedIS30d": 0.3146,
+  "weightedISPrev30d": 0.3370,
+  "lastUpdated": "2026-03-10T06:00:00.000Z"
 }

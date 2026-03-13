@@ -1,0 +1,82 @@
+{
+  "clientId": "investmentmarkets",
+  "clientName": "InvestmentMarkets",
+  "period": "current30d",
+  "dateRange": {
+    "since": "2026-02-11",
+    "until": "2026-03-12"
+  },
+  "campaigns": [
+    {
+      "name": "WP | Fixed Income | ABO | Category Pages [ProductView]",
+      "status": "ACTIVE",
+      "objective": null,
+      "spend": 1956.09,
+      "impressions": 129669,
+      "clicks": 3374,
+      "conversions": 7,
+      "revenue": 0,
+      "ctr": 2.6,
+      "cpm": 15.09,
+      "roas": null,
+      "cpa": 279.44
+    },
+    {
+      "name": "WP | Managed Funds | ABO | Category Pages [ProductView]",
+      "status": "ACTIVE",
+      "objective": null,
+      "spend": 1830.79,
+      "impressions": 171458,
+      "clicks": 2702,
+      "conversions": 2,
+      "revenue": 0,
+      "ctr": 1.58,
+      "cpm": 10.68,
+      "roas": null,
+      "cpa": 915.39
+    },
+    {
+      "name": "WP | Property | ABO | Category Pages [ProductView]",
+      "status": "ACTIVE",
+      "objective": null,
+      "spend": 1810.91,
+      "impressions": 92546,
+      "clicks": 2818,
+      "conversions": 0,
+      "revenue": 0,
+      "ctr": 3.04,
+      "cpm": 19.57,
+      "roas": null,
+      "cpa": null
+    },
+    {
+      "name": "WP | AI - EBOOK | Newsletter [Subscribe]",
+      "status": "ACTIVE",
+      "objective": null,
+      "spend": 1343.22,
+      "impressions": 50317,
+      "clicks": 890,
+      "conversions": 202,
+      "revenue": 0,
+      "ctr": 1.77,
+      "cpm": 26.7,
+      "roas": null,
+      "cpa": 6.65
+    },
+    {
+      "name": "WP - Webinar - Mar26 [Event Registration]",
+      "status": "ACTIVE",
+      "objective": null,
+      "spend": 367.55,
+      "impressions": 11157,
+      "clicks": 109,
+      "conversions": 1,
+      "revenue": 0,
+      "ctr": 0.98,
+      "cpm": 32.94,
+      "roas": null,
+      "cpa": 367.55
+    }
+  ],
+  "lastUpdated": "2026-03-13T00:00:00.000Z"
+}

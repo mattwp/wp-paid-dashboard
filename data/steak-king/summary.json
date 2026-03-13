@@ -2,49 +2,51 @@
   "clientId": "steak-king",
   "clientName": "Steak King",
   "current7d": {
-    "clicks": 4525,
-    "impressions": 459479,
-    "costMicros": 34340540273,
-    "conversions": 127.465434,
-    "conversionValue": 204487.373078622,
-    "ctr": 0.009848110577414854,
-    "averageCpc": 7589069.67
+    "clicks": 4123,
+    "impressions": 413373,
+    "costMicros": 32502904804,
+    "conversions": 104.626805,
+    "conversionValue": 174519.271694619,
+    "ctr": 0.009974042813633208,
+    "averageCpc": 7883314.2866844535
   },
   "prev7d": {
-    "clicks": 5464,
-    "impressions": 490790,
-    "costMicros": 36335141091,
-    "conversions": 244.656281,
-    "conversionValue": 350621.910769031,
-    "ctr": 0.011133071170969254,
-    "averageCpc": 6649916.01
+    "clicks": 5881,
+    "impressions": 546571,
+    "costMicros": 38911799779,
+    "conversions": 248.552692,
+    "conversionValue": 354275.96080422,
+    "ctr": 0.01075980979598259,
+    "averageCpc": 6616527.763815678
   },
   "current30d": {
-    "clicks": 20700,
-    "impressions": 1919112,
-    "costMicros": 139741460341,
-    "conversions": 829.545333,
-    "conversionValue": 1172163.103319774,
-    "ctr": 0.010786238635368858,
-    "averageCpc": 6750795.19
+    "clicks": 20723,
+    "impressions": 1918780,
+    "costMicros": 140396030645,
+    "conversions": 813.278335,
+    "conversionValue": 1160900.209999528,
+    "ctr": 0.01080009172495023,
+    "averageCpc": 6774889.2846113015
   },
   "prev30d": {
-    "clicks": 20560,
-    "impressions": 2427417,
-    "costMicros": 174793124471,
-    "conversions": 1220.055467,
-    "conversionValue": 1726060.833595412,
-    "ctr": 0.008469908548881383,
-    "averageCpc": 8501611.11
+    "clicks": 20409,
+    "impressions": 2406361,
+    "costMicros": 173493880789,
+    "conversions": 1213.794435,
+    "conversionValue": 1700998.170590376,
+    "ctr": 0.008481271097728064,
+    "averageCpc": 8500851.623744426
   },
   "yoy30d": {
-    "clicks": 1674,
-    "impressions": 32696,
-    "costMicros": 15204675952,
-    "conversions": 1696.137397,
-    "conversionValue": 1335487.132175971,
-    "ctr": 0.05119892341570834,
-    "averageCpc": 9082841.07
+    "clicks": 2502,
+    "impressions": 97652,
+    "costMicros": 18592440564,
+    "conversions": 2190.164807,
+    "conversionValue": 1774540.004457546,
+    "ctr": 0.025621595051816656,
+    "averageCpc": 7431031.400479617
   },
-  "lastUpdated": "2026-03-09T00:00:00.000Z"
+  "weightedIS30d": 0.2251,
+  "weightedISPrev30d": 0.2326,
+  "lastUpdated": "2026-03-10T00:00:00.000Z"
 }

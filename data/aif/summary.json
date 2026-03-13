@@ -1,10 +1,12 @@
 {
   "clientId": "aif",
   "clientName": "Australian Institute of Fitness",
-  "current7d": { "clicks": 848, "impressions": 12888, "costMicros": 13506460323, "conversions": 129.5, "ctr": 0.06579764121663563, "averageCpc": 15927429.626179244 },
-  "prev7d": { "clicks": 944, "impressions": 14207, "costMicros": 15812243460, "conversions": 147.5, "ctr": 0.06644611811079046, "averageCpc": 16750257.902542373 },
-  "current30d": { "clicks": 3436, "impressions": 50019, "costMicros": 58408288642, "conversions": 530.983906, "ctr": 0.06869389631939862, "averageCpc": 16998919.86088475 },
-  "prev30d": { "clicks": 357, "impressions": 5623, "costMicros": 8042973518, "conversions": 66.016094, "ctr": 0.06348924061888672, "averageCpc": 22529337.585434172 },
-  "yoy30d": { "clicks": 3015, "impressions": 48829, "costMicros": 38616678830, "conversions": 362, "ctr": 0.0617460935100043, "averageCpc": 12808185.349917082 },
-  "lastUpdated": "2026-03-09T00:00:00.000Z"
+  "current7d": { "clicks": 798, "impressions": 12405, "costMicros": 12933810719, "conversions": 122, "conversionValue": 10493, "ctr": 0.06432084643288995, "averageCpc": 16207782.85588972 },
+  "prev7d": { "clicks": 891, "impressions": 13995, "costMicros": 14787837289, "conversions": 140.5, "conversionValue": 19980, "ctr": 0.06366559485530546, "averageCpc": 16597460.48148148 },
+  "current30d": { "clicks": 3470, "impressions": 51247, "costMicros": 58911414760, "conversions": 539.967812, "conversionValue": 143964.019764, "ctr": 0.06770884637163244, "averageCpc": 16979946.614985591 },
+  "prev30d": { "clicks": 419, "impressions": 6230, "costMicros": 9237118978, "conversions": 72.032188, "conversionValue": 22271.780236, "ctr": 0.06724718675718675, "averageCpc": 22045630.974940335 },
+  "yoy30d": { "clicks": 3014, "impressions": 48604, "costMicros": 38643837110, "conversions": 370.505244, "conversionValue": 96099, "ctr": 0.06201131798206319, "averageCpc": 12822504.666003317 },
+  "weightedIS30d": 0.41817159478428504,
+  "weightedISPrev30d": 0.29221520289855073,
+  "lastUpdated": "2026-03-10T00:00:00.000Z"
 }

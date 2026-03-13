@@ -2,40 +2,40 @@
   "clientId": "shark-nz",
   "clientName": "Shark NZ",
   "current7d": {
-    "clicks": 1626,
-    "impressions": 51240,
-    "costMicros": 1098211612,
-    "conversions": 29.000003,
-    "conversionValue": 7360.5946813,
-    "ctr": 0.031733021077283374,
-    "averageCpc": 675406.8954489545
+    "clicks": 1730,
+    "impressions": 58908,
+    "costMicros": 1191987669,
+    "conversions": 30.000003,
+    "conversionValue": 6192.791902661,
+    "ctr": 0.029367827799280235,
+    "averageCpc": 689010.2132947977
   },
   "prev7d": {
-    "clicks": 1987,
-    "impressions": 65227,
-    "costMicros": 1113363277,
-    "conversions": 51.985633,
-    "conversionValue": 8007.42536715,
-    "ctr": 0.03046284514081592,
-    "averageCpc": 560323.7428283845
+    "clicks": 1754,
+    "impressions": 56018,
+    "costMicros": 1001327951,
+    "conversions": 45.637938,
+    "conversionValue": 8000.131524735,
+    "ctr": 0.03131136420436288,
+    "averageCpc": 570882.5262257697
   },
   "current30d": {
-    "clicks": 13186,
-    "impressions": 608036,
-    "costMicros": 13370620676,
-    "conversions": 217.956717,
-    "conversionValue": 36951.198117976,
-    "ctr": 0.021686215947739937,
-    "averageCpc": 1014001.2646746549
+    "clicks": 13057,
+    "impressions": 604219,
+    "costMicros": 13049224011,
+    "conversions": 221.956717,
+    "conversionValue": 37463.737200251,
+    "ctr": 0.021609714358535564,
+    "averageCpc": 999404.4582216436
   },
   "prev30d": {
-    "clicks": 13705,
-    "impressions": 493744,
-    "costMicros": 15476105047,
-    "conversions": 198.843429,
-    "conversionValue": 27225.400203095,
-    "ctr": 0.02775729932920704,
-    "averageCpc": 1129230.5762130609
+    "clicks": 13737,
+    "impressions": 499592,
+    "costMicros": 15602275464,
+    "conversions": 200.843428,
+    "conversionValue": 27680.723297733,
+    "ctr": 0.027496437092667615,
+    "averageCpc": 1135784.7757152217
   },
   "yoy30d": {
     "clicks": 11290,
@@ -46,5 +46,7 @@
     "ctr": 0.024605151608270294,
     "averageCpc": 825583.9257750221
   },
-  "lastUpdated": "2026-03-09T00:00:00.000Z"
+  "weightedIS30d": 0.4302,
+  "weightedISPrev30d": 0.4035,
+  "lastUpdated": "2026-03-10T00:00:00.000Z"
 }

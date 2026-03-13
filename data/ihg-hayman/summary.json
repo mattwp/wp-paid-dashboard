@@ -2,44 +2,51 @@
   "clientId": "ihg-hayman",
   "clientName": "IHG Hayman Island",
   "current7d": {
-    "clicks": 647,
-    "impressions": 2290,
-    "costMicros": 714239526,
-    "conversions": 180.34341,
-    "ctr": 0.28253275109170306,
-    "averageCpc": 1103925.0788253478
+    "clicks": 650,
+    "impressions": 2323,
+    "costMicros": 719467194,
+    "conversions": 181.809808,
+    "conversionValue": 181.809808,
+    "ctr": 0.279811450279811,
+    "averageCpc": 1106872.606153846
   },
   "prev7d": {
     "clicks": 573,
-    "impressions": 2135,
-    "costMicros": 667505025,
-    "conversions": 181.799972,
-    "ctr": 0.268384074941452,
-    "averageCpc": 1164930.2356020943
+    "impressions": 2189,
+    "costMicros": 674470805,
+    "conversions": 184.329027,
+    "conversionValue": 184.329027,
+    "ctr": 0.261762676566925,
+    "averageCpc": 1177087.791449912
   },
   "current30d": {
-    "clicks": 2804,
-    "impressions": 10254,
-    "costMicros": 3084735881,
-    "conversions": 1098.719645,
-    "ctr": 0.2734542617515116,
-    "averageCpc": 1100119.7863766048
+    "clicks": 2812,
+    "impressions": 10207,
+    "costMicros": 3082651338,
+    "conversions": 1086.033948,
+    "conversionValue": 1086.033948,
+    "ctr": 0.275423660880847,
+    "averageCpc": 1096249.048006401
   },
   "prev30d": {
-    "clicks": 3397,
-    "impressions": 12755,
-    "costMicros": 3218297829,
-    "conversions": 1804.935773,
-    "ctr": 0.26632693061544493,
-    "averageCpc": 947394.120989108
+    "clicks": 3355,
+    "impressions": 12714,
+    "costMicros": 3233478468,
+    "conversions": 1788.589362,
+    "conversionValue": 1788.589362,
+    "ctr": 0.263838722742958,
+    "averageCpc": 963829.841430402
   },
   "yoy30d": {
-    "clicks": 3690,
-    "impressions": 15876,
-    "costMicros": 4204689257,
-    "conversions": 1904.338274,
-    "ctr": 0.23242630385487528,
-    "averageCpc": 1139482.1834688347
+    "clicks": 3629,
+    "impressions": 15745,
+    "costMicros": 4204634143,
+    "conversions": 1891.010822,
+    "conversionValue": 1891.010822,
+    "ctr": 0.230454112099714,
+    "averageCpc": 1158624.559698536
   },
-  "lastUpdated": "2026-03-09T00:00:00.000Z"
+  "weightedIS30d": 0.3277,
+  "weightedISPrev30d": 0.3762,
+  "lastUpdated": "2026-03-10T06:00:00.000Z"
 }

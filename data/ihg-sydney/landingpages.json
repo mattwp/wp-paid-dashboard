@@ -6,7 +6,7 @@
     "costMicros": 4248816461,
     "conversions": 921.898267,
     "ctr": 0.09924335738166461,
-    "averageCpc": 2511120839834
+    "averageCpc": 2511120.8398345155
   },
   {
     "url": "https://www.sydney.intercontinental.com/weddings/",
@@ -15,7 +15,7 @@
     "costMicros": 501859112,
     "conversions": 11.5,
     "ctr": 0.09686746987951807,
-    "averageCpc": 1248405751243
+    "averageCpc": 1248405.751243781
   },
   {
     "url": "https://www.sydney.intercontinental.com/rooms-suites/",
@@ -24,7 +24,7 @@
     "costMicros": 432699675,
     "conversions": 70.304172,
     "ctr": 0.019473927088140285,
-    "averageCpc": 2050709360189
+    "averageCpc": 2050709.3601895734
   },
   {
     "url": "https://www.sydney.intercontinental.com/room-type/royal-opera-suite/",
@@ -33,7 +33,7 @@
     "costMicros": 411764301,
     "conversions": 67.727111,
     "ctr": 0.06483075157773953,
-    "averageCpc": 1821965933628
+    "averageCpc": 1821965.9336283186
   },
   {
     "url": "https://www.sydney.intercontinental.com/meetings-and-events/",
@@ -42,7 +42,7 @@
     "costMicros": 239032043,
     "conversions": 2.999266,
     "ctr": 0.049463369108726084,
-    "averageCpc": 2255019273584
+    "averageCpc": 2255019.2735849055
   },
   {
     "url": "https://www.sydney.intercontinental.com/promotion/luxury-suite-experience/",
@@ -51,7 +51,7 @@
     "costMicros": 25136680,
     "conversions": 5.5,
     "ctr": 0.23809523809523808,
-    "averageCpc": 1256834000000
+    "averageCpc": 1256834.0
   },
   {
     "url": "https://www.sydney.intercontinental.com/dining/aster/",
@@ -60,7 +60,7 @@
     "costMicros": 22451548,
     "conversions": 1.5,
     "ctr": 0.0028048176868503546,
-    "averageCpc": 1320679294117
+    "averageCpc": 1320679.294117647
   },
   {
     "url": "https://www.sydney.intercontinental.com/hotel/features-facilities/",
@@ -69,6 +69,6 @@
     "costMicros": 8579017,
     "conversions": 0.0,
     "ctr": 0.0009857072449482504,
-    "averageCpc": 1429836166666
+    "averageCpc": 1429836.1666666667
   }
 ]

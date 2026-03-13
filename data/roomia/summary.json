@@ -2,44 +2,51 @@
   "clientId": "roomia",
   "clientName": "Roomia",
   "current7d": {
-    "clicks": 3358,
-    "impressions": 74833,
-    "costMicros": 14313963082,
-    "conversions": 262.573978,
-    "ctr": 0.04487325110579557,
-    "averageCpc": 4262645.349017272
+    "clicks": 3168,
+    "impressions": 65264,
+    "costMicros": 13934874430,
+    "conversions": 271.309426,
+    "conversionValue": 195.310795,
+    "ctr": 0.048547953029710646,
+    "averageCpc": 4399016.593181818
   },
   "prev7d": {
-    "clicks": 4027,
-    "impressions": 117603,
-    "costMicros": 14389552216,
-    "conversions": 319.063276,
-    "ctr": 0.03424232375024447,
-    "averageCpc": 3573268.491681152
+    "clicks": 4058,
+    "impressions": 118305,
+    "costMicros": 14442692113,
+    "conversions": 315.074081,
+    "conversionValue": 236.074081,
+    "ctr": 0.034300410267916814,
+    "averageCpc": 3558523.438413996
   },
   "current30d": {
-    "clicks": 14794,
-    "impressions": 400735,
-    "costMicros": 60649706701,
-    "conversions": 1203.27111,
-    "ctr": 0.03691716470984566,
-    "averageCpc": 4099615.1616195757
+    "clicks": 14798,
+    "impressions": 390170,
+    "costMicros": 60590371980,
+    "conversions": 1212.012314,
+    "conversionValue": 924.012314,
+    "ctr": 0.037927058464152574,
+    "averageCpc": 4094518.388565346
   },
   "prev30d": {
-    "clicks": 11442,
-    "impressions": 349304,
-    "costMicros": 56396163396,
-    "conversions": 1114.709284,
-    "ctr": 0.03275656734534961,
-    "averageCpc": 4928872.871525957
+    "clicks": 11553,
+    "impressions": 355243,
+    "costMicros": 56535062297,
+    "conversions": 1119.601749,
+    "conversionValue": 867.623523,
+    "ctr": 0.032522399358277594,
+    "averageCpc": 4893117.771443347
   },
   "yoy30d": {
-    "clicks": 6679,
-    "impressions": 129398,
-    "costMicros": 39385014483,
-    "conversions": 673.924933,
-    "ctr": 0.05161594460501708,
-    "averageCpc": 5896843.012876179
+    "clicks": 6690,
+    "impressions": 127834,
+    "costMicros": 39163854456,
+    "conversions": 666.173583,
+    "conversionValue": 562.173583,
+    "ctr": 0.052333073067218686,
+    "averageCpc": 5854089.604179104
   },
-  "lastUpdated": "2026-03-09T00:00:00.000Z"
+  "weightedIS30d": 0.2846,
+  "weightedISPrev30d": 0.2638,
+  "lastUpdated": "2026-03-10T00:00:00.000Z"
 }

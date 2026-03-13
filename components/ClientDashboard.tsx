@@ -10,7 +10,7 @@ import LandingPageTable from './LandingPageTable'
 import MonthlyChart from './MonthlyChart'
 import QualityScorePanel from './QualityScorePanel'
 import InsightsPanel from './InsightsPanel'
-import { formatCurrency, formatNumber, formatPercent, calcDelta } from '@/lib/format'
+import { formatCurrency, formatDollars, formatNumber, formatPercent, calcDelta } from '@/lib/format'
 import type { ClientSummary, CampaignRow, KeywordRow, AdGroupRow, LandingPageRow, MonthlyRow, QualityRow } from '@/lib/types'
 
 interface Props {
@@ -94,18 +94,6 @@ export default function ClientDashboard({ type, summary, campaigns, adGroups, ke
       {summary && current && previous && (
         <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-3">
           <MetricTile
-            label="Impressions"
-            value={formatNumber(current.impressions)}
-            momDelta={calcDelta(current.impressions, previous.impressions)}
-            yoyDelta={period === '30d' ? calcDelta(current.impressions, yoy?.impressions ?? 0) : null}
-          />
-          <MetricTile
-            label="Clicks"
-            value={formatNumber(current.clicks)}
-            momDelta={calcDelta(current.clicks, previous.clicks)}
-            yoyDelta={period === '30d' ? calcDelta(current.clicks, yoy?.clicks ?? 0) : null}
-          />
-          <MetricTile
             label="CTR"
             value={formatPercent(current.ctr, 2)}
             momDelta={calcDelta(current.ctr, previous.ctr)}
@@ -124,20 +112,48 @@ export default function ClientDashboard({ type, summary, campaigns, adGroups, ke
             yoyDelta={period === '30d' ? calcDelta(current.conversions, yoy?.conversions ?? 0) : null}
           />
           {type === 'ecommerce' ? (
-            <MetricTile
-              label="ROAS"
-              value={roas !== null ? `${roas.toFixed(2)}x` : '—'}
-              momDelta={roas && prevRoas ? calcDelta(roas, prevRoas) : null}
-              yoyDelta={period === '30d' && roas && yoyRoas ? calcDelta(roas, yoyRoas) : null}
-            />
+            <>
+              <MetricTile
+                label="Conv. Value"
+                value={current.conversionValue > 0 ? formatDollars(current.conversionValue) : '—'}
+                momDelta={current.conversionValue && previous.conversionValue ? calcDelta(current.conversionValue, previous.conversionValue) : null}
+                yoyDelta={period === '30d' && current.conversionValue && yoy?.conversionValue ? calcDelta(current.conversionValue, yoy.conversionValue) : null}
+              />
+              <MetricTile
+                label="ROAS"
+                value={roas !== null ? `${roas.toFixed(2)}x` : '—'}
+                momDelta={roas && prevRoas ? calcDelta(roas, prevRoas) : null}
+                yoyDelta={period === '30d' && roas && yoyRoas ? calcDelta(roas, yoyRoas) : null}
+              />
+              <MetricTile
+                label="Search IS"
+                value={summary.weightedIS30d !== null ? formatPercent(summary.weightedIS30d) : '—'}
+                momDelta={summary.weightedIS30d !== null && summary.weightedISPrev30d !== null ? calcDelta(summary.weightedIS30d, summary.weightedISPrev30d) : null}
+                yoyDelta={null}
+              />
+            </>
           ) : (
-            <MetricTile
-              label="CPA"
-              value={cpa ? formatCurrency(cpa) : '—'}
-              momDelta={cpa && prevCpa ? calcDelta(cpa, prevCpa) : null}
-              yoyDelta={period === '30d' && cpa && yoyCpa ? calcDelta(cpa, yoyCpa) : null}
-              higherIsBetter={false}
-            />
+            <>
+              <MetricTile
+                label="Conv. Rate"
+                value={current.clicks > 0 ? formatPercent(current.conversions / current.clicks, 2) : '—'}
+                momDelta={current.clicks > 0 && previous.clicks > 0 ? calcDelta(current.conversions / current.clicks, previous.conversions / previous.clicks) : null}
+                yoyDelta={period === '30d' && current.clicks > 0 && yoy && yoy.clicks > 0 ? calcDelta(current.conversions / current.clicks, yoy.conversions / yoy.clicks) : null}
+              />
+              <MetricTile
+                label="CPA"
+                value={cpa ? formatCurrency(cpa) : '—'}
+                momDelta={cpa && prevCpa ? calcDelta(cpa, prevCpa) : null}
+                yoyDelta={period === '30d' && cpa && yoyCpa ? calcDelta(cpa, yoyCpa) : null}
+                higherIsBetter={false}
+              />
+              <MetricTile
+                label="Search IS"
+                value={summary.weightedIS30d !== null ? formatPercent(summary.weightedIS30d) : '—'}
+                momDelta={summary.weightedIS30d !== null && summary.weightedISPrev30d !== null ? calcDelta(summary.weightedIS30d, summary.weightedISPrev30d) : null}
+                yoyDelta={null}
+              />
+            </>
           )}
         </div>
       )}
@@ -178,9 +194,9 @@ export default function ClientDashboard({ type, summary, campaigns, adGroups, ke
 
       {/* Tab content */}
       <div>
-        {tab === 'campaigns' && <CampaignTable campaigns={campaigns} />}
+        {tab === 'campaigns' && <CampaignTable campaigns={campaigns} clientType={type} />}
         {tab === 'adgroups' && <AdGroupTable adGroups={adGroups} />}
-        {tab === 'keywords' && <KeywordTable keywords={keywords} />}
+        {tab === 'keywords' && <KeywordTable keywords={keywords} clientType={type} />}
         {tab === 'quality' && <QualityScorePanel quality={quality} />}
         {tab === 'landing-pages' && <LandingPageTable pages={landingPages} />}
         {tab === 'impression-share' && <ImpressionSharePanel campaigns={campaigns} />}

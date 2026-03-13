@@ -2,40 +2,40 @@
   "clientId": "rippl",
   "clientName": "Rippl",
   "current7d": {
-    "clicks": 281,
-    "impressions": 7458,
-    "costMicros": 1170103615,
-    "conversions": 9,
-    "conversionValue": 899,
-    "ctr": 0.03767766157146688,
-    "averageCpc": 4163714.64
+    "clicks": 273,
+    "impressions": 6478,
+    "costMicros": 1163742853,
+    "conversions": 8,
+    "conversionValue": 1997.95,
+    "ctr": 0.04214264279407842,
+    "averageCpc": 4262753.113553114
   },
   "prev7d": {
-    "clicks": 223,
-    "impressions": 4751,
-    "costMicros": 1058977104,
-    "conversions": 7,
+    "clicks": 224,
+    "impressions": 5071,
+    "costMicros": 1068330441,
+    "conversions": 8,
     "conversionValue": 899,
-    "ctr": 0.04693748684487476,
-    "averageCpc": 4748776.25
+    "ctr": 0.04416288700453559,
+    "averageCpc": 4769332.325892857
   },
   "current30d": {
-    "clicks": 1142,
-    "impressions": 61018,
-    "costMicros": 4560886693,
-    "conversions": 40,
-    "conversionValue": 5593.95,
-    "ctr": 0.018715788783637614,
-    "averageCpc": 3993771.18
+    "clicks": 1126,
+    "impressions": 55206,
+    "costMicros": 4532427773,
+    "conversions": 41,
+    "conversionValue": 6692.9,
+    "ctr": 0.020396690215592146,
+    "averageCpc": 4025247.134103018
   },
   "prev30d": {
-    "clicks": 1561,
-    "impressions": 185275,
-    "costMicros": 4551618852,
-    "conversions": 51,
-    "conversionValue": 12590.7,
-    "ctr": 0.00842531372284442,
-    "averageCpc": 2915835.27
+    "clicks": 1563,
+    "impressions": 185943,
+    "costMicros": 4680945622,
+    "conversions": 50,
+    "conversionValue": 11526.7,
+    "ctr": 0.008405445960847972,
+    "averageCpc": 2994848.446578375
   },
   "yoy30d": {
     "clicks": 0,
@@ -46,5 +46,7 @@
     "ctr": 0,
     "averageCpc": 0
   },
-  "lastUpdated": "2026-03-09T00:00:00.000Z"
+  "weightedIS30d": 0.1177,
+  "weightedISPrev30d": 0.2287,
+  "lastUpdated": "2026-03-10T00:00:00.000Z"
 }

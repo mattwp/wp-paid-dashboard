@@ -4,24 +4,26 @@
     "matchType": "BROAD",
     "campaign": "Competitor Ads October 25 #2",
     "adGroup": "Ad group 1",
-    "clicks": 812,
-    "impressions": 2422,
-    "costMicros": 681374014,
-    "conversions": 95.166667,
-    "averageCpc": 839130.5591133005,
-    "searchImpressionShare": 0.17585125448028674
+    "clicks": 817,
+    "impressions": 2394,
+    "costMicros": 714680514,
+    "conversions": 96.166667,
+    "conversionValue": 96.166667,
+    "averageCpc": 874760.729497553,
+    "searchImpressionShare": 0.1783
   },
   {
     "keyword": "cheap salon booking software",
     "matchType": "BROAD",
     "campaign": "Competitor Ads October 25 #2",
     "adGroup": "Ad group 1",
-    "clicks": 269,
-    "impressions": 768,
-    "costMicros": 207492743,
-    "conversions": 36.5,
-    "averageCpc": 771348.4869888476,
-    "searchImpressionShare": 0.15709876543209877
+    "clicks": 271,
+    "impressions": 770,
+    "costMicros": 209409216,
+    "conversions": 36.833334,
+    "conversionValue": 36.833334,
+    "averageCpc": 772727.734317343,
+    "searchImpressionShare": 0.1574
   },
   {
     "keyword": "salon management",
@@ -32,6 +34,7 @@
     "impressions": 0,
     "costMicros": 0,
     "conversions": 0,
+    "conversionValue": 0,
     "averageCpc": null,
     "searchImpressionShare": null
   },
@@ -44,6 +47,7 @@
     "impressions": 0,
     "costMicros": 0,
     "conversions": 0,
+    "conversionValue": 0,
     "averageCpc": null,
     "searchImpressionShare": null
   },
@@ -56,6 +60,7 @@
     "impressions": 0,
     "costMicros": 0,
     "conversions": 0,
+    "conversionValue": 0,
     "averageCpc": null,
     "searchImpressionShare": null
   },
@@ -68,6 +73,7 @@
     "impressions": 0,
     "costMicros": 0,
     "conversions": 0,
+    "conversionValue": 0,
     "averageCpc": null,
     "searchImpressionShare": null
   },
@@ -80,6 +86,7 @@
     "impressions": 0,
     "costMicros": 0,
     "conversions": 0,
+    "conversionValue": 0,
     "averageCpc": null,
     "searchImpressionShare": null
   },
@@ -92,6 +99,7 @@
     "impressions": 0,
     "costMicros": 0,
     "conversions": 0,
+    "conversionValue": 0,
     "averageCpc": null,
     "searchImpressionShare": null
   },
@@ -104,6 +112,7 @@
     "impressions": 0,
     "costMicros": 0,
     "conversions": 0,
+    "conversionValue": 0,
     "averageCpc": null,
     "searchImpressionShare": null
   },
@@ -116,6 +125,7 @@
     "impressions": 0,
     "costMicros": 0,
     "conversions": 0,
+    "conversionValue": 0,
     "averageCpc": null,
     "searchImpressionShare": null
   },
@@ -128,6 +138,7 @@
     "impressions": 0,
     "costMicros": 0,
     "conversions": 0,
+    "conversionValue": 0,
     "averageCpc": null,
     "searchImpressionShare": null
   },
@@ -140,6 +151,7 @@
     "impressions": 0,
     "costMicros": 0,
     "conversions": 0,
+    "conversionValue": 0,
     "averageCpc": null,
     "searchImpressionShare": null
   },
@@ -152,6 +164,7 @@
     "impressions": 0,
     "costMicros": 0,
     "conversions": 0,
+    "conversionValue": 0,
     "averageCpc": null,
     "searchImpressionShare": null
   },
@@ -164,6 +177,7 @@
     "impressions": 0,
     "costMicros": 0,
     "conversions": 0,
+    "conversionValue": 0,
     "averageCpc": null,
     "searchImpressionShare": null
   },
@@ -176,6 +190,7 @@
     "impressions": 0,
     "costMicros": 0,
     "conversions": 0,
+    "conversionValue": 0,
     "averageCpc": null,
     "searchImpressionShare": null
   },
@@ -188,6 +203,7 @@
     "impressions": 0,
     "costMicros": 0,
     "conversions": 0,
+    "conversionValue": 0,
     "averageCpc": null,
     "searchImpressionShare": null
   },
@@ -200,6 +216,7 @@
     "impressions": 0,
     "costMicros": 0,
     "conversions": 0,
+    "conversionValue": 0,
     "averageCpc": null,
     "searchImpressionShare": null
   },
@@ -212,6 +229,7 @@
     "impressions": 0,
     "costMicros": 0,
     "conversions": 0,
+    "conversionValue": 0,
     "averageCpc": null,
     "searchImpressionShare": null
   },
@@ -224,6 +242,7 @@
     "impressions": 0,
     "costMicros": 0,
     "conversions": 0,
+    "conversionValue": 0,
     "averageCpc": null,
     "searchImpressionShare": null
   },
@@ -236,6 +255,7 @@
     "impressions": 0,
     "costMicros": 0,
     "conversions": 0,
+    "conversionValue": 0,
     "averageCpc": null,
     "searchImpressionShare": null
   }

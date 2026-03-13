@@ -1,14 +1,15 @@
 'use client'
 
 import { useState } from 'react'
-import { formatCurrency, formatNumber, formatPercent, formatCpc } from '@/lib/format'
+import { formatCurrency, formatDollars, formatNumber, formatPercent, formatCpc } from '@/lib/format'
 import type { KeywordRow, SortDir } from '@/lib/types'
 
 interface Props {
   keywords: KeywordRow[]
+  clientType: 'lead-gen' | 'ecommerce'
 }
 
-type SortKey = keyof KeywordRow
+type SortKey = keyof KeywordRow | 'roas'
 
 const MATCH_STYLES: Record<string, React.CSSProperties> = {
   EXACT: { background: 'rgba(4,120,87,0.07)', color: '#047857' },
@@ -21,7 +22,8 @@ function SortIcon({ active, dir }: { active: boolean; dir: SortDir }) {
   return <span style={{ color: 'var(--wp)', marginLeft: '4px' }}>{dir === 'asc' ? '↑' : '↓'}</span>
 }
 
-export default function KeywordTable({ keywords }: Props) {
+export default function KeywordTable({ keywords, clientType }: Props) {
+  const isEcom = clientType === 'ecommerce'
   const [sortKey, setSortKey] = useState<SortKey>('costMicros')
   const [sortDir, setSortDir] = useState<SortDir>('desc')
   const [search, setSearch] = useState('')
@@ -39,10 +41,15 @@ export default function KeywordTable({ keywords }: Props) {
     ? keywords.filter(k => k.keyword.toLowerCase().includes(search.toLowerCase()) || k.campaign.toLowerCase().includes(search.toLowerCase()) || k.adGroup.toLowerCase().includes(search.toLowerCase()))
     : keywords
 
-  const sorted = [...filtered].sort((a, b) => {
-    const av = a[sortKey] ?? 0
-    const bv = b[sortKey] ?? 0
-    const cmp = typeof av === 'string' ? av.localeCompare(bv as string) : (av as number) - (bv as number)
+  const withCalc = filtered.map(k => ({
+    ...k,
+    roas: (k.conversionValue ?? 0) > 0 && k.costMicros > 0 ? (k.conversionValue!) / (k.costMicros / 1_000_000) : null,
+  }))
+
+  const sorted = [...withCalc].sort((a, b) => {
+    const av = (a as Record<string, unknown>)[sortKey] ?? 0
+    const bv = (b as Record<string, unknown>)[sortKey] ?? 0
+    const cmp = typeof av === 'string' ? av.localeCompare(bv as string) : ((av as number) ?? 0) - ((bv as number) ?? 0)
     return sortDir === 'asc' ? cmp : -cmp
   })
 
@@ -108,6 +115,8 @@ export default function KeywordTable({ keywords }: Props) {
               <Th k="clicks" label="Clicks" right />
               <Th k="costMicros" label="Spend" right />
               <Th k="conversions" label="Conv." right />
+              {isEcom && <Th k="conversionValue" label="Conv. Value" right />}
+              {isEcom && <Th k="roas" label="ROAS" right />}
               <Th k="averageCpc" label="CPC" right />
               <Th k="searchImpressionShare" label="IS%" right />
             </tr>
@@ -130,13 +139,15 @@ export default function KeywordTable({ keywords }: Props) {
                 <td style={{ padding: '10px 12px', textAlign: 'right', color: 'var(--text-secondary)' }}>{formatNumber(k.clicks)}</td>
                 <td style={{ padding: '10px 12px', textAlign: 'right', color: 'var(--text-primary)', fontWeight: 600 }}>{formatCurrency(k.costMicros)}</td>
                 <td style={{ padding: '10px 12px', textAlign: 'right', color: 'var(--text-secondary)' }}>{k.conversions.toFixed(1)}</td>
+                {isEcom && <td style={{ padding: '10px 12px', textAlign: 'right', color: 'var(--text-secondary)' }}>{(k.conversionValue ?? 0) > 0 ? formatDollars(k.conversionValue!) : '—'}</td>}
+                {isEcom && <td style={{ padding: '10px 12px', textAlign: 'right', color: 'var(--text-secondary)', fontWeight: 600 }}>{k.roas !== null ? `${k.roas.toFixed(2)}x` : '—'}</td>}
                 <td style={{ padding: '10px 12px', textAlign: 'right', color: 'var(--text-secondary)' }}>{formatCpc(k.averageCpc)}</td>
                 <td style={{ padding: '10px 12px', textAlign: 'right', color: 'var(--text-secondary)' }}>{formatPercent(k.searchImpressionShare)}</td>
               </tr>
             ))}
             {sorted.length === 0 && (
               <tr>
-                <td colSpan={10} style={{ padding: '32px 12px', textAlign: 'center', color: 'var(--text-muted)' }}>No keywords found</td>
+                <td colSpan={isEcom ? 12 : 10} style={{ padding: '32px 12px', textAlign: 'center', color: 'var(--text-muted)' }}>No keywords found</td>
               </tr>
             )}
           </tbody>

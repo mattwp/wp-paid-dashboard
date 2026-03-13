@@ -1,0 +1,52 @@
+{
+  "clientId": "the-beauty-chef-us",
+  "clientName": "The Beauty Chef US",
+  "current7d": {
+    "clicks": 303,
+    "impressions": 27717,
+    "costMicros": 826366740,
+    "conversions": 10,
+    "conversionValue": 1489.6,
+    "ctr": 0.0109,
+    "averageCpc": 2727619
+  },
+  "prev7d": {
+    "clicks": 256,
+    "impressions": 28101,
+    "costMicros": 671896294,
+    "conversions": 12,
+    "conversionValue": 1855.08,
+    "ctr": 0.0091,
+    "averageCpc": 2624986
+  },
+  "current30d": {
+    "clicks": 1070,
+    "impressions": 94665,
+    "costMicros": 2609846865,
+    "conversions": 47,
+    "conversionValue": 6760.88,
+    "ctr": 0.0113,
+    "averageCpc": 2439109
+  },
+  "prev30d": {
+    "clicks": 1543,
+    "impressions": 160827,
+    "costMicros": 4025817359,
+    "conversions": 100,
+    "conversionValue": 14100.88,
+    "ctr": 0.0096,
+    "averageCpc": 2609085
+  },
+  "yoy30d": {
+    "clicks": 2872,
+    "impressions": 321026,
+    "costMicros": 5899816839,
+    "conversions": 79.45,
+    "conversionValue": 11832.07,
+    "ctr": 0.0089,
+    "averageCpc": 2054254
+  },
+  "weightedIS30d": 0.127,
+  "weightedISPrev30d": 0.1483,
+  "lastUpdated": "2026-03-12T10:00:00.000Z"
+}

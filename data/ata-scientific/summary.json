@@ -1,10 +1,12 @@
 {
   "clientId": "ata-scientific",
   "clientName": "ATA Scientific",
-  "current7d": { "clicks": 90, "impressions": 791, "costMicros": 291415550, "conversions": 2, "ctr": 0.11378002528445007, "averageCpc": 3237950.5555555555 },
-  "prev7d": { "clicks": 98, "impressions": 1174, "costMicros": 420889593, "conversions": 3, "ctr": 0.08347529812606473, "averageCpc": 4294791.765306123 },
-  "current30d": { "clicks": 357, "impressions": 3834, "costMicros": 1388182585, "conversions": 8, "ctr": 0.09311424100156494, "averageCpc": 3888466.62464986 },
-  "prev30d": { "clicks": 340, "impressions": 3928, "costMicros": 1410354766, "conversions": 5, "ctr": 0.08655804480651731, "averageCpc": 4148102.2529411763 },
-  "yoy30d": { "clicks": 336, "impressions": 3928, "costMicros": 1810682510, "conversions": 6, "ctr": 0.0855397148676171, "averageCpc": 5388936.041666667 },
-  "lastUpdated": "2026-03-09T00:00:00.000Z"
+  "current7d": { "clicks": 84, "impressions": 825, "costMicros": 264225550, "conversions": 1, "conversionValue": 0, "ctr": 0.10181818181818182, "averageCpc": 3145542.261904762 },
+  "prev7d": { "clicks": 97, "impressions": 1058, "costMicros": 403462347, "conversions": 4, "conversionValue": 0, "ctr": 0.09168242530755712, "averageCpc": 4159405.639175258 },
+  "current30d": { "clicks": 368, "impressions": 3947, "costMicros": 1423512585, "conversions": 8, "conversionValue": 0, "ctr": 0.09323536862680011, "averageCpc": 3868240.719293478 },
+  "prev30d": { "clicks": 329, "impressions": 3863, "costMicros": 1360184766, "conversions": 4, "conversionValue": 0, "ctr": 0.08517215843127619, "averageCpc": 4134603.544072948 },
+  "yoy30d": { "clicks": 333, "impressions": 3766, "costMicros": 1825150473, "conversions": 6, "conversionValue": 0, "ctr": 0.08842272969729155, "averageCpc": 5481533.702702703 },
+  "weightedIS30d": 0.23924478502659386,
+  "weightedISPrev30d": 0.26307048373498076,
+  "lastUpdated": "2026-03-10T00:00:00.000Z"
 }

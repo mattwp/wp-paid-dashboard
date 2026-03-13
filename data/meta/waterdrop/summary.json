@@ -1,0 +1,65 @@
+{
+  "clientId": "waterdrop",
+  "clientName": "Waterdrop",
+  "current7d": {
+    "spend": 37340.11,
+    "impressions": 2331934,
+    "reach": 620214,
+    "clicks": 48741,
+    "conversions": 2289,
+    "revenue": 59750.39,
+    "ctr": 0.020901529999999998,
+    "cpm": 16.012507,
+    "cpc": 0.766092,
+    "frequency": 3.76
+  },
+  "prev7d": {
+    "spend": 19864.82,
+    "impressions": 1243959,
+    "reach": 388534,
+    "clicks": 27144,
+    "conversions": 1715,
+    "revenue": 55501.24,
+    "ctr": 0.02182065,
+    "cpm": 15.969031,
+    "cpc": 0.731831,
+    "frequency": 3.2
+  },
+  "current30d": {
+    "spend": 129638.3,
+    "impressions": 8262289,
+    "reach": 1401393,
+    "clicks": 167264,
+    "conversions": 9415,
+    "revenue": 276106.28,
+    "ctr": 0.02024427,
+    "cpm": 15.690361,
+    "cpc": 0.775052,
+    "frequency": 5.9
+  },
+  "prev30d": {
+    "spend": 189331.49,
+    "impressions": 13043721,
+    "reach": 1877106,
+    "clicks": 313845,
+    "conversions": 17383,
+    "revenue": 503768.51,
+    "ctr": 0.024061,
+    "cpm": 14.515144,
+    "cpc": 0.603264,
+    "frequency": 6.95
+  },
+  "yoy30d": {
+    "spend": 121770.89,
+    "impressions": 7742491,
+    "reach": 1537703,
+    "clicks": 107789,
+    "conversions": 10256,
+    "revenue": 289593.43,
+    "ctr": 0.01392175,
+    "cpm": 15.727611,
+    "cpc": 1.129715,
+    "frequency": 5.04
+  },
+  "lastUpdated": "2026-03-13T00:00:00.000Z"
+}

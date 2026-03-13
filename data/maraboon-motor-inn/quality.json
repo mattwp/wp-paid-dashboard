@@ -1,0 +1,282 @@
+[
+  {
+    "keyword": "maraboon tavern emerald",
+    "matchType": "EXACT",
+    "campaign": "Maraboon | Emerald | Brand",
+    "adGroup": "Brand",
+    "qualityScore": 3,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE"
+  },
+  {
+    "keyword": "emerald qld accommodation",
+    "matchType": "EXACT",
+    "campaign": "Maraboon | Emerald | General",
+    "adGroup": "Emerald Accommodation",
+    "qualityScore": 3,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE"
+  },
+  {
+    "keyword": "accommodation near emerald qld",
+    "matchType": "EXACT",
+    "campaign": "Maraboon | Emerald | General",
+    "adGroup": "Places to Stay in Emerald",
+    "qualityScore": 3,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE"
+  },
+  {
+    "keyword": "accommodation emerald",
+    "matchType": "EXACT",
+    "campaign": "Maraboon | Emerald | General",
+    "adGroup": "Emerald Accommodation",
+    "qualityScore": 4,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE"
+  },
+  {
+    "keyword": "hotel in emerald",
+    "matchType": "EXACT",
+    "campaign": "Maraboon | Emerald | General",
+    "adGroup": "Emerald Accommodation",
+    "qualityScore": 4,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE"
+  },
+  {
+    "keyword": "emerald hotel queensland",
+    "matchType": "EXACT",
+    "campaign": "Maraboon | Emerald | General",
+    "adGroup": "Emerald Accommodation",
+    "qualityScore": 4,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE"
+  },
+  {
+    "keyword": "accommodation emerald",
+    "matchType": "PHRASE",
+    "campaign": "Maraboon | Emerald | General",
+    "adGroup": "Emerald Accommodation",
+    "qualityScore": 4,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE"
+  },
+  {
+    "keyword": "emerald hotels",
+    "matchType": "PHRASE",
+    "campaign": "Maraboon | Emerald | General",
+    "adGroup": "Emerald Accommodation",
+    "qualityScore": 4,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE"
+  },
+  {
+    "keyword": "hotel in emerald",
+    "matchType": "PHRASE",
+    "campaign": "Maraboon | Emerald | General",
+    "adGroup": "Emerald Accommodation",
+    "qualityScore": 4,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE"
+  },
+  {
+    "keyword": "maraboon tavern emerald qld",
+    "matchType": "EXACT",
+    "campaign": "Maraboon | Emerald | Brand",
+    "adGroup": "Brand",
+    "qualityScore": 5,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "ABOVE_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE"
+  },
+  {
+    "keyword": "motel emerald",
+    "matchType": "EXACT",
+    "campaign": "Maraboon | Emerald | General",
+    "adGroup": "Emerald Accommodation",
+    "qualityScore": 5,
+    "creativeQualityScore": "ABOVE_AVERAGE",
+    "postClickQualityScore": "AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE"
+  },
+  {
+    "keyword": "motels in emerald qld",
+    "matchType": "EXACT",
+    "campaign": "Maraboon | Emerald | General",
+    "adGroup": "Emerald Accommodation",
+    "qualityScore": 5,
+    "creativeQualityScore": "ABOVE_AVERAGE",
+    "postClickQualityScore": "AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE"
+  },
+  {
+    "keyword": "motel emerald",
+    "matchType": "PHRASE",
+    "campaign": "Maraboon | Emerald | General",
+    "adGroup": "Emerald Accommodation",
+    "qualityScore": 5,
+    "creativeQualityScore": "ABOVE_AVERAGE",
+    "postClickQualityScore": "AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE"
+  },
+  {
+    "keyword": "places to stay in emerald",
+    "matchType": "EXACT",
+    "campaign": "Maraboon | Emerald | General",
+    "adGroup": "Places to Stay in Emerald",
+    "qualityScore": 5,
+    "creativeQualityScore": "ABOVE_AVERAGE",
+    "postClickQualityScore": "AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE"
+  },
+  {
+    "keyword": "places to stay in emerald qld",
+    "matchType": "EXACT",
+    "campaign": "Maraboon | Emerald | General",
+    "adGroup": "Places to Stay in Emerald",
+    "qualityScore": 5,
+    "creativeQualityScore": "ABOVE_AVERAGE",
+    "postClickQualityScore": "AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE"
+  },
+  {
+    "keyword": "places to stay in emerald qld",
+    "matchType": "PHRASE",
+    "campaign": "Maraboon | Emerald | General",
+    "adGroup": "Places to Stay in Emerald",
+    "qualityScore": 5,
+    "creativeQualityScore": "ABOVE_AVERAGE",
+    "postClickQualityScore": "AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE"
+  },
+  {
+    "keyword": "maraboon tavern hotel",
+    "matchType": "EXACT",
+    "campaign": "Maraboon | Emerald | Brand",
+    "adGroup": "Brand",
+    "qualityScore": 6,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "ABOVE_AVERAGE",
+    "searchPredictedCtr": "AVERAGE"
+  },
+  {
+    "keyword": "emerald motor inn",
+    "matchType": "EXACT",
+    "campaign": "Maraboon | Emerald | General",
+    "adGroup": "Emerald Accommodation",
+    "qualityScore": 7,
+    "creativeQualityScore": "ABOVE_AVERAGE",
+    "postClickQualityScore": "ABOVE_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE"
+  },
+  {
+    "keyword": "emerald motor inn",
+    "matchType": "PHRASE",
+    "campaign": "Maraboon | Emerald | General",
+    "adGroup": "Emerald Accommodation",
+    "qualityScore": 7,
+    "creativeQualityScore": "ABOVE_AVERAGE",
+    "postClickQualityScore": "ABOVE_AVERAGE",
+    "searchPredictedCtr": "BELOW_AVERAGE"
+  },
+  {
+    "keyword": "maraboon emerald",
+    "matchType": "EXACT",
+    "campaign": "Maraboon | Emerald | Brand",
+    "adGroup": "Brand",
+    "qualityScore": 8,
+    "creativeQualityScore": "ABOVE_AVERAGE",
+    "postClickQualityScore": "ABOVE_AVERAGE",
+    "searchPredictedCtr": "AVERAGE"
+  },
+  {
+    "keyword": "maraboon hotel",
+    "matchType": "EXACT",
+    "campaign": "Maraboon | Emerald | Brand",
+    "adGroup": "Brand",
+    "qualityScore": 8,
+    "creativeQualityScore": "ABOVE_AVERAGE",
+    "postClickQualityScore": "ABOVE_AVERAGE",
+    "searchPredictedCtr": "AVERAGE"
+  },
+  {
+    "keyword": "maraboon tavern accommodation",
+    "matchType": "EXACT",
+    "campaign": "Maraboon | Emerald | Brand",
+    "adGroup": "Brand",
+    "qualityScore": 8,
+    "creativeQualityScore": "BELOW_AVERAGE",
+    "postClickQualityScore": "ABOVE_AVERAGE",
+    "searchPredictedCtr": "ABOVE_AVERAGE"
+  },
+  {
+    "keyword": "maraboon tavern motel",
+    "matchType": "EXACT",
+    "campaign": "Maraboon | Emerald | Brand",
+    "adGroup": "Brand",
+    "qualityScore": 9,
+    "creativeQualityScore": "AVERAGE",
+    "postClickQualityScore": "ABOVE_AVERAGE",
+    "searchPredictedCtr": "ABOVE_AVERAGE"
+  },
+  {
+    "keyword": "emerald maraboon motor inn",
+    "matchType": "EXACT",
+    "campaign": "Maraboon | Emerald | Brand",
+    "adGroup": "Brand",
+    "qualityScore": 10,
+    "creativeQualityScore": "ABOVE_AVERAGE",
+    "postClickQualityScore": "ABOVE_AVERAGE",
+    "searchPredictedCtr": "ABOVE_AVERAGE"
+  },
+  {
+    "keyword": "maraboon motor inn",
+    "matchType": "EXACT",
+    "campaign": "Maraboon | Emerald | Brand",
+    "adGroup": "Brand",
+    "qualityScore": 10,
+    "creativeQualityScore": "ABOVE_AVERAGE",
+    "postClickQualityScore": "ABOVE_AVERAGE",
+    "searchPredictedCtr": "ABOVE_AVERAGE"
+  },
+  {
+    "keyword": "maraboon hotel emerald",
+    "matchType": "EXACT",
+    "campaign": "Maraboon | Emerald | Brand",
+    "adGroup": "Brand",
+    "qualityScore": 10,
+    "creativeQualityScore": "ABOVE_AVERAGE",
+    "postClickQualityScore": "ABOVE_AVERAGE",
+    "searchPredictedCtr": "ABOVE_AVERAGE"
+  },
+  {
+    "keyword": "maraboon motel emerald",
+    "matchType": "EXACT",
+    "campaign": "Maraboon | Emerald | Brand",
+    "adGroup": "Brand",
+    "qualityScore": 10,
+    "creativeQualityScore": "ABOVE_AVERAGE",
+    "postClickQualityScore": "ABOVE_AVERAGE",
+    "searchPredictedCtr": "ABOVE_AVERAGE"
+  },
+  {
+    "keyword": "maraboon motel",
+    "matchType": "EXACT",
+    "campaign": "Maraboon | Emerald | Brand",
+    "adGroup": "Brand",
+    "qualityScore": 10,
+    "creativeQualityScore": "ABOVE_AVERAGE",
+    "postClickQualityScore": "ABOVE_AVERAGE",
+    "searchPredictedCtr": "ABOVE_AVERAGE"
+  }
+]

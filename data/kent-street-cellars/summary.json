@@ -2,49 +2,51 @@
   "clientId": "kent-street-cellars",
   "clientName": "Kent Street Cellars",
   "current7d": {
-    "clicks": 16391,
-    "impressions": 1054958,
-    "costMicros": 24079296178,
-    "conversions": 458.052042,
-    "conversionValue": 196088.613312436,
-    "ctr": 0.015537111430028495,
-    "averageCpc": 1469087.68
+    "clicks": 16265,
+    "impressions": 1031471,
+    "costMicros": 24160606215,
+    "conversions": 440.726831,
+    "conversionValue": 180559.352577893,
+    "ctr": 0.015768741922943058,
+    "averageCpc": 1485435.3652013526
   },
   "prev7d": {
-    "clicks": 18825,
-    "impressions": 1213514,
-    "costMicros": 26154053031,
-    "conversions": 494.725607,
-    "conversionValue": 208698.770539721,
-    "ctr": 0.015512800017140305,
-    "averageCpc": 1389333.38
+    "clicks": 18679,
+    "impressions": 1220802,
+    "costMicros": 25757361473,
+    "conversions": 505.137353,
+    "conversionValue": 216533.90857721,
+    "ctr": 0.015300597476085392,
+    "averageCpc": 1378947.5599871513
   },
   "current30d": {
-    "clicks": 78281,
-    "impressions": 5012992,
-    "costMicros": 108477074344,
-    "conversions": 2230.143317,
-    "conversionValue": 975769.016978046,
-    "ctr": 0.015615624361658666,
-    "averageCpc": 1385739.51
+    "clicks": 77299,
+    "impressions": 4955699,
+    "costMicros": 108421236849,
+    "conversions": 2223.452364,
+    "conversionValue": 971218.247967223,
+    "ctr": 0.015598001412111592,
+    "averageCpc": 1402621.4679232591
   },
   "prev30d": {
-    "clicks": 63127,
-    "impressions": 3577967,
-    "costMicros": 75343548964,
-    "conversions": 2216.336436,
-    "conversionValue": 934821.882963108,
-    "ctr": 0.017643259426372574,
-    "averageCpc": 1193523.36
+    "clicks": 64332,
+    "impressions": 3656309,
+    "costMicros": 76928947606,
+    "conversions": 2217.953155,
+    "conversionValue": 930127.295040318,
+    "ctr": 0.01759479300026338,
+    "averageCpc": 1195811.5340110676
   },
   "yoy30d": {
-    "clicks": 55851,
-    "impressions": 3138732,
-    "costMicros": 49402322677,
-    "conversions": 2311.186201,
-    "conversionValue": 988233.453649088,
-    "ctr": 0.01779412832952925,
-    "averageCpc": 884537.84
+    "clicks": 56015,
+    "impressions": 3100363,
+    "costMicros": 48542989256,
+    "conversions": 2300.323237,
+    "conversionValue": 976071.17101879,
+    "ctr": 0.018067239223278048,
+    "averageCpc": 866606.9669909845
   },
-  "lastUpdated": "2026-03-09T00:00:00.000Z"
+  "weightedIS30d": 0.3189,
+  "weightedISPrev30d": 0.3074,
+  "lastUpdated": "2026-03-10T09:00:00.000Z"
 }

@@ -1,45 +1,52 @@
 {
   "clientId": "ihg-sydney",
-  "clientName": "IHG — Sydney",
+  "clientName": "IHG \u2014 Sydney",
   "current7d": {
-    "clicks": 625,
-    "impressions": 5084,
-    "costMicros": 1330854059,
-    "conversions": 261.912609,
-    "ctr": 0.12293469708890638,
-    "averageCpc": 2129366.4944
+    "clicks": 611,
+    "impressions": 4952,
+    "costMicros": 1297817161,
+    "conversions": 263.912577,
+    "conversionValue": 263.912577,
+    "ctr": 0.123383481423262,
+    "averageCpc": 2124087.007364976
   },
   "prev7d": {
-    "clicks": 562,
-    "impressions": 5012,
-    "costMicros": 1303961359,
-    "conversions": 229.673105,
-    "ctr": 0.11213088587390263,
-    "averageCpc": 2320215.941281139
+    "clicks": 586,
+    "impressions": 5225,
+    "costMicros": 1317374651,
+    "conversions": 238.173025,
+    "conversionValue": 238.173025,
+    "ctr": 0.112153110047847,
+    "averageCpc": 2248506.229351536
   },
   "current30d": {
-    "clicks": 2682,
-    "impressions": 23329,
-    "costMicros": 5893988837,
-    "conversions": 1081.428816,
-    "ctr": 0.11496420763856145,
-    "averageCpc": 2197609.55891126
+    "clicks": 2662,
+    "impressions": 23280,
+    "costMicros": 5856098175,
+    "conversions": 1078.604946,
+    "conversionValue": 1078.604946,
+    "ctr": 0.114347079037801,
+    "averageCpc": 2200262.877907589
   },
   "prev30d": {
-    "clicks": 2135,
-    "impressions": 18404,
-    "costMicros": 3614796756,
-    "conversions": 886.600763,
-    "ctr": 0.11600738969789176,
-    "averageCpc": 1693113.2346604215
+    "clicks": 2153,
+    "impressions": 18510,
+    "costMicros": 3686775051,
+    "conversions": 882.424521,
+    "conversionValue": 882.424521,
+    "ctr": 0.116315505132360,
+    "averageCpc": 1712483.447514166
   },
   "yoy30d": {
-    "clicks": 5404,
-    "impressions": 30112,
-    "costMicros": 7088917198,
-    "conversions": 821.721236,
-    "ctr": 0.17946333687566418,
-    "averageCpc": 1311790.7472242783
+    "clicks": 5303,
+    "impressions": 29580,
+    "costMicros": 7011228312,
+    "conversions": 817.268373,
+    "conversionValue": 817.268373,
+    "ctr": 0.179242731575389,
+    "averageCpc": 1322268.319441826
   },
-  "lastUpdated": "2026-03-09T00:00:00.000Z"
+  "weightedIS30d": 0.1856,
+  "weightedISPrev30d": 0.1852,
+  "lastUpdated": "2026-03-10T06:00:00.000Z"
 }

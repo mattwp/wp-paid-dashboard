@@ -2,44 +2,51 @@
   "clientId": "husqvarna",
   "clientName": "Husqvarna",
   "current7d": {
-    "clicks": 1819,
-    "impressions": 291267,
-    "costMicros": 4644000225,
-    "conversions": 18,
-    "ctr": 0.006245129039678371,
-    "averageCpc": 2553051.250687191
+    "clicks": 1775,
+    "impressions": 272603,
+    "costMicros": 4518599192,
+    "conversions": 17,
+    "conversionValue": 0,
+    "ctr": 0.006510918316671,
+    "averageCpc": 2545408.5602816902
   },
   "prev7d": {
-    "clicks": 2138,
-    "impressions": 320727,
-    "costMicros": 5417444586,
+    "clicks": 2074,
+    "impressions": 318555,
+    "costMicros": 5248741181,
     "conversions": 21,
-    "ctr": 0.006666105441699639,
-    "averageCpc": 2533884.2778297476
+    "conversionValue": 99.5,
+    "ctr": 0.006509345700691,
+    "averageCpc": 2530491.167792672
   },
   "current30d": {
-    "clicks": 9385,
-    "impressions": 1606475,
-    "costMicros": 23037548534,
-    "conversions": 98.5,
-    "ctr": 0.005841983224139809,
-    "averageCpc": 2454720.1421417156
+    "clicks": 9310,
+    "impressions": 1591020,
+    "costMicros": 22760649867,
+    "conversions": 89.5,
+    "conversionValue": 1227.5,
+    "ctr": 0.005852236685124,
+    "averageCpc": 2444752.939527389
   },
   "prev30d": {
-    "clicks": 7556,
-    "impressions": 1241540,
-    "costMicros": 20018834481,
+    "clicks": 7495,
+    "impressions": 1250640,
+    "costMicros": 20067279376,
     "conversions": 194.60988,
-    "ctr": 0.006085989980185899,
-    "averageCpc": 2649395.77567496
+    "conversionValue": 33020.536029659,
+    "ctr": 0.005993108050576,
+    "averageCpc": 2677422.198265510
   },
   "yoy30d": {
     "clicks": 0,
     "impressions": 0,
     "costMicros": 0,
     "conversions": 0,
+    "conversionValue": 0,
     "ctr": 0,
     "averageCpc": 0
   },
-  "lastUpdated": "2026-03-09T00:00:00.000Z"
+  "weightedIS30d": 0.3908,
+  "weightedISPrev30d": 0.3263,
+  "lastUpdated": "2026-03-10T06:00:00.000Z"
 }

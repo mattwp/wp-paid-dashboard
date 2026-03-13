@@ -1,0 +1,65 @@
+{
+  "clientId": "sharkninja",
+  "clientName": "SharkNinja",
+  "current7d": {
+    "spend": 118929.02,
+    "impressions": 8044931,
+    "reach": 2048481,
+    "clicks": 184111,
+    "conversions": 7577,
+    "revenue": 693164.55,
+    "ctr": 0.022885,
+    "cpm": 14.78,
+    "cpc": 0.65,
+    "frequency": 3.93
+  },
+  "prev7d": {
+    "spend": 106703.04,
+    "impressions": 7151529,
+    "reach": 1944762,
+    "clicks": 163528,
+    "conversions": 4296,
+    "revenue": 713230.22,
+    "ctr": 0.022866,
+    "cpm": 14.92,
+    "cpc": 0.65,
+    "frequency": 3.68
+  },
+  "current30d": {
+    "spend": 473272.58,
+    "impressions": 31394894,
+    "reach": 5193252,
+    "clicks": 728892,
+    "conversions": 28299,
+    "revenue": 3342509.54,
+    "ctr": 0.023217,
+    "cpm": 15.07,
+    "cpc": 0.65,
+    "frequency": 6.05
+  },
+  "prev30d": {
+    "spend": 342597.26,
+    "impressions": 23106688,
+    "reach": 4290693,
+    "clicks": 667696,
+    "conversions": 16525,
+    "revenue": 2508981.24,
+    "ctr": 0.028896,
+    "cpm": 14.83,
+    "cpc": 0.51,
+    "frequency": 5.39
+  },
+  "yoy30d": {
+    "spend": 462215.75,
+    "impressions": 30389681,
+    "reach": 4835788,
+    "clicks": 759285,
+    "conversions": 26280,
+    "revenue": 2405542.0,
+    "ctr": 0.024985,
+    "cpm": 15.21,
+    "cpc": 0.61,
+    "frequency": 6.28
+  },
+  "lastUpdated": "2026-03-13T00:00:00.000Z"
+}

@@ -29,11 +29,15 @@ const FILTER_STYLES: Record<Filter, { active: React.CSSProperties; inactive: Rea
 export default function ClientsGrid({ clients, summaries }: Props) {
   const [search, setSearch] = useState('')
   const [filter, setFilter] = useState<Filter>('all')
+  const [leadFilter, setLeadFilter] = useState<string>('all')
+
+  const leads = Array.from(new Set(clients.map(c => c.lead).filter(Boolean) as string[])).sort()
 
   const filtered = clients.filter(c => {
     const matchesSearch = !search || c.name.toLowerCase().includes(search.toLowerCase())
     const matchesFilter = filter === 'all' || c.type === filter
-    return matchesSearch && matchesFilter
+    const matchesLead = leadFilter === 'all' || c.lead === leadFilter
+    return matchesSearch && matchesFilter && matchesLead
   })
 
   return (
@@ -89,6 +93,27 @@ export default function ClientsGrid({ clients, summaries }: Props) {
             )
           })}
         </div>
+        <select
+          value={leadFilter}
+          onChange={e => setLeadFilter(e.target.value)}
+          style={{
+            border: '1px solid var(--border)',
+            borderRadius: 'var(--r-md)',
+            padding: '7px 12px',
+            fontSize: '13px',
+            fontWeight: 600,
+            background: 'var(--bg-base)',
+            color: leadFilter === 'all' ? 'var(--text-secondary)' : 'var(--text-primary)',
+            cursor: 'pointer',
+            outline: 'none',
+            transition: 'border-color 0.15s',
+          }}
+        >
+          <option value="all">Account lead</option>
+          {leads.map(lead => (
+            <option key={lead} value={lead}>{lead}</option>
+          ))}
+        </select>
         <span style={{ fontSize: '13px', color: 'var(--text-muted)' }}>{filtered.length} client{filtered.length !== 1 ? 's' : ''}</span>
       </div>
 

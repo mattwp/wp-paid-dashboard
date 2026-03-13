@@ -1,0 +1,65 @@
+{
+  "clientId": "jmc-academy",
+  "clientName": "JMC Academy",
+  "current7d": {
+    "spend": 8113.21,
+    "impressions": 459853,
+    "reach": 151952,
+    "clicks": 4670,
+    "conversions": 79,
+    "revenue": 0,
+    "ctr": 1.02,
+    "cpm": 17.64,
+    "cpc": 1.74,
+    "frequency": 3.03
+  },
+  "prev7d": {
+    "spend": 8248.6,
+    "impressions": 497406,
+    "reach": 168002,
+    "clicks": 5446,
+    "conversions": 117,
+    "revenue": 0,
+    "ctr": 1.09,
+    "cpm": 16.58,
+    "cpc": 1.51,
+    "frequency": 2.96
+  },
+  "current30d": {
+    "spend": 36538.27,
+    "impressions": 2650650,
+    "reach": 794046,
+    "clicks": 29288,
+    "conversions": 456,
+    "revenue": 0,
+    "ctr": 1.1,
+    "cpm": 13.78,
+    "cpc": 1.25,
+    "frequency": 3.34
+  },
+  "prev30d": {
+    "spend": 63489.12,
+    "impressions": 6460591,
+    "reach": 1929169,
+    "clicks": 53993,
+    "conversions": 917,
+    "revenue": 0,
+    "ctr": 0.84,
+    "cpm": 9.83,
+    "cpc": 1.18,
+    "frequency": 3.35
+  },
+  "yoy30d": {
+    "spend": 4060.43,
+    "impressions": 328423,
+    "reach": 148391,
+    "clicks": 5230,
+    "conversions": 45,
+    "revenue": 0,
+    "ctr": 1.59,
+    "cpm": 12.36,
+    "cpc": 0.78,
+    "frequency": 2.21
+  },
+  "lastUpdated": "2026-03-13T00:00:00.000Z"
+}

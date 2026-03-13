@@ -2,49 +2,51 @@
   "clientId": "investment-markets",
   "clientName": "InvestmentMarkets",
   "current7d": {
-    "clicks": 862,
-    "impressions": 9453,
-    "costMicros": 1479407134,
-    "conversions": 243.9768,
+    "clicks": 867,
+    "impressions": 9799,
+    "costMicros": 1488894099,
+    "conversions": 229.49,
     "conversionValue": 5899.72,
-    "ctr": 0.09118798265101026,
-    "averageCpc": 1716249.5754060324
+    "ctr": 0.08848,
+    "averageCpc": 1717293
   },
   "prev7d": {
     "clicks": 1051,
-    "impressions": 10331,
-    "costMicros": 1595435134,
-    "conversions": 287.285716,
-    "conversionValue": 4115.285716,
-    "ctr": 0.10173264930790824,
-    "averageCpc": 1518016.302568982
+    "impressions": 10379,
+    "costMicros": 1543484614,
+    "conversions": 311.77,
+    "conversionValue": 4115.29,
+    "ctr": 0.10126,
+    "averageCpc": 1468587
   },
   "current30d": {
-    "clicks": 4476,
-    "impressions": 44579,
-    "costMicros": 6786034995,
-    "conversions": 1339.979247,
-    "conversionValue": 22071.6988,
-    "ctr": 0.10040602077211243,
-    "averageCpc": 1516519.284627346
+    "clicks": 4440,
+    "impressions": 44700,
+    "costMicros": 6748392803,
+    "conversions": 1308.98,
+    "conversionValue": 21242.70,
+    "ctr": 0.09933,
+    "averageCpc": 1519908
   },
   "prev30d": {
-    "clicks": 4594,
-    "impressions": 46044,
-    "costMicros": 6562298786,
-    "conversions": 1448.494634,
-    "conversionValue": 27221.775081,
-    "ctr": 0.09977412909391017,
-    "averageCpc": 1428449.8881149325
+    "clicks": 4626,
+    "impressions": 45773,
+    "costMicros": 6621970830,
+    "conversions": 1410.63,
+    "conversionValue": 27221.78,
+    "ctr": 0.10106,
+    "averageCpc": 1431416
   },
   "yoy30d": {
-    "clicks": 5199,
-    "impressions": 56571,
-    "costMicros": 7006724365,
-    "conversions": 1698.038784,
-    "conversionValue": 2804.038784,
-    "ctr": 0.09190221138038925,
-    "averageCpc": 1347706.1675322177
+    "clicks": 5120,
+    "impressions": 54949,
+    "costMicros": 7071340105,
+    "conversions": 1664.89,
+    "conversionValue": 2804.04,
+    "ctr": 0.09318,
+    "averageCpc": 1381121
   },
-  "lastUpdated": "2026-03-09T00:00:00.000Z"
+  "weightedIS30d": 0.1220,
+  "weightedISPrev30d": null,
+  "lastUpdated": "2026-03-10T00:00:00.000Z"
 }

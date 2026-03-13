@@ -4,6 +4,11 @@ export function formatCurrency(micros: number): string {
   return `$${dollars.toFixed(0)}`
 }
 
+export function formatDollars(dollars: number): string {
+  if (dollars >= 1000) return `$${(dollars / 1000).toFixed(1)}k`
+  return `$${dollars.toFixed(0)}`
+}
+
 export function formatCurrencyFull(micros: number): string {
   const dollars = micros / 1_000_000
   return new Intl.NumberFormat('en-AU', { style: 'currency', currency: 'AUD', maximumFractionDigits: 0 }).format(dollars)
@@ -41,6 +46,21 @@ export function deltaClass(delta: number | null, higherIsBetter = true): string 
   if (positive) return 'text-emerald-600'
   if (negative) return 'text-[#EA4648]'
   return 'text-[#888888]'
+}
+
+export function formatMetaSpend(dollars: number): string {
+  if (dollars >= 1000) return `$${(dollars / 1000).toFixed(1)}k`
+  return `$${dollars.toFixed(0)}`
+}
+
+export function formatRoas(roas: number | null): string {
+  if (roas === null || roas === 0) return '—'
+  return `${roas.toFixed(2)}x`
+}
+
+export function formatFrequency(freq: number | null): string {
+  if (freq === null || freq === 0) return '—'
+  return freq.toFixed(1)
 }
 
 export function timeAgo(isoString: string | null): string {

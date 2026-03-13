@@ -29,17 +29,33 @@ Run this file's instructions when asked to "refresh dashboard data" or via the l
    WHERE segments.date BETWEEN 'START' AND 'END'
    ```
 
-   **Campaign query** (run once per account, last 30 days):
+   **Campaign query — current 30d** (run once per account, current_30d date range):
    ```
    SELECT campaign.name, campaign.status,
      metrics.clicks, metrics.impressions, metrics.cost_micros,
-     metrics.conversions, metrics.ctr, metrics.average_cpc,
+     metrics.conversions, metrics.conversions_value, metrics.ctr, metrics.average_cpc,
      metrics.search_impression_share, metrics.search_top_impression_share,
      metrics.search_absolute_top_impression_share,
      metrics.search_budget_lost_impression_share,
      metrics.search_rank_lost_impression_share
    FROM campaign
-   WHERE segments.date DURING LAST_30_DAYS
+   WHERE segments.date BETWEEN 'current_30d_START' AND 'current_30d_END'
+     AND campaign.status != 'REMOVED'
+   ORDER BY metrics.cost_micros DESC
+   ```
+
+   **Campaign query — previous 30d** (run once per account, prev_30d date range):
+   Same query as above but with prev_30d date range. Used to compute `weightedISPrev30d`.
+   ```
+   SELECT campaign.name, campaign.status,
+     metrics.clicks, metrics.impressions, metrics.cost_micros,
+     metrics.conversions, metrics.conversions_value, metrics.ctr, metrics.average_cpc,
+     metrics.search_impression_share, metrics.search_top_impression_share,
+     metrics.search_absolute_top_impression_share,
+     metrics.search_budget_lost_impression_share,
+     metrics.search_rank_lost_impression_share
+   FROM campaign
+   WHERE segments.date BETWEEN 'prev_30d_START' AND 'prev_30d_END'
      AND campaign.status != 'REMOVED'
    ORDER BY metrics.cost_micros DESC
    ```
@@ -49,7 +65,7 @@ Run this file's instructions when asked to "refresh dashboard data" or via the l
    SELECT ad_group_criterion.keyword.text, ad_group_criterion.keyword.match_type,
      campaign.name, ad_group.name,
      metrics.clicks, metrics.impressions, metrics.cost_micros,
-     metrics.conversions, metrics.average_cpc, metrics.search_impression_share
+     metrics.conversions, metrics.conversions_value, metrics.average_cpc, metrics.search_impression_share
    FROM keyword_view
    WHERE segments.date DURING LAST_30_DAYS
      AND ad_group_criterion.status != 'REMOVED'
@@ -85,8 +101,8 @@ Run this file's instructions when asked to "refresh dashboard data" or via the l
    ```
 
 4. For each client, aggregate data across all accounts and write to:
-   - `data/[client-id]/summary.json` — PeriodMetrics for each of the 5 date ranges
-   - `data/[client-id]/campaigns.json` — array of CampaignRow objects
+   - `data/[client-id]/summary.json` — PeriodMetrics for each of the 5 date ranges, plus `weightedIS30d` and `weightedISPrev30d`
+   - `data/[client-id]/campaigns.json` — array of CampaignRow objects (from the current 30d campaign query only; the prev 30d campaign query is only used to compute `weightedISPrev30d`)
    - `data/[client-id]/keywords.json` — array of KeywordRow objects, sorted by costMicros desc, top 100 overall
    - `data/[client-id]/monthly.json` — array of MonthlyRow objects (one per calendar month, sorted asc)
    - `data/[client-id]/quality.json` — array of QualityRow objects (sorted by qualityScore asc, top 500)
@@ -107,6 +123,8 @@ Run this file's instructions when asked to "refresh dashboard data" or via the l
   "current30d": { "clicks": 0, "impressions": 0, "costMicros": 0, "conversions": 0, "conversionValue": 0, "ctr": 0, "averageCpc": 0 },
   "prev30d": { "clicks": 0, "impressions": 0, "costMicros": 0, "conversions": 0, "conversionValue": 0, "ctr": 0, "averageCpc": 0 },
   "yoy30d": { "clicks": 0, "impressions": 0, "costMicros": 0, "conversions": 0, "conversionValue": 0, "ctr": 0, "averageCpc": 0 },
+  "weightedIS30d": 0.45,
+  "weightedISPrev30d": 0.42,
   "lastUpdated": "2026-03-09T06:00:00.000Z"
 }
 ```
@@ -114,6 +132,8 @@ Run this file's instructions when asked to "refresh dashboard data" or via the l
 Note: `averageCpc` should be computed as `costMicros / clicks` (not the raw average_cpc from Google Ads, which doesn't aggregate correctly). If clicks = 0, set averageCpc = 0.
 
 Note: `conversionValue` is the raw dollar value from `metrics.conversions_value` (e.g., 15000.5 means $15,000.50). Used to compute ROAS = conversionValue / (costMicros / 1,000,000). For lead-gen clients this will typically be 0.
+
+Note: `weightedIS30d` and `weightedISPrev30d` are impression-weighted search IS values computed from campaign data. Formula: `sum(impressions * searchImpressionShare) / sum(impressions)` across all campaigns where searchImpressionShare is non-null and impressions > 0. Set to null if no campaigns have IS data. Computed from the current 30d and previous 30d campaign queries respectively.
 
 ### campaigns.json
 ```json
@@ -125,6 +145,7 @@ Note: `conversionValue` is the raw dollar value from `metrics.conversions_value`
     "impressions": 4567,
     "costMicros": 5000000,
     "conversions": 12.5,
+    "conversionValue": 1500.75,
     "ctr": 0.027,
     "averageCpc": 4065040,
     "searchImpressionShare": 0.45,
@@ -151,6 +172,7 @@ All IS values: null if empty string from API (paused/no data campaigns).
     "impressions": 410,
     "costMicros": 161718446,
     "conversions": 2,
+    "conversionValue": 350.00,
     "averageCpc": 3234369,
     "searchImpressionShare": 0.65
   }

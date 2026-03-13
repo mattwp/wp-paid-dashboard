@@ -2,44 +2,51 @@
   "clientId": "morrisons-law",
   "clientName": "Morrisons Law",
   "current7d": {
-    "clicks": 72,
-    "impressions": 964,
-    "costMicros": 1524137070,
+    "clicks": 63,
+    "impressions": 953,
+    "costMicros": 1441663329,
     "conversions": 9,
-    "ctr": 0.07468879668049792,
-    "averageCpc": 21168570.416666668
+    "conversionValue": 0,
+    "ctr": 0.06610703043022036,
+    "averageCpc": 22883544.904761903
   },
   "prev7d": {
-    "clicks": 85,
-    "impressions": 1173,
-    "costMicros": 1944300731,
+    "clicks": 87,
+    "impressions": 1127,
+    "costMicros": 1972778530,
     "conversions": 15,
-    "ctr": 0.07246376811594203,
-    "averageCpc": 22874126.247058824
+    "conversionValue": 0,
+    "ctr": 0.0771960958296362,
+    "averageCpc": 22675615.28735632
   },
   "current30d": {
-    "clicks": 333,
-    "impressions": 5067,
-    "costMicros": 7167866900,
-    "conversions": 56,
-    "ctr": 0.06571936056838366,
-    "averageCpc": 21525125.825825825
+    "clicks": 330,
+    "impressions": 5075,
+    "costMicros": 7178564701,
+    "conversions": 57,
+    "conversionValue": 1,
+    "ctr": 0.06502463054187192,
+    "averageCpc": 21753226.366666667
   },
   "prev30d": {
-    "clicks": 254,
-    "impressions": 4257,
-    "costMicros": 5377547710,
-    "conversions": 44.998241,
-    "ctr": 0.05966643175945502,
-    "averageCpc": 21171447.677165356
+    "clicks": 256,
+    "impressions": 4253,
+    "costMicros": 5438497963,
+    "conversions": 46.998241,
+    "conversionValue": 1,
+    "ctr": 0.06019280507876793,
+    "averageCpc": 21244132.66796875
   },
   "yoy30d": {
-    "clicks": 240,
-    "impressions": 4260,
-    "costMicros": 2931266304,
-    "conversions": 32,
-    "ctr": 0.056338028169014086,
-    "averageCpc": 12213609.6
+    "clicks": 237,
+    "impressions": 4336,
+    "costMicros": 2917010134,
+    "conversions": 31,
+    "conversionValue": 4,
+    "ctr": 0.05465867158671587,
+    "averageCpc": 12308059.637130802
   },
-  "lastUpdated": "2026-03-09T00:00:00.000Z"
+  "weightedIS30d": 0.5836,
+  "weightedISPrev30d": 0.5792,
+  "lastUpdated": "2026-03-10T00:00:00.000Z"
 }

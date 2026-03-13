@@ -2,40 +2,40 @@
   "clientId": "ninja-nz",
   "clientName": "Ninja NZ",
   "current7d": {
-    "clicks": 2678,
-    "impressions": 116362,
-    "costMicros": 1696054719,
-    "conversions": 54.76988,
-    "conversionValue": 7413.813211893,
-    "ctr": 0.023014386139805092,
-    "averageCpc": 633328.8719193428
+    "clicks": 2374,
+    "impressions": 97699,
+    "costMicros": 1570994556,
+    "conversions": 45.452008,
+    "conversionValue": 6141.205676341,
+    "ctr": 0.02429912281599607,
+    "averageCpc": 661750.0235888795
   },
   "prev7d": {
-    "clicks": 2802,
-    "impressions": 102628,
-    "costMicros": 1092116711,
-    "conversions": 69.087386,
-    "conversionValue": 9371.48022563,
-    "ctr": 0.027302490548388354,
-    "averageCpc": 389763.2801570307
+    "clicks": 2674,
+    "impressions": 100177,
+    "costMicros": 1050133629,
+    "conversions": 71.888614,
+    "conversionValue": 9852.503041979,
+    "ctr": 0.02669275382572846,
+    "averageCpc": 392720.13051608077
   },
   "current30d": {
-    "clicks": 22639,
-    "impressions": 1153542,
-    "costMicros": 17014558770,
-    "conversions": 320.836713,
-    "conversionValue": 49872.373054143,
-    "ctr": 0.01962563998536681,
-    "averageCpc": 751559.6435354919
+    "clicks": 21678,
+    "impressions": 1091216,
+    "costMicros": 16295866113,
+    "conversions": 313.760019,
+    "conversionValue": 48477.740604387,
+    "ctr": 0.019865911057022623,
+    "averageCpc": 751723.6882092444
   },
   "prev30d": {
-    "clicks": 31933,
-    "impressions": 1590678,
-    "costMicros": 20489801432,
-    "conversions": 293.23584,
-    "conversionValue": 48329.365478374,
-    "ctr": 0.020075087478421152,
-    "averageCpc": 641649.748911784
+    "clicks": 32255,
+    "impressions": 1620475,
+    "costMicros": 20984846198,
+    "conversions": 295.36169,
+    "conversionValue": 49082.357723837,
+    "ctr": 0.019904657584967372,
+    "averageCpc": 650592.0383816463
   },
   "yoy30d": {
     "clicks": 19589,
@@ -46,5 +46,7 @@
     "ctr": 0.02577360958158836,
     "averageCpc": 683147.3583133391
   },
-  "lastUpdated": "2026-03-09T00:00:00.000Z"
+  "weightedIS30d": 0.4414,
+  "weightedISPrev30d": 0.3417,
+  "lastUpdated": "2026-03-10T00:00:00.000Z"
 }

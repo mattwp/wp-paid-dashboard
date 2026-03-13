@@ -1,6 +1,4 @@
-{
-  "lastUpdated": "2026-03-09T00:00:00.000Z",
-  "keywords": [
+[
     {
       "keyword": "shark vacuum",
       "matchType": "EXACT",
@@ -1201,5 +1199,4 @@
       "averageCpc": 2198887,
       "searchImpressionShare": 0.43548387096774194
     }
-  ]
-}
+]

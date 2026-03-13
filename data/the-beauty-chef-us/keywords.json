@@ -1,0 +1,54 @@
+[
+  {
+    "keyword": "The Beauty Chef",
+    "matchType": "EXACT",
+    "campaign": "WP | USA | Search | Brand",
+    "adGroup": "Brand | Generic",
+    "clicks": 124,
+    "impressions": 437,
+    "costMicros": 191715877,
+    "conversions": 8,
+    "conversionValue": 1120.87,
+    "averageCpc": 1546096,
+    "searchImpressionShare": 0.9076
+  },
+  {
+    "keyword": "Beauty Chef",
+    "matchType": "EXACT",
+    "campaign": "WP | USA | Search | Brand",
+    "adGroup": "Brand | Generic",
+    "clicks": 92,
+    "impressions": 307,
+    "costMicros": 81755158,
+    "conversions": 11,
+    "conversionValue": 1906.25,
+    "averageCpc": 888643,
+    "searchImpressionShare": 0.6886
+  },
+  {
+    "keyword": "carla oates",
+    "matchType": "EXACT",
+    "campaign": "WP | USA | Search | Brand",
+    "adGroup": "Brand | Carla Oates",
+    "clicks": 8,
+    "impressions": 26,
+    "costMicros": 25906647,
+    "conversions": 0,
+    "conversionValue": 0,
+    "averageCpc": 3238331,
+    "searchImpressionShare": 0.619
+  },
+  {
+    "keyword": "beauty chef usa",
+    "matchType": "EXACT",
+    "campaign": "WP | USA | Search | Brand",
+    "adGroup": "Brand | Generic",
+    "clicks": 2,
+    "impressions": 6,
+    "costMicros": 670000,
+    "conversions": 1,
+    "conversionValue": 213.83,
+    "averageCpc": 335000,
+    "searchImpressionShare": 1.0
+  }
+]

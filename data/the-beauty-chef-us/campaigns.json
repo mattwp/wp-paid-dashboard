@@ -1,0 +1,50 @@
+[
+  {
+    "name": "WP | USA | PMax | Top Performers",
+    "status": "ENABLED",
+    "clicks": 844,
+    "impressions": 93887,
+    "costMicros": 2309799183,
+    "conversions": 27,
+    "conversionValue": 3519.93,
+    "ctr": 0.009,
+    "averageCpc": 2736729,
+    "searchImpressionShare": 0.1215,
+    "searchTopImpressionShare": null,
+    "searchAbsoluteTopImpressionShare": null,
+    "searchBudgetLostImpressionShare": 0.0315,
+    "searchRankLostImpressionShare": 0.847
+  },
+  {
+    "name": "WP | USA | Search | Brand",
+    "status": "ENABLED",
+    "clicks": 226,
+    "impressions": 778,
+    "costMicros": 300047682,
+    "conversions": 20,
+    "conversionValue": 3240.95,
+    "ctr": 0.2905,
+    "averageCpc": 1327645,
+    "searchImpressionShare": 0.7886,
+    "searchTopImpressionShare": 0.7793,
+    "searchAbsoluteTopImpressionShare": 0.7793,
+    "searchBudgetLostImpressionShare": 0.0038,
+    "searchRankLostImpressionShare": 0.2076
+  },
+  {
+    "name": "Collagen - Max Cpc",
+    "status": "ENABLED",
+    "clicks": 0,
+    "impressions": 0,
+    "costMicros": 0,
+    "conversions": 0,
+    "conversionValue": 0,
+    "ctr": 0,
+    "averageCpc": 0,
+    "searchImpressionShare": null,
+    "searchTopImpressionShare": null,
+    "searchAbsoluteTopImpressionShare": null,
+    "searchBudgetLostImpressionShare": null,
+    "searchRankLostImpressionShare": null
+  }
+]

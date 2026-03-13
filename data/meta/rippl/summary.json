@@ -1,0 +1,65 @@
+{
+  "clientId": "rippl",
+  "clientName": "Rippl",
+  "current7d": {
+    "spend": 1921.58,
+    "impressions": 65735,
+    "reach": 24595,
+    "clicks": 1742,
+    "conversions": 52,
+    "revenue": 1324.75,
+    "ctr": 2.65,
+    "cpm": 29.23,
+    "cpc": 1.1,
+    "frequency": 2.67
+  },
+  "prev7d": {
+    "spend": 2256.21,
+    "impressions": 78489,
+    "reach": 29676,
+    "clicks": 1781,
+    "conversions": 64,
+    "revenue": 1218.84,
+    "ctr": 2.2691,
+    "cpm": 28.75,
+    "cpc": 1.27,
+    "frequency": 2.64
+  },
+  "current30d": {
+    "spend": 8460.87,
+    "impressions": 287169,
+    "reach": 76692,
+    "clicks": 7244,
+    "conversions": 277,
+    "revenue": 12879.65,
+    "ctr": 2.5226,
+    "cpm": 29.46,
+    "cpc": 1.17,
+    "frequency": 3.74
+  },
+  "prev30d": {
+    "spend": 4838.19,
+    "impressions": 181756,
+    "reach": 69678,
+    "clicks": 6098,
+    "conversions": 122,
+    "revenue": 12857.56,
+    "ctr": 3.355,
+    "cpm": 26.62,
+    "cpc": 0.79,
+    "frequency": 2.61
+  },
+  "yoy30d": {
+    "spend": 795.56,
+    "impressions": 51057,
+    "reach": 33533,
+    "clicks": 1849,
+    "conversions": 20,
+    "revenue": 22.95,
+    "ctr": 3.6214,
+    "cpm": 15.58,
+    "cpc": 0.43,
+    "frequency": 1.52
+  },
+  "lastUpdated": "2026-03-13T00:00:00.000Z"
+}

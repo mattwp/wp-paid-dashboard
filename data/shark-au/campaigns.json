@@ -1,6 +1,4 @@
-{
-  "lastUpdated": "2026-03-09T00:00:00.000Z",
-  "campaigns": [
+[
     {
       "name": "shark_PF_GENERIC_GEN003_WARM_SHOPPING_ALWAYSON_PURCHASE_AUSTRALIA_AUS",
       "status": "ENABLED",
@@ -1156,5 +1154,4 @@
       "searchBudgetLostImpressionShare": null,
       "searchRankLostImpressionShare": null
     }
-  ]
-}
+]

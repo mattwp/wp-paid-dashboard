@@ -1,0 +1,52 @@
+{
+  "clientId": "maraboon-motor-inn",
+  "clientName": "Maraboon Motor Inn Emerald",
+  "current7d": {
+    "clicks": 91,
+    "impressions": 1308,
+    "costMicros": 226839066,
+    "conversions": 2,
+    "conversionValue": 487,
+    "ctr": 0.0696,
+    "averageCpc": 2492737
+  },
+  "prev7d": {
+    "clicks": 76,
+    "impressions": 1101,
+    "costMicros": 194832453,
+    "conversions": 4.5,
+    "conversionValue": 1539.5,
+    "ctr": 0.069,
+    "averageCpc": 2563585
+  },
+  "current30d": {
+    "clicks": 331,
+    "impressions": 4943,
+    "costMicros": 886160559,
+    "conversions": 10,
+    "conversionValue": 2769,
+    "ctr": 0.067,
+    "averageCpc": 2676012
+  },
+  "prev30d": {
+    "clicks": 294,
+    "impressions": 5759,
+    "costMicros": 877664592,
+    "conversions": 6,
+    "conversionValue": 7741,
+    "ctr": 0.0511,
+    "averageCpc": 2986614
+  },
+  "yoy30d": {
+    "clicks": 0,
+    "impressions": 0,
+    "costMicros": 0,
+    "conversions": 0,
+    "conversionValue": 0,
+    "ctr": 0,
+    "averageCpc": 0
+  },
+  "weightedIS30d": 0.8477,
+  "weightedISPrev30d": 0.5856,
+  "lastUpdated": "2026-03-12T10:00:00.000Z"
+}

@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Maraboon | Emerald | General",
+    "status": "ENABLED",
+    "clicks": 144,
+    "impressions": 3871,
+    "costMicros": 547572298,
+    "conversions": 4,
+    "conversionValue": 1551,
+    "ctr": 0.0372,
+    "averageCpc": 3802585,
+    "searchImpressionShare": 0.8591,
+    "searchTopImpressionShare": 0.8061,
+    "searchAbsoluteTopImpressionShare": 0.1609,
+    "searchBudgetLostImpressionShare": 0.0034,
+    "searchRankLostImpressionShare": 0.1375
+  },
+  {
+    "name": "Maraboon | Emerald | Brand",
+    "status": "ENABLED",
+    "clicks": 187,
+    "impressions": 1072,
+    "costMicros": 338588261,
+    "conversions": 6,
+    "conversionValue": 1218,
+    "ctr": 0.1744,
+    "averageCpc": 1810632,
+    "searchImpressionShare": 0.806,
+    "searchTopImpressionShare": 0.7025,
+    "searchAbsoluteTopImpressionShare": 0.4968,
+    "searchBudgetLostImpressionShare": 0.0194,
+    "searchRankLostImpressionShare": 0.1746
+  }
+]

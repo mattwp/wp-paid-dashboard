@@ -6,40 +6,47 @@
     "impressions": 0,
     "costMicros": 0,
     "conversions": 0,
-    "ctr": null,
-    "averageCpc": null
+    "conversionValue": 0,
+    "ctr": 0,
+    "averageCpc": 0
   },
   "prev7d": {
     "clicks": 0,
     "impressions": 0,
     "costMicros": 0,
     "conversions": 0,
-    "ctr": null,
-    "averageCpc": null
+    "conversionValue": 0,
+    "ctr": 0,
+    "averageCpc": 0
   },
   "current30d": {
     "clicks": 0,
     "impressions": 0,
     "costMicros": 0,
     "conversions": 0,
-    "ctr": null,
-    "averageCpc": null
+    "conversionValue": 0,
+    "ctr": 0,
+    "averageCpc": 0
   },
   "prev30d": {
     "clicks": 0,
     "impressions": 0,
     "costMicros": 0,
     "conversions": 0,
-    "ctr": null,
-    "averageCpc": null
+    "conversionValue": 0,
+    "ctr": 0,
+    "averageCpc": 0
   },
   "yoy30d": {
     "clicks": 0,
     "impressions": 0,
     "costMicros": 0,
     "conversions": 0,
-    "ctr": null,
-    "averageCpc": null
+    "conversionValue": 0,
+    "ctr": 0,
+    "averageCpc": 0
   },
-  "lastUpdated": "2026-03-09T00:00:00.000Z"
+  "weightedIS30d": null,
+  "weightedISPrev30d": null,
+  "lastUpdated": "2026-03-10T00:00:00.000Z"
 }
